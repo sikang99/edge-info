@@ -17,6 +17,7 @@
 ### Information
 - [NeRF](https://www.matthewtancik.com/nerf) - Representing Scenes as Neural Radiance Fields for View Synthesis
 - [Plenoxels](https://alexyu.net/plenoxels/) - Radiance Fields without Neural Networks
+- [Fourier PlenOctrees](https://aoliao12138.github.io/FPO/)
 
 
 ### Videos
