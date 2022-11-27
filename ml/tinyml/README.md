@@ -15,5 +15,6 @@
 
 
 ### Papers
+- 2021 [TinyML Platforms Benchmarking](https://arxiv.org/pdf/2112.01319.pdf) 😍
 - 2021 [TinyML for Ubiquitous Edge AI](https://arxiv.org/abs/2102.01255)
 
