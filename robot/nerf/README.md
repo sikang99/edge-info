@@ -16,6 +16,10 @@
 - [NeRF](https://www.matthewtancik.com/nerf) - Representing Scenes as Neural Radiance Fields for View Synthesis
 
 
+### Videos
+- [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://www.youtube.com/watch?v=JtBS4KBcKVc)
+
+
 ### Open Source
 - [AyoubKhammassi/UnrealMobileNeRF](https://github.com/AyoubKhammassi/UnrealMobileNeRF) - A plugin for importing and visualizing pre-trained MobileNeRF scenes in Unreal Engine.
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
