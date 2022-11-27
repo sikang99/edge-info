@@ -12,7 +12,8 @@
 
 
 ### Articles (Korean🇰🇷)
-- [NeRF: 2D 이미지를 3D로 바꿔준다고요?](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
+- 2022/11/11 [NeRF: 2D 이미지를 3D로 바꿔준다고요?](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
+- 2021/12/21 [NeRF : Neural Radiance Field(2)](https://animilux.github.io/research/2021/12/21/nerf2.html)
 
 
 ### Information
