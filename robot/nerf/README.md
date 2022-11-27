@@ -18,6 +18,7 @@
 
 ### Open Source
 - [AyoubKhammassi/UnrealMobileNeRF](https://github.com/AyoubKhammassi/UnrealMobileNeRF) - A plugin for importing and visualizing pre-trained MobileNeRF scenes in Unreal Engine.
+- [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 
 
 ### Papers
