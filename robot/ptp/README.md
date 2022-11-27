@@ -7,5 +7,6 @@
 
 
 ### Open Source
-
+- [malc0mn/ptp-ip](https://github.com/malc0mn/ptp-ip) - Golang implementation of the Picture Transfer Protocol over IP
+- [toxxin/go-ptp](https://github.com/toxxin/go-ptp) - IEEE1588v2 Precision Time Protocol implementation
 
