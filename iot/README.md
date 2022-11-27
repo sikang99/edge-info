@@ -1,6 +1,8 @@
 ## IoT: Internet of Things
 
-IoT = IT + OT
+- IoT = IT + OT
+- IoRT : Robotic Things
+- IoMT : Media Thins
 
 
 ### Articles
