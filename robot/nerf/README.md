@@ -20,6 +20,8 @@
 
 ### Information
 - [NeRF](https://www.matthewtancik.com/nerf) - Representing Scenes as Neural Radiance Fields for View Synthesis
+- [NeRF-Supervision](https://yenchenlin.me/nerf-supervision/) - Learning Dense Object Descriptors from Neural Radiance Fields
+- [Mega-NeRF](https://meganerf.cmusatyalab.org/)
 - [Plenoxels](https://alexyu.net/plenoxels/) - Radiance Fields without Neural Networks
 - [Fourier PlenOctrees](https://aoliao12138.github.io/FPO/)
 - [NeRF-Factory](https://kakaobrain.github.io/NeRF-Factory/) 
