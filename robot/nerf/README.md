@@ -13,6 +13,7 @@
 
 ### Articles (Korean🇰🇷)
 - 2022/11/11 [NeRF: 2D 이미지를 3D로 바꿔준다고요?](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
+- 2022/09/21 [카카오브레인, 고품질 메타버스 구현 기술 ‘NeRF-Factory 라이브러리’ 공개](https://wowtale.net/2022/09/21/46185/)
 - 2021/12/21 [NeRF : Neural Radiance Field(2)](https://animilux.github.io/research/2021/12/21/nerf2.html)
 
 
