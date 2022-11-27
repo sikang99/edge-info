@@ -21,6 +21,9 @@
 - [NeRF](https://www.matthewtancik.com/nerf) - Representing Scenes as Neural Radiance Fields for View Synthesis
 - [Plenoxels](https://alexyu.net/plenoxels/) - Radiance Fields without Neural Networks
 - [Fourier PlenOctrees](https://aoliao12138.github.io/FPO/)
+- [NeRF-Factory](https://kakaobrain.github.io/NeRF-Factory/) 
+- [NeRF (Neural Radiance Fields)](https://paperswithcode.com/dataset/nerf)
+- [nerfstudio](https://docs.nerf.studio/en/latest/)
 
 
 ### Videos
@@ -30,6 +33,7 @@
 ### Open Source
 - [AyoubKhammassi/UnrealMobileNeRF](https://github.com/AyoubKhammassi/UnrealMobileNeRF) - A plugin for importing and visualizing pre-trained MobileNeRF scenes in Unreal Engine.
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
+- [kakaobrain/NeRF-Factory](https://github.com/kakaobrain/NeRF-Factory) - An awesome PyTorch NeRF library
 
 
 ### Papers
