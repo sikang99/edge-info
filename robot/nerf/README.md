@@ -8,7 +8,7 @@
 - 2022/03/17 [Guide: Neural Radiance Field (NeRF)](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
 
 
-### Articles (Korean,🇰🇷)
+### Articles (Korean🇰🇷)
 - [NeRF: 2D 이미지를 3D로 바꿔준다고요?](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
 
 
