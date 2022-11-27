@@ -8,7 +8,7 @@
 
 ### Information 
 - [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/)
-
+- [EtherNet/IP Developer's Guide](https://www.odva.org/wp-content/uploads/2020/05/PUB00213R0_EtherNetIP_Developers_Guide.pdf)
 
 
 ### Open Source
