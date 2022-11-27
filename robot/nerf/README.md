@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/06/21 [NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/) ⭐
 - 2022/03/25 [NVIDIA Research Turns 2D Photos Into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
 	- *Instant NeRF* is a neural rendering model that learns a high-resolution 3D scene in seconds — and can render images of that scene in a few milliseconds
 - 2022/03/17 [Guide: Neural Radiance Field (NeRF)](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
@@ -27,5 +28,6 @@
 
 ### Papers
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
+- 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
 - 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934v2.pdf)
 
