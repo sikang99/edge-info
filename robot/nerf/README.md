@@ -1,4 +1,4 @@
-## NeRF : Neural Radiation Field
+## NeRF : Neural Radiation Fields
 
 
 
