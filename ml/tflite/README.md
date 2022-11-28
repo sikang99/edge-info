@@ -5,6 +5,7 @@
 - 2022/09/14 [Co-simulating ML with Springbok using Renode](https://opensource.googleblog.com/2022/09/co-simulating-ml-with-springbok-using-renode.html)
 - 2022/06/28 [“TensorFlow Lite for Microcontrollers (TFLM): Recent Developments,” a Presentation from BDTI and Google](https://www.edge-ai-vision.com/2022/06/tensorflow-lite-for-microcontrollers-tflm-recent-developments-a-presentation-from-bdti-and-google/)
 - 2022/05/10 [TensorFlow Lite Model Maker: Create Models for On-Device Machine Learning](https://learnopencv.com/tensorflow-lite-model-maker-create-models-for-on-device-machine-learning/)
+- 2022/05/03 [TensorFlow Lite: Model Optimization for On-Device Machine Learning](https://learnopencv.com/tensorflow-lite-model-optimization-for-on-device-machine-learning/)
 - 2022/04/24 [Get started with Tensorflow lite/micro by Sony Spresense](https://www.hackster.io/taroyoshino007/get-started-with-tensorflow-lite-micro-by-sony-spresense-e92bf1)
 - 2022/02/23 [Using the Picamera2 library with TensorFlow Lite](https://www.raspberrypi.com/news/using-the-picamera2-library-with-tensorflow-lite/)
 - 2022/01/02 [TFLite 와 TensorRT 간단 비교](https://wooono.tistory.com/407)
