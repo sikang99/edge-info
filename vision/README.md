@@ -21,5 +21,9 @@
 - 2022 [Event-Based Vision: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138762)
 
 
+### Papers (Super Resolution)
+- [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
+
+
 
 
