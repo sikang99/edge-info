@@ -3,6 +3,8 @@
 
 ### Articles
 - 2022/11/27 [7 Best AI Video Upscaling Software of 2023 (Free & Paid)](https://neilchasefilm.com/ai-video-upscaling/)
+- 2022/02/09 [AI is revolutionising video codecs. Here's an impressive demonstration how](https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how)
+
 
 
 ### Information
