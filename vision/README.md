@@ -31,6 +31,7 @@
 - 2022 [Real-time neural network based video super-resolution as a service](https://aaltodoc.aalto.fi/bitstream/handle/123456789/113633/master_Amezcua_Aragon_Luis_2022.pdf)
 - 2022 [RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution](https://paperswithcode.com/paper/rstt-real-time-spatial-temporal-transformer)
 - 2022 [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
+- 2022 [AIM 2022 Challenge on Super-Resolution of Compressed Image and Video: Dataset, Methods and Results](https://deepai.org/publication/aim-2022-challenge-on-super-resolution-of-compressed-image-and-video-dataset-methods-and-results)
 
 
 
