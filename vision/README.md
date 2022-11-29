@@ -22,7 +22,8 @@
 
 
 ### Papers (Super Resolution)
-- [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
+- 2022 [RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution](https://paperswithcode.com/paper/rstt-real-time-spatial-temporal-transformer)
+- 2022 [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
 
 
 
