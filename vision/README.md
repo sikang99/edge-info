@@ -11,6 +11,7 @@
 ### Information
 - [NVIDIA NGX Technology - AI for Visual Applications](https://developer.nvidia.com/rtx/ngx)
 - [NVIDIA Maxine](https://developer.nvidia.com/maxine)
+- [MSU Video Upscalers Benchmark 2022: Quality Enhancement](https://videoprocessing.ai/benchmarks/video-upscalers.html)
 
 
 ### Open Source
