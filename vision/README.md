@@ -6,9 +6,9 @@
 - 2022/02/09 [AI is revolutionising video codecs. Here's an impressive demonstration how](https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how)
 
 
-
 ### Information
 - [NVIDIA NGX Technology - AI for Visual Applications](https://developer.nvidia.com/rtx/ngx)
+- [NVIDIA Maxine](https://developer.nvidia.com/maxine)
 
 
 ### Open Source
