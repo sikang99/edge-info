@@ -13,6 +13,7 @@
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [HasnainRaz/Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN) - A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps
 - [Z-Dante/Magpie](https://github.com/Z-Dante/Magpie) - A real-time upscaling software that can upscale any application or game window. Forked from Blinue/Magpie, with the intention of maintaining Visual Novel specific presets.
+- [amanchadha/iSeeBetter](https://github.com/amanchadha/iSeeBetter) - iSeeBetter: Spatio-Temporal Video Super Resolution using Recurrent-Generative Back-Projection Networks
 
 
 ### Papers
