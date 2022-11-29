@@ -5,6 +5,10 @@
 - 2022/11/27 [7 Best AI Video Upscaling Software of 2023 (Free & Paid)](https://neilchasefilm.com/ai-video-upscaling/)
 
 
+### Information
+- [NVIDIA NGX Technology - AI for Visual Applications](https://developer.nvidia.com/rtx/ngx)
+
+
 ### Open Source
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [HasnainRaz/Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN) - A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps
