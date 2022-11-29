@@ -28,6 +28,7 @@
 
 
 ### Papers (Super Resolution)
+- 2022 [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
 - 2022 [Real-time neural network based video super-resolution as a service](https://aaltodoc.aalto.fi/bitstream/handle/123456789/113633/master_Amezcua_Aragon_Luis_2022.pdf)
 - 2022 [RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution](https://paperswithcode.com/paper/rstt-real-time-spatial-temporal-transformer)
 - 2022 [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
