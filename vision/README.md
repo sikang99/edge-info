@@ -3,6 +3,7 @@
 
 ### Articles
 - 2022/11/27 [7 Best AI Video Upscaling Software of 2023 (Free & Paid)](https://neilchasefilm.com/ai-video-upscaling/)
+- 2022/08/23 [Upscaling Images with Open-Source AI Tool Real-ESRGAN](https://80.lv/articles/upscaling-images-with-open-source-ai-tool-real-esrgan/)
 - 2022/06/20 [How to Upscale a Video from 1080P to 4K in 2022](https://marketbusinessnews.com/how-to-upscale-a-video-from-1080p-to-4k-in-2022/302300/)
 - 2022/02/09 [AI is revolutionising video codecs. Here's an impressive demonstration how](https://www.redsharknews.com/ai-is-revolutionising-video-codecs.-heres-an-impressive-demonstration-how)
 
