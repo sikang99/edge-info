@@ -12,6 +12,9 @@
 ### Information
 
 
+### Open Source
+- [tyler-hayes/Embedded-CL](https://github.com/tyler-hayes/Embedded-CL) - PyTorch code for our CoLLAs-2022 paper "Online Continual Learning for Embedded Devices"
+
 
 ### Papers
 - 2022 [Online Coninual Learning for Embedded Devices](https://arxiv.org/pdf/2203.10681.pdf)
