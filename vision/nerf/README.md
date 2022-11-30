@@ -28,6 +28,7 @@
 - [NeRF-Factory](https://kakaobrain.github.io/NeRF-Factory/) 
 - [NeRF (Neural Radiance Fields)](https://paperswithcode.com/dataset/nerf)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 
 
