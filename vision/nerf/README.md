@@ -42,7 +42,7 @@
 
 
 ### Papers
-- 2022 [](https://arxiv.org/pdf/2211.10440.pd)
+- 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pd)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
 - 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
 - 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934v2.pdf)
