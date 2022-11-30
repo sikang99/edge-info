@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022//11/29 [Meet ‘Magic3D’: An AI-Based Text-to-3D Content Creation Tool That Creates 3D Mesh Models With Unprecedented Quality](https://www.marktechpost.com/2022/11/29/meet-magic3d-an-ai-based-text-to-3d-content-creation-tool-that-creates-3d-mesh-models-with-unprecedented-quality/)
 - 2022/11/25 [How Neural Radiance Fields (NeRF) and Instant Neural Graphics Primitives work](https://theaisummer.com/nerf/)
 - 2022/09/30 [NeRF at NeurIPS 2022](https://markboss.me/post/nerf_at_neurips22/) ⭐
 - 2022/06/21 [NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/) ⭐
@@ -27,6 +28,7 @@
 - [NeRF-Factory](https://kakaobrain.github.io/NeRF-Factory/) 
 - [NeRF (Neural Radiance Fields)](https://paperswithcode.com/dataset/nerf)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 
 
 ### Videos
@@ -40,6 +42,7 @@
 
 
 ### Papers
+- 2022 [](https://arxiv.org/pdf/2211.10440.pd)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
 - 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
 - 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934v2.pdf)
