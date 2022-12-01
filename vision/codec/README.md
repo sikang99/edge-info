@@ -7,6 +7,7 @@
 - 2022/10/28 [Meet Meta AI’s EnCodec: A SOTA Real-Time Neural Model for High-Fidelity Audio Compression](https://medium.com/syncedreview/meet-meta-ais-encodec-a-sota-real-time-neural-model-for-high-fidelity-audio-compression-93668d13fde7)
 - 2022/09/30 [Lyra V2 - a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
 - 2021/08/12 [SoundStream: An End-to-End Neural Audio Codec](https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
+- 2019/09/19 [A Deep Learning Approach to Data Compression](https://bair.berkeley.edu/blog/2019/09/19/bit-swap/)
 
 
 ### Information
