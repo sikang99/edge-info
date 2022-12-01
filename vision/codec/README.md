@@ -21,3 +21,6 @@
 ### Papers
 - 2022 [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438.pdf)
 - 2022 [An Introduction to Neural Data Compression](https://arxiv.org/pdf/2202.06533.pdf)
+- 2022 [VCT: A Video Compression Transformer](https://paperswithcode.com/paper/vct-a-video-compression-transformer)
+
+
