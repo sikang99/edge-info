@@ -10,5 +10,5 @@
 
 
 ### Open Source
-
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 
