@@ -35,6 +35,7 @@
 - 2022 [RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution](https://paperswithcode.com/paper/rstt-real-time-spatial-temporal-transformer)
 - 2022 [Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report](https://arxiv.org/pdf/2211.05256.pdf)
 - 2022 [AIM 2022 Challenge on Super-Resolution of Compressed Image and Video: Dataset, Methods and Results](https://deepai.org/publication/aim-2022-challenge-on-super-resolution-of-compressed-image-and-video-dataset-methods-and-results)
+- 2022 [TeNC: Low Bit-Rate Speech Coding with VQ-VAE and GAN](https://dl.acm.org/doi/pdf/10.1145/3461615.3491114)
 
 
 
