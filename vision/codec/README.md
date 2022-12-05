@@ -8,6 +8,7 @@
 - 2022/09/30 [Lyra V2 - a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
 - 2021/11/25 [AI-Based Image Compression: The State of the Art](https://towardsdatascience.com/ai-based-image-compression-the-state-of-the-art-fb5aa6042bfa)
 - 2021/08/12 [SoundStream: An End-to-End Neural Audio Codec](https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
+- 2021/08/01 [AV2 Video Codec – Early Performance Evaluation of the Research](https://ottverse.com/av2-video-codec-evaluation/)
 - 2020/01/14 [How Deep Learning Solves Compression Challenges](https://heartbeat.comet.ml/how-deep-learning-solves-compression-challenges-2ea1ab3a3f5c)
 - 2019/09/19 [A Deep Learning Approach to Data Compression](https://bair.berkeley.edu/blog/2019/09/19/bit-swap/)
 
