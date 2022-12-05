@@ -23,10 +23,12 @@
 
 
 ### Papers
+- 2022 [Deep Learning Approaches for Video Compression: A Bibliometric Analysis](https://mdpi-res.com/d_attachment/BDCC/BDCC-06-00044/article_deploy/BDCC-06-00044-v2.pdf)
 - 2022 [An Introduction to Neural Data Compression](https://arxiv.org/abs/2202.06533)
 - 2022 [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438.pdf)
 - 2022 [An Introduction to Neural Data Compression](https://arxiv.org/pdf/2202.06533.pdf)
 - 2022 [VCT: A Video Compression Transformer](https://paperswithcode.com/paper/vct-a-video-compression-transformer)
 - 2022 [Survey on Deep Learning-Based Point Cloud Compression](https://www.frontiersin.org/articles/10.3389/frsip.2022.846972/full)
+- 2020 [JPEG-ACT: Accelerating Deep Learning via Transform-based Lossy Compression](https://people.ece.ubc.ca/aamodt/papers/evans.isca2020.pdf)
 
 
