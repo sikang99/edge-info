@@ -38,6 +38,8 @@
 
 
 ### Open Source
+- [AlgoHunt/StreamRF](https://github.com/AlgoHunt/StreamRF) - Official implementation of our NeurIPS paper "Streaming Radiance Fields for 3D Video Synthesis"
+- [algohunt/vqrf](https://github.com/algohunt/vqrf) - Official implementation of our arxiv paper "Compressing Volumetric Radiance Fields to 1 MB"
 - [AyoubKhammassi/UnrealMobileNeRF](https://github.com/AyoubKhammassi/UnrealMobileNeRF) - A plugin for importing and visualizing pre-trained MobileNeRF scenes in Unreal Engine.
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [kakaobrain/NeRF-Factory](https://github.com/kakaobrain/NeRF-Factory) - An awesome PyTorch NeRF library
