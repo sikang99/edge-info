@@ -47,6 +47,7 @@
 
 
 ### Papers
+- 2022 [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/)
 - 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pd)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
 - 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
