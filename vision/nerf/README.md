@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/12/05 [Latest Artificial Intelligence (AI) Paper From Alibaba Proposes VQRF, A Novel Compression Framework Designed For Volumetric Radiance Fields Like DVGO And Plenoxels](https://www.marktechpost.com/2022/12/05/latest-artificial-intelligence-ai-paper-from-alibaba-proposes-vqrf-a-novel-compression-framework-designed-for-volumetric-radiance-fields-like-dvgo-and-plenoxels/)
 - 2022//11/29 [Meet ‘Magic3D’: An AI-Based Text-to-3D Content Creation Tool That Creates 3D Mesh Models With Unprecedented Quality](https://www.marktechpost.com/2022/11/29/meet-magic3d-an-ai-based-text-to-3d-content-creation-tool-that-creates-3d-mesh-models-with-unprecedented-quality/)
 - 2022/11/25 [How Neural Radiance Fields (NeRF) and Instant Neural Graphics Primitives work](https://theaisummer.com/nerf/)
 - 2022/09/30 [NeRF at NeurIPS 2022](https://markboss.me/post/nerf_at_neurips22/) ⭐
