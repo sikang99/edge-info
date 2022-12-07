@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/12/06 [Playing with Lyra](https://www.meetecho.com/blog/playing-with-lyra/)
 - 2022/11/02 [Meta’s AI-powered audio codec promises 10x compression over MP3](https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/)
 - 2022/10//31 [What is Neural Compression?](https://metaphysic.ai/what-is-neural-compression/)
 - 2022/10/28 [Meet Meta AI’s EnCodec: A SOTA Real-Time Neural Model for High-Fidelity Audio Compression](https://medium.com/syncedreview/meet-meta-ais-encodec-a-sota-real-time-neural-model-for-high-fidelity-audio-compression-93668d13fde7)
@@ -22,6 +23,8 @@
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [googleblog for audio](https://www.googblogs.com/tag/audio/)
+- [Flash-Meeting/lyra-webrtc](https://github.com/Flash-Meeting/lyra-webrtc)
+- [neuvideo/lyra-js](https://github.com/neuvideo/lyra-js)
 
 
 ### Papers
