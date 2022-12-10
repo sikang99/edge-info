@@ -31,6 +31,8 @@
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+
 
 
 ### Videos
