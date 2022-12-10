@@ -35,6 +35,7 @@
 
 ### Videos
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://www.youtube.com/watch?v=JtBS4KBcKVc)
+- [Turn Photos into 3D Scenes in Milliseconds ! Instant NeRF Explained](https://www.youtube.com/watch?v=UHQZBQOVAIU)
 
 
 ### Open Source
