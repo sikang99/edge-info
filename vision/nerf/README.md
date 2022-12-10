@@ -37,6 +37,7 @@
 
 ### Videos
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://www.youtube.com/watch?v=JtBS4KBcKVc)
+- [NVIDIA Instant NeRF Installation Tutorial & NeRF Creation Tutorial](https://www.youtube.com/watch?v=8pfPUN8NyZE)
 - [Turn Photos into 3D Scenes in Milliseconds ! Instant NeRF Explained](https://www.youtube.com/watch?v=UHQZBQOVAIU)
 
 
