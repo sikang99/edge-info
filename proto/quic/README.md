@@ -10,6 +10,8 @@
 
 ### Information
 - [Media Over QUIC](https://fiestajetsam.github.io/draft-gruessing-moq-requirements/draft-gruessing-moq-requirements.html#name-video-conferencing-telephon) - Use Cases and Requirements for Media Transport Protocol Design
+- [SIP-over-QUIC: Session Initiation Protocol over QUIC Transport](https://www.ietf.org/id/draft-hurst-sip-quic-00.html)
+- [QuicR - Media Delivery Protocol over QUIC](https://www.ietf.org/id/draft-jennings-moq-quicr-arch-01.html)
 - [RFC 9000](https://datatracker.ietf.org/doc/rfc9000/) : QUIC: A UDP-Based Multiplexed and Secure Transport
 - [Technical Note Miracast® over QUIC](https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_Alliance_Technical_Note_Miracast_over_QUIC_v1.0.pdf)
 
@@ -21,6 +23,7 @@
 
 ### Open Source
 - [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
+- [mengelbart/rtp-over-quic](https://github.com/mengelbart/rtp-over-quic)
 
 
 ### Papers
