@@ -7,6 +7,7 @@
 
 ### Information
 - SpaceX [StarLink]()
+	- [wiki:Statlink](https://en.wikipedia.org/wiki/Starlink)
 - [OneWeb](https://oneweb.net/)
 - Amazon []() 
 
