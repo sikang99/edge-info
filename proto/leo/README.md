@@ -9,6 +9,7 @@
 - SpaceX [StarLink](https://www.starlink.com/)
 	- [wiki:Statlink](https://en.wikipedia.org/wiki/Starlink)
 - [OneWeb](https://oneweb.net/)
+	- [wiki:OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 - Amazon [Kuniper]() 
 	- [wiki:Kuniper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 
