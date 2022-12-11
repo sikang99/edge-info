@@ -10,3 +10,6 @@
 ### Slides
 - 2018 [Media over QUIC (or BYOT)](https://www.w3.org/2011/04/webrtc/wiki/images/6/69/Media_over_QUIC_At_WebRTC_TPAC_2018.pdf)
 
+
+### Papers
+- 2021 [Congestion Control for Real-time Media over QUIC](https://dl.acm.org/doi/pdf/10.1145/3488660.3493801)
