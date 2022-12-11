@@ -15,6 +15,7 @@
 
 
 ### Papers
+- 2022 [Exploring Proxying QUIC and HTTP/3 for Satellite Communication](https://arxiv.org/abs/2205.01554)
 - 2021 [Congestion Control for Real-time Media over QUIC](https://dl.acm.org/doi/pdf/10.1145/3488660.3493801)
 - 2018 [Quickly Starting Media Streams Using QUIC](http://streaming.university/QUIC/)
 
