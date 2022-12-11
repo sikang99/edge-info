@@ -16,3 +16,5 @@
 
 ### Papers
 - 2021 [Congestion Control for Real-time Media over QUIC](https://dl.acm.org/doi/pdf/10.1145/3488660.3493801)
+- 2018 [Quickly Starting Media Streams Using QUIC](http://streaming.university/QUIC/)
+
