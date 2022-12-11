@@ -14,6 +14,7 @@
 - [QuicR - Media Delivery Protocol over QUIC](https://www.ietf.org/id/draft-jennings-moq-quicr-arch-01.html)
 - [RFC 9000](https://datatracker.ietf.org/doc/rfc9000/) : QUIC: A UDP-Based Multiplexed and Secure Transport
 - [Technical Note Miracast® over QUIC](https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_Alliance_Technical_Note_Miracast_over_QUIC_v1.0.pdf)
+- [EPIQ 2021: 3rd Workshop on the Evolution, Performance and Interoperability of QUIC](https://epiq21.github.io/)
 
 
 ### Slides
