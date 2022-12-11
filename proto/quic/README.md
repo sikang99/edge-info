@@ -3,6 +3,9 @@
 
 ### Articles
 - 2022/12/13 [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
+- 2022/10/25 [A Comprehensive Guide To HTTP/3 And QUIC](https://www.debugbear.com/blog/http3-quic-protocol-guide)
+- 2022/06/20 [DNS-over-QUIC is now officially a proposed standard](https://adguard.com/en/blog/dns-over-quic-official-standard.html)
+
 
 
 ### Information
@@ -15,6 +18,9 @@
 - 2018 [Media over QUIC (or BYOT)](https://www.w3.org/2011/04/webrtc/wiki/images/6/69/Media_over_QUIC_At_WebRTC_TPAC_2018.pdf)
 - 2018 [Real-time Audio-Visual Media Transport over QUIC](https://conferences2.sigcomm.org/co-next/2018/slides/epiq-real-time_audio-visual_media_transport.pdf)
 
+
+### Open Source
+- [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
 
 
 ### Papers
