@@ -13,9 +13,7 @@
 	- [wiki:OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 - Amazon [Kuniper]() 
 	- [wiki:Kuniper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
-
-
-### Slides
+- [satellite-image-deep-learning](https://www.satellite-image-deep-learning.com/)
 
 
 
