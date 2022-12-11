@@ -1,6 +1,9 @@
 ## Protocols : QUIC
 
 
+### Articles
+- 2022/12/13 [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
+
 
 ### Information
 - [Media Over QUIC](https://fiestajetsam.github.io/draft-gruessing-moq-requirements/draft-gruessing-moq-requirements.html#name-video-conferencing-telephon) - Use Cases and Requirements for Media Transport Protocol Design
