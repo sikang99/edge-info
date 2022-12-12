@@ -5,7 +5,7 @@
 - 2022/12/13 [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
 - 2022/10/25 [A Comprehensive Guide To HTTP/3 And QUIC](https://www.debugbear.com/blog/http3-quic-protocol-guide)
 - 2022/06/20 [DNS-over-QUIC is now officially a proposed standard](https://adguard.com/en/blog/dns-over-quic-official-standard.html)
-
+- 2021/08/31 [The Algorithm Series: QUIC Ways to Stream](https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Algorithm-Series-QUIC-Ways-to-Stream-148688.aspx)
 
 
 ### Information
