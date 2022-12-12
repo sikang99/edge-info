@@ -9,6 +9,7 @@
 
 
 ### Open Source
+- [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) - A curated list of Tiny Object Detection papers and related resources
 - [theevildoof/TinyML_tutorial](https://github.com/theevildoof/TinyML_tutorial) - TinyML_Tutorial
 - [theevildoof/TinyML_OV7670](https://github.com/theevildoof/TinyML_OV7670) 
 
