@@ -35,6 +35,7 @@
 
 
 ### Papers
+- 2022 [Reinforcement Learning Based Multipath QUIC Scheduler for Multimedia Streaming](https://www.mdpi.com/1424-8220/22/17/6333/pdf)
 - 2022 [Optimizing multipath QUIC transmission over heterogeneous paths](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002894)
 - 2022 [A QoS-Based Fairness-Aware BBR Congestion Control Algorithm Using QUIC](https://www.hindawi.com/journals/wcmc/2022/7222030/)
 - 2022 [Reinforcement Learning Based Multipath QUIC Scheduler for Multimedia Streaming](https://www.mdpi.com/1424-8220/22/17/6333/pdf)
