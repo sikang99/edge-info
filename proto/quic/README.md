@@ -32,6 +32,7 @@
 
 
 ### Papers
+- 2022 [YouTube over Google's QUIC vs Internet Middleboxes: A Tug of War between Protocol Sustainability and Application QoE](https://arxiv.org/abs/2203.11977)
 - 2022 [Traditional vs. Modern Data Paths: A Comprehensive Survey](https://www.mdpi.com/2073-431X/11/9/132/pdf)
 - 2022 [Revisiting QUIC attacks: A comprehensive review on QUIC security and a hands-on study](https://assets.researchsquare.com/files/rs-1676730/v1_covered.pdf?c=1656697614)
 - 2022 [Exploring Proxying QUIC and HTTP/3 for Satellite Communication](https://arxiv.org/abs/2205.01554)
