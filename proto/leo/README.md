@@ -1,7 +1,8 @@
-## Communocation : LEO
+## Communocation : LEO Satellite
 
 
 ### Articles
+- 2022/11/01 [Best Satellite Internet Plans And Companies Of 2022](https://www.forbes.com/home-improvement/internet/best-satellite-internet/)
 - 2022/10/20 [Edge computing gives wings to low-Earth-orbit satellite communication](https://techxplore.com/news/2022-10-edge-wings-low-earth-orbit-satellite.html)
 	- edge-computing offloading and network-slicing techniques, KAIST, DGIST
 - 2022/09/09 [Private Chinese satellite internet firm GalaxySpace secures major new funding](https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/)
