@@ -31,9 +31,11 @@
 ### Open Source
 - [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
 - [mengelbart/rtp-over-quic](https://github.com/mengelbart/rtp-over-quic)
+- [aws/s2n-quic](https://github.com/aws/s2n-quic) 
 
 
 ### Papers
+- 2022 [Optimizing multipath QUIC transmission over heterogeneous paths](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002894)
 - 2022 [A QoS-Based Fairness-Aware BBR Congestion Control Algorithm Using QUIC](https://www.hindawi.com/journals/wcmc/2022/7222030/)
 - 2022 [Reinforcement Learning Based Multipath QUIC Scheduler for Multimedia Streaming](https://www.mdpi.com/1424-8220/22/17/6333/pdf)
 - 2022 [YouTube over Google's QUIC vs Internet Middleboxes: A Tug of War between Protocol Sustainability and Application QoE](https://arxiv.org/abs/2203.11977)
@@ -41,6 +43,7 @@
 - 2022 [Revisiting QUIC attacks: A comprehensive review on QUIC security and a hands-on study](https://assets.researchsquare.com/files/rs-1676730/v1_covered.pdf?c=1656697614)
 - 2022 [Exploring Proxying QUIC and HTTP/3 for Satellite Communication](https://arxiv.org/abs/2205.01554)
 - 2021 [Congestion Control for Real-time Media over QUIC](https://dl.acm.org/doi/pdf/10.1145/3488660.3493801)
+- 2021 [QUIC vs TCP: A Performance Evaluation over LTE with NS-3](https://www.scirp.org/pdf/cn_2021121509415835.pdf)
 - 2018 [Quickly Starting Media Streams Using QUIC](http://streaming.university/QUIC/)
 - 2018 [The QUIC Fix for Optimal Video Streaming](https://balakrishnanc.github.io/papers/palmer-epiq2018.pdf)
 
