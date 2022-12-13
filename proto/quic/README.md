@@ -14,6 +14,11 @@
 - 2021/08/31 [The Algorithm Series: QUIC Ways to Stream](https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Algorithm-Series-QUIC-Ways-to-Stream-148688.aspx)
 
 
+### Articles (Korean)
+- 2022/05/01 [QUIC (Quick UDP Internet Connection](http://blog.skby.net/quic-quick-udp-internet-connection/)
+
+
+
 ### Information
 - [Applicability of the QUIC Transport Protocol](https://quicwg.org/ops-drafts/draft-ietf-quic-applicability.html)
 - [Media Over QUIC](https://fiestajetsam.github.io/draft-gruessing-moq-requirements/draft-gruessing-moq-requirements.html#name-video-conferencing-telephon) - Use Cases and Requirements for Media Transport Protocol Design
@@ -24,6 +29,7 @@
 - [Technical Note Miracast® over QUIC](https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_Alliance_Technical_Note_Miracast_over_QUIC_v1.0.pdf)
 - [EPIQ 2021: 3rd Workshop on the Evolution, Performance and Interoperability of QUIC](https://epiq21.github.io/)
 - [Multipath QUIC](https://multipath-quic.org/)
+- [OpenSSL project roadmap](https://www.openssl.org/roadmap.html)
 
 
 ### Slides
