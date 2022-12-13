@@ -31,6 +31,7 @@
 
 
 ### Open Source
+- [qdeconinck/mp-quic](https://github.com/qdeconinck/mp-quic) - mp patch for quic-go
 - [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
 - [mengelbart/rtp-over-quic](https://github.com/mengelbart/rtp-over-quic)
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) 
