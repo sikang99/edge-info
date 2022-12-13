@@ -30,5 +30,5 @@
 
 
 ### Papers
-
+- 2022 [Reinforcement Learning Based Multipath QUIC Scheduler for Multimedia Streaming](https://pubmed.ncbi.nlm.nih.gov/36080792/)
 
