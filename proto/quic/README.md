@@ -20,7 +20,7 @@
 
 
 ### Information
-- [QUIC: A UDP-Based Multiplexed and Secure Transport](https://greenbytes.de/tech/webdav/draft-ietf-quic-transport-16.html)
+- [QUIC: A UDP-Based Multiplexed and Secure Transport](https://greenbytes.de/tech/webdav/draft-ietf-quic-transport-33.html)
 - [Applicability of the QUIC Transport Protocol](https://quicwg.org/ops-drafts/draft-ietf-quic-applicability.html)
 - [Media Over QUIC](https://fiestajetsam.github.io/draft-gruessing-moq-requirements/draft-gruessing-moq-requirements.html#name-video-conferencing-telephon) - Use Cases and Requirements for Media Transport Protocol Design
 - Tunnelling SRT over QUIC](https://haivision.github.io/srt-rfc/draft-sharabayko-srt-over-quic.html)
