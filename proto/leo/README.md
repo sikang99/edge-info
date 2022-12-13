@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/11/14 [Project Kuiper Review 2022: Launch date, specs, and what it means for you](https://www.satelliteinternet.com/providers/project-kuiper/)
 - 2022/11/01 [Best Satellite Internet Plans And Companies Of 2022](https://www.forbes.com/home-improvement/internet/best-satellite-internet/)
 - 2022/10/20 [Edge computing gives wings to low-Earth-orbit satellite communication](https://techxplore.com/news/2022-10-edge-wings-low-earth-orbit-satellite.html)
 	- edge-computing offloading and network-slicing techniques, KAIST, DGIST
