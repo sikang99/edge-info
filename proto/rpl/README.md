@@ -5,6 +5,7 @@
 
 
 ### Information
+- [wiki: RPL(IPv6 Routing Protocol for LLNs)](https://en.wikipedia.org/wiki/RPL_(IPv6_Routing_Protocol_for_LLNs))
 
 
 ### Slides
