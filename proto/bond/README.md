@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/11/03 [proposal: net: add support for MPTCP #56539](https://github.com/golang/go/issues/56539)
 - 2022/02/24 [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp) 😍
 
 
