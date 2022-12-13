@@ -31,6 +31,7 @@
 
 
 ### Open Source
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [qdeconinck/mp-quic](https://github.com/qdeconinck/mp-quic) - mp patch for quic-go
 - [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
 - [mengelbart/rtp-over-quic](https://github.com/mengelbart/rtp-over-quic)
