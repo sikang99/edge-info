@@ -1,4 +1,6 @@
 ## Protocols : MPTCP (MultiPath TCP)
+- Bonding
+- Teaming
 
 
 ### Articles
