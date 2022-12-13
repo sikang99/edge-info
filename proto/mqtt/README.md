@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/12/09 [MQTT Communication Optimization Practices for Internet of Vehicles Mobile Scenarios](https://www.emqx.com/en/blog/mqtt-communication-optimization-practices-for-iov)
 
 
 ### Information
