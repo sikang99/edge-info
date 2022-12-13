@@ -26,7 +26,7 @@
 - [benjojo/bondcat](https://github.com/benjojo/bondcat) - A netcat/ncat like tool that bonds multiple sockets together 🚀
 - [getlantern/multipath](https://github.com/getlantern/multipath) - Bond multiple connections for throughput and reliability. 🚀
 - [aclarembeau/go-mptcp-api](https://github.com/aclarembeau/go-mptcp-api) - Binding of the MPTCP socket api to go
-
+- [TalalMash/SmoothWAN](https://github.com/TalalMash/SmoothWAN)
 
 
 ### Papers
