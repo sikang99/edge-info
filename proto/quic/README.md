@@ -60,6 +60,7 @@
 - 2021 [Congestion Control for Real-time Media over QUIC](https://dl.acm.org/doi/pdf/10.1145/3488660.3493801)
 - 2021 [QUIC vs TCP: A Performance Evaluation over LTE with NS-3](https://www.scirp.org/pdf/cn_2021121509415835.pdf)
 - 2021 [Modified QUIC protocol with congestion control for improved network performance](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12154)
+- 2021 [Beyond QUIC v1: A First Look at Recent Transport Layer IETF Standardization Efforts](https://arxiv.org/abs/2102.07527)
 - 2018 [Quickly Starting Media Streams Using QUIC](http://streaming.university/QUIC/)
 - 2018 [The QUIC Fix for Optimal Video Streaming](https://balakrishnanc.github.io/papers/palmer-epiq2018.pdf)
 
