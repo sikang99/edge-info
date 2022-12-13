@@ -7,6 +7,7 @@
 - 2022/12/13 [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
 - 2022/10/25 [A Comprehensive Guide To HTTP/3 And QUIC](https://www.debugbear.com/blog/http3-quic-protocol-guide)
 - 2022/09/27 [Testing QUIC Against TCP for Streaming Video Delivery: An SVTA Proof-of-Concept](https://www.svta.org/2022/09/27/testing-quic-against-tcp-for-streaming-video-delivery-an-svta-proof-of-concept/)
+- 2022/07/08 [HTTP/3 and QUIC: Prepare your network for the most important transport change in decades](https://blogs.keysight.com/blogs/tech/nwvs.entry.html/2022/07/08/http_3_prepare_yournetworkforthemostimportan-rE5I.html)
 - 2022/06/20 [DNS-over-QUIC is now officially a proposed standard](https://adguard.com/en/blog/dns-over-quic-official-standard.html)
 - 2022/04/05 [QUIC: is it the game changer for Internet delivery?](https://www.compiralabs.com/post/quic-is-it-the-game-changer-for-internet-delivery)
 - 2022/02/24 [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp) 😍
