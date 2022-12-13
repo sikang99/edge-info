@@ -4,11 +4,15 @@
 ### Articles
 - 2022/11/03 [proposal: net: add support for MPTCP #56539](https://github.com/golang/go/issues/56539)
 - 2022/02/24 [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp) 😍
+- 2020/08/13 [Apple’s WWDC2020 Multipath TCP update](https://www.tessares.net/apples-mptcp-story-so-far/)
+- 2018/12/15 [Apple uses Multipath TCP](http://blog.multipath-tcp.org/blog/html/2018/12/15/apple_and_multipath_tcp.html)
 
 
 ### Information
+- [wiki: MPTCP](https://en.wikipedia.org/wiki/MPTCP)
 - [Multipath TCP for Linux](https://mptcp.dev/)
 - [Multipath QUIC](https://multipath-quic.org/)
+- [MPTCP in a nutshell](https://www.tessares.net/technology/mptcp/)
 
 
 ### Slides
