@@ -9,7 +9,7 @@
 - 2022/09/27 [Testing QUIC Against TCP for Streaming Video Delivery: An SVTA Proof-of-Concept](https://www.svta.org/2022/09/27/testing-quic-against-tcp-for-streaming-video-delivery-an-svta-proof-of-concept/)
 - 2022/06/20 [DNS-over-QUIC is now officially a proposed standard](https://adguard.com/en/blog/dns-over-quic-official-standard.html)
 - 2022/04/05 [QUIC: is it the game changer for Internet delivery?](https://www.compiralabs.com/post/quic-is-it-the-game-changer-for-internet-delivery)
-- 2022/02/24 [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp)
+- 2022/02/24 [Going multipath without Multipath TCP](https://blog.benjojo.co.uk/post/multipath-without-mptcp) 😍
 - 2021/08/31 [The Algorithm Series: QUIC Ways to Stream](https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Algorithm-Series-QUIC-Ways-to-Stream-148688.aspx)
 
 
@@ -34,7 +34,7 @@
 - [mengelbart/rtp-over-quic-draft](https://github.com/mengelbart/rtp-over-quic-draft)
 - [mengelbart/rtp-over-quic](https://github.com/mengelbart/rtp-over-quic)
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) 
-- [benjojo/bondcat](https://github.com/benjojo/bondcat) - A netcat/ncat like tool that bonds multiple sockets together
+- [benjojo/bondcat](https://github.com/benjojo/bondcat) - A netcat/ncat like tool that bonds multiple sockets together 🚀
 
 
 ### Papers
