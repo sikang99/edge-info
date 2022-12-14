@@ -36,7 +36,6 @@
 - 2022 [VCT: A Video Compression Transformer](https://paperswithcode.com/paper/vct-a-video-compression-transformer)
 - 2022 [Survey on Deep Learning-Based Point Cloud Compression](https://www.frontiersin.org/articles/10.3389/frsip.2022.846972/full)
 - 2021 [A study of Voice-over-Internet Protocol quality metrics](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050921X00208/1-s2.0-S1877050921023772/main.pdf)
-- 2020 [JPEG-ACT: Accelerating Deep Learning via Transform-based Lossy Compression](https://people.ece.ubc.ca/aamodt/papers/evans.isca2020.pdf)
 
 
 ### Commands

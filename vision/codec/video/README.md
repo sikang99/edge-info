@@ -15,6 +15,7 @@
 
 
 ### Papers
+- 2020 [JPEG-ACT: Accelerating Deep Learning via Transform-based Lossy Compression](https://people.ece.ubc.ca/aamodt/papers/evans.isca2020.pdf)
 
 
 ### Commands
