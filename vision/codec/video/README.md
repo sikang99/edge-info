@@ -16,6 +16,7 @@
 
 ### Open Source (Video)
 - [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1) - AV1 re-encoding using ffmpeg, svt-av1 & vmaf
+- [medooze/h264-frame-parser](https://github.com/medooze/h264-frame-parser) - H264 javascript parser
 
 
 ### Papers
