@@ -20,13 +20,19 @@
 - [Audio Super Resolution with Neural Networks](https://kuleshov.github.io/audio-super-res/)
 
 
-### Open Source
+### Open Source (Audio)
 - [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) - Audio super resolution using neural networks
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [googleblog for audio](https://www.googblogs.com/tag/audio/)
 - [Flash-Meeting/lyra-webrtc](https://github.com/Flash-Meeting/lyra-webrtc)
 - [neuvideo/lyra-js](https://github.com/neuvideo/lyra-js)
+
+
+### Open Source (Video)
+- [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1) - AV1 re-encoding using ffmpeg, svt-av1 & vmaf
+
+
 
 
 ### Papers
