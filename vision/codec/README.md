@@ -15,6 +15,8 @@
 
 
 ### Information
+- [wiki: Satin codec](https://en.wikipedia.org/wiki/Satin_(codec))
+- [wiki: Lyra codec](https://en.wikipedia.org/wiki/Lyra_(codec))
 - [Audio Super Resolution with Neural Networks](https://kuleshov.github.io/audio-super-res/)
 
 
