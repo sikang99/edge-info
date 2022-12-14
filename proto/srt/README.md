@@ -18,4 +18,4 @@
 - [ndujar/deep-srt](https://github.com/ndujar/deep-srt) - Deep learning applied to optimize srt protocol
 - [dantin/srt-server](https://github.com/dantin/srt-server) - A customized video server which support Hivision SRT protocol
 - [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid) - Secure Reliable Transport (SRT) Protocol for Android
-
+- [CzinkeM/android-srt-streaming-app](https://github.com/CzinkeM/android-srt-streaming-app) - Basic Android streaming app uses SRT protocol with the help of StreamPack library
