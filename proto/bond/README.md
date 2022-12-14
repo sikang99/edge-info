@@ -28,6 +28,7 @@
 - [getlantern/multipath](https://github.com/getlantern/multipath) - Bond multiple connections for throughput and reliability. 🚀
 - [aclarembeau/go-mptcp-api](https://github.com/aclarembeau/go-mptcp-api) - Binding of the MPTCP socket api to go
 - [TalalMash/SmoothWAN](https://github.com/TalalMash/SmoothWAN) - Internet bonding router with seamless failover using Speedify (RPi)
+- [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices
 
 
 ### Papers
