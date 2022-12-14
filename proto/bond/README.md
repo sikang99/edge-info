@@ -17,6 +17,7 @@
 - [Multipath TCP for Linux](https://mptcp.dev/)
 - [Multipath QUIC](https://multipath-quic.org/)
 - [MPTCP in a nutshell](https://www.tessares.net/technology/mptcp/)
+- [SRT Connection Bonding: Quick Start](https://github.com/Haivision/srt/blob/master/docs/features/bonding-quick-start.md)
 
 
 ### Slides
@@ -26,7 +27,7 @@
 - [benjojo/bondcat](https://github.com/benjojo/bondcat) - A netcat/ncat like tool that bonds multiple sockets together 🚀
 - [getlantern/multipath](https://github.com/getlantern/multipath) - Bond multiple connections for throughput and reliability. 🚀
 - [aclarembeau/go-mptcp-api](https://github.com/aclarembeau/go-mptcp-api) - Binding of the MPTCP socket api to go
-- [TalalMash/SmoothWAN](https://github.com/TalalMash/SmoothWAN) - Internet bonding router with seamless failover using Speedify
+- [TalalMash/SmoothWAN](https://github.com/TalalMash/SmoothWAN) - Internet bonding router with seamless failover using Speedify (RPi)
 
 
 ### Papers
