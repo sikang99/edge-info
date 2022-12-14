@@ -32,6 +32,8 @@
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions"
+
 
 
 
