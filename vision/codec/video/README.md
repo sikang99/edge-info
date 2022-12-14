@@ -10,6 +10,7 @@
 
 
 ### Information
+- [wiki: AV1](https://en.wikipedia.org/wiki/AV1)
 - [Git repositories on aomedia](https://aomedia.googlesource.com/?format=HTML)
 
 
