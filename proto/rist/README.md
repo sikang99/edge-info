@@ -10,3 +10,12 @@
 
 
 ### Open Source
+
+
+
+
+### Installation
+```
+brew install librist
+```
+
