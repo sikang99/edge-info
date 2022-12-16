@@ -28,6 +28,7 @@
 
 ### Papers
 - arxiv search for [LEO Satellite](https://arxiv.org/search/?query=LEO+Satellite&searchtype=all&source=header)
+- 2022 [From Earth to Space: A First Deployment of 5G Core Network on Satellite](https://arxiv.org/pdf/2210.05405.pdf)
 - 2022 [DNN Beamforming for LEO Satellite Communication at Sub-THz Bands](https://www.mdpi.com/2079-9292/11/23/3937/pdf)
 - 2022 [Position, Navigation, and Timing (PNT) Through Low Earth Orbit (LEO) Satellites: A Survey on Current Status, Challenges, and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9840374)
 - 2022 [On the Security of LEO Satellite Communication Systems: Vulnerabilities, Countermeasures, and Future Trends](https://arxiv.org/abs/2201.03063)
