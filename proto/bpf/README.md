@@ -8,7 +8,7 @@
 
 ### Information
 - [eBPF](https://ebpf.io/) 
-
+- [LoxiLB](https://www.loxilb.io/ko)
 
 ### Open Source (Go)
 - [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go. Powered by libbpf
@@ -17,3 +17,4 @@
 
 ### Open Source
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service type external load-balancer for K8s using eBPF as its core engine
