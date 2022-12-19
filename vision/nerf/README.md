@@ -36,7 +36,6 @@
 
 
 
-
 ### Videos
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://www.youtube.com/watch?v=JtBS4KBcKVc)
 - [NVIDIA Instant NeRF Installation Tutorial & NeRF Creation Tutorial](https://www.youtube.com/watch?v=8pfPUN8NyZE)
@@ -50,6 +49,7 @@
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [kakaobrain/NeRF-Factory](https://github.com/kakaobrain/NeRF-Factory) - An awesome PyTorch NeRF library
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
+- [danielegrattarola/GINR](https://github.com/danielegrattarola/GINR) - Code for "Generalised Implicit Neural Representations" (NeurIPS 2022)
 
 
 ### Papers
