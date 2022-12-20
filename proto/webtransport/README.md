@@ -11,6 +11,7 @@
 - [WebTransport](https://w3c.github.io/webtransport/), Editor’s Draft, 1 December 2022
 - [ The WebTransport Protocol Framework](https://datatracker.ietf.org/doc/draft-ietf-webtrans-overview/)
 - Chrome Platform Status: [Feature: WebTransport](https://chromestatus.com/feature/4854144902889472)
+- MDN: [WebTransport](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport)
 
 
 ### Open Source
