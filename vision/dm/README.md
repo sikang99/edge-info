@@ -1,4 +1,4 @@
-## Diffusion Models
+## Vision: Diffusion Models
 
 
 ### Articles
