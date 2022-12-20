@@ -24,5 +24,6 @@
 - 2022 [Reinforcement Learning-Empowered Mobile Edge Computing for 6G Edge Intelligence](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9797722)
 - 2021 [A Survey on Video Streaming in Multipath and Multihomed Overlay Networks](https://hal.inria.fr/hal-03508709/document) 😍
 	- IoMT : Internet of Multimedia Things, MPTCP, CDN, Cloud/Fog/Edge
+- 2021 [6G Internet of Things: A Comprehensive Survey](https://arxiv.org/pdf/2108.04973.pdf)
 
 
