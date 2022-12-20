@@ -6,7 +6,7 @@
 
 
 ### Information
-
+- [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 
 
 ### Open Source
