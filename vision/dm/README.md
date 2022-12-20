@@ -10,6 +10,7 @@
 
 
 ### Open Source
+- [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [zsyOAOA/DifFace](https://github.com/zsyOAOA/DifFace) - DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)
 
