@@ -32,6 +32,7 @@
 
 
 ### Papers
+- 2022 [Traditional vs. Modern Data Paths: A Comprehensive Survey](https://www.mdpi.com/2073-431X/11/9/132)
 - 2022 [Reinforcement Learning Based Multipath QUIC Scheduler for Multimedia Streaming](https://pubmed.ncbi.nlm.nih.gov/36080792/)
 - 2021 [A survey on video streaming in multipath and multihomed overlay networks](https://hal.inria.fr/hal-03508709/document) 😍
 - 2021 [A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks](http://staff.ustc.edu.cn/~kpxue/paper/TWC-yitaoxing-2021.11.pdf)
