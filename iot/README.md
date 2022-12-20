@@ -25,5 +25,5 @@
 - 2021 [A Survey on Video Streaming in Multipath and Multihomed Overlay Networks](https://hal.inria.fr/hal-03508709/document) 😍
 	- IoMT : Internet of Multimedia Things, MPTCP, CDN, Cloud/Fog/Edge
 - 2021 [6G Internet of Things: A Comprehensive Survey](https://arxiv.org/pdf/2108.04973.pdf)
-
+- 2021 [Enabling Massive IoT Toward 6G: A Comprehensive Survey](https://www.csit.carleton.ca/~fyu/Papers/IoT_6G.pdf)
 
