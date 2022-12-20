@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/10/05 [Use PlatformIO to Build Your tinyML Projects](https://www.edgeimpulse.com/blog/platformio)
 
 
 ### Information
