@@ -4,6 +4,7 @@
 
 ### Articles
 - 2022/12/15 [What is WebTransport and can it replace WebSockets?](https://ably.com/blog/can-webtransport-replace-websockets)
+- 2020/12/16 [Will WebTransport Replace WebRTC in Near Future?](https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484)
 
 
 ### Information
