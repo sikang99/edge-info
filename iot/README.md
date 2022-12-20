@@ -22,6 +22,6 @@
 - 2022 [Artificial intelligence Internet of Things: A new paradigm of distributed sensor networks](https://journals.sagepub.com/doi/pdf/10.1177/15501477211062835)
 - 2022 [Reinforcement Learning-Empowered Mobile Edge Computing for 6G Edge Intelligence](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9797722)
 - 2021 [A Survey on Video Streaming in Multipath and Multihomed Overlay Networks](https://hal.inria.fr/hal-03508709/document) 😍
-	- IoMT : Internet of Multimedia Things
+	- IoMT : Internet of Multimedia Things, MPTCP, CDN, Cloud/Fog/Edge
 
 
