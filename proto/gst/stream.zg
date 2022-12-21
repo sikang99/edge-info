@@ -1,0 +1,62 @@
+const gstreamer = @import("gstreamer");
+
+pub fn main() void {
+    // Initialize Gstreamer
+    gstreamer.init();
+
+    // Create pipeline and attach elements
+    var pipeline = gstreamer.Pipeline.init(null);
+    var source = gstreamer.ElementFactory.make("v4l2src", null);
+    var encoder = gstreamer.ElementFactory.make("x264enc", null);
+    var payloader = gstreamer.ElementFactory.make("rtph264pay", null);
+    var sink = gstreamer.ElementFactory.make("udpsink", null);
+
+    pipeline.addMany(source, encoder, payloader, sink);
+    source.link(encoder);
+    encoder.link(payloader);
+    payloader.link(sink);
+
+    // Set properties of elements
+    source.setProperty("device", "/dev/video0");
+    sink.setProperty("host", "127.0.0.1");
+    sink.setProperty("port", 5000);
+
+    // Set up audio stream
+    var encoder = gstreamer.ElementFactory.make("opusenc", null);
+    var payloader = gstreamer.ElementFactory.make("rtpopuspay", null);
+    var sink = gstreamer.ElementFactory.make("udpsink", null);
+
+    pipeline.addMany(encoder, payloader, sink);
+
+    // Link audio elements
+    var sinkPad = sink.getStaticPad("sink");
+    var payloaderPad = payloader.getStaticPad("src");
+    payloaderPad.link(sinkPad);
+
+    // Set audio sink properties
+    sink.setProperty("host", "127.0.0.1");
+    sink.setProperty("port", 5001);
+
+    // Set up caps filter to ensure compatibility with payloader
+    var caps = gstreamer.Caps.newSimple("audio/x-opus", null);
+    encoder.linkFiltered(payloader, caps);
+
+    // Start streaming
+    pipeline.setState(gstreamer.StatePlaying);
+
+    // Run main loop
+    while (true) {
+        var message = pipeline.getBus().timedPopFiltered(gstreamer.CLOCK_TIME_NONE,
+            gstreamer.MessageError | gstreamer.MessageEos);
+        switch (message.type) {
+            case gstreamer.MessageError:
+                var error, debug = message.parseError();
+                @std.debug.warn("Error: ", error.message, " (", debug, ")");
+                return;
+            case gstreamer.MessageEos:
+                return;
+        }
+        message.unref();
+    }
+}
+
