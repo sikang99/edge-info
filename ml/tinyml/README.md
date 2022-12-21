@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/12/01 [Developing Neuromorphic Devices for TinyML](https://www.electronicdesign.com/industrial-automation/article/21255573/renesas-electronics-developing-neuromorphic-devices-for-tinyml)
 - 2020/10/05 [Use PlatformIO to Build Your tinyML Projects](https://www.edgeimpulse.com/blog/platformio)
 
 
