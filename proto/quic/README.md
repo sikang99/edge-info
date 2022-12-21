@@ -46,6 +46,7 @@
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) 
 - [benjojo/bondcat](https://github.com/benjojo/bondcat) - A netcat/ncat like tool that bonds multiple sockets together 🚀
 - [aclarembeau/go-mptcp-api](https://github.com/aclarembeau/go-mptcp-api) - Binding of the MPTCP socket api to go
+- [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 
 
 ### Papers
