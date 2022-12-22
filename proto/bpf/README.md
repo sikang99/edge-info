@@ -14,6 +14,7 @@
 - [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go. Powered by libbpf
 - [iovisor/gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+- [akrennmair/gopcap](https://github.com/akrennmair/gopcap) - A simple wrapper around libpcap for the Go programming language
 
 
 ### Open Source
