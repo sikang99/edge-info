@@ -17,6 +17,7 @@
 
 
 ### Papers
+- 2022 [Interaction matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots](https://dl.acm.org/doi/pdf/10.1145/3564625.3564645)
 - 2022 [**Artificial Intelligence Applications and Self-Learning 6G Networks for Smart Cities Digital Ecosystems: Taxonomy, Challenges, and Future Directions**](https://www.mdpi.com/1424-8220/22/15/5750) 😍
 - 2022 [Online Coninual Learning for Embedded Devices](https://arxiv.org/pdf/2203.10681.pdf)
 - 2022 [**Internet of Robotic Things Intelligent Connectivity and Platforms**](https://www.frontiersin.org/articles/10.3389/frobt.2020.00104/full) 😍
