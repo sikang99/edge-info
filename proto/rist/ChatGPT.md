@@ -1,4 +1,4 @@
-## RIST
+## RIST Information by [ChatGPT](https://chat.openai.com/chat)
 ### Overview
 The Rist protocol is a network protocol designed for transmitting video and audio over the Internet. It is typically used in IPTV (Internet Protocol Television) systems to deliver live and on-demand content to TVs, computers, and other devices.
 
