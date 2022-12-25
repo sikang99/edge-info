@@ -47,6 +47,21 @@ The RIST protocol uses a combination of reliable and unreliable transmission met
 
 Overall, the RIST protocol is designed to provide a high-quality, low-latency video transport solution for professional video production environments.
 
+The RIST (Reliable Internet Stream Transport) protocol is a standard for low-latency video transport over the internet. It is designed to provide reliable, high-quality video transport over the internet and is used in applications such as remote production, contribution, and distribution.
+
+The packet format for RIST is based on the User Datagram Protocol (UDP) and is designed to provide low-latency, low-jitter, and high-throughput video transport. RIST packets have a fixed header size and a variable payload size, depending on the type of data being transmitted.
+
+Here is an overview of the RIST packet format:
+
+- Header: The header is a fixed size and includes information such as the packet type, sequence number, and timestamp.
+- Payload: The payload is variable in size and contains the actual video data or other information such as metadata or error correction data.
+- Error correction: RIST supports forward error correction (FEC) to improve the reliability of the video transport. FEC data is included in the payload and is used to recover lost or corrupted data.
+
+RIST packets are typically transmitted over the internet using the UDP protocol, which allows for low-latency, real-time video transport. However, RIST also supports other transport protocols such as TCP, which can be useful in certain situations where the reliability of the transport is more important than the latency.
+
+
+
+
 ### RIST vs SRT
 This example connects to a Rist server at the specified address, sends a request to receive a stream called "mystream", and then reads and prints the response from the server. You can then use functions like conn.ReadPacket() and conn.WritePacket() to send and receive data over the connection.
 
