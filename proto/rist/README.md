@@ -20,6 +20,11 @@
 	- [rist/ristgo](https://code.videolan.org/rist/ristgo) - WIP golang bindings for libRIST
 
 
+### Papers
+- 2022 [5G S-NPN(Standalone Non-Public Network) for Professional Media Production](https://www.ibc.org/download?ac=21835)
+	- Multi-Camera, RTP, IEEE-1588 PTP
+	- RIST, SRT
+
 
 ### Installation
 ```
