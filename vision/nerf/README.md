@@ -34,6 +34,7 @@
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
 - [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions"
 - [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://cassiepython.github.io/nerfart/)
+- [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://palettenerf.github.io/)
 
 
 ### Videos
