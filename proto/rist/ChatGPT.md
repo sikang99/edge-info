@@ -59,6 +59,15 @@ Here is an overview of the RIST packet format:
 
 RIST packets are typically transmitted over the internet using the UDP protocol, which allows for low-latency, real-time video transport. However, RIST also supports other transport protocols such as TCP, which can be useful in certain situations where the reliability of the transport is more important than the latency.
 
+The RIST protocol uses a packet-based transport mechanism to deliver video and other media data over the internet. Each packet in the RIST protocol contains a number of fields that are used to transmit various types of information. The exact format of the RIST packet depends on the specific version of the protocol being used, but in general, the packet format includes the following fields:
+
+- Packet type: This field indicates the type of packet being transmitted, such as a data packet or a control packet.
+- Sequence number: This field is used to identify the packet in the sequence of packets being transmitted.
+- Timestamp: This field is used to synchronize the video stream with the audio stream and to ensure that the video and audio are played back at the correct rate.
+- Payload: This field contains the actual video or audio data being transmitted.
+- Error correction data: This field is used to protect the packet against errors that may occur during transmission.
+
+Optional fields: Depending on the version of the RIST protocol being used, the packet may also include additional optional fields such as header extension fields, payload header fields, and payload header extension fields.
 
 
 
