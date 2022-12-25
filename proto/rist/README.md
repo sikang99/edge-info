@@ -13,7 +13,8 @@
 
 ### Open Source
 - [kuritayu/golang-rist](https://github.com/kuritayu/golang-rist) - not available
-- [org/rist/ristgo](https://code.videolan.org/rist/ristgo) - WIP golang bindings for libRIST
+- [code.videolang.org/rist](https://code.videolan.org/rist)
+	- [rist/ristgo](https://code.videolan.org/rist/ristgo) - WIP golang bindings for libRIST
 
 
 
