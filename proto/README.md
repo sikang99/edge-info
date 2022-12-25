@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/11/08 [RTMP Alternatives 2022](https://www.wowza.com/blog/rtmp-alternatives-2022)
 - 2021/12/08 [Video Streaming Protocols: Everything You Need to Know](https://castr.io/blog/video-streaming-protocols-everything-you-need-to-know/)
 
 
