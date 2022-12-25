@@ -1,4 +1,5 @@
 ## RIST
+### Overview
 The Rist protocol is a network protocol designed for transmitting video and audio over the Internet. It is typically used in IPTV (Internet Protocol Television) systems to deliver live and on-demand content to TVs, computers, and other devices.
 
 In the context of the Go programming language, you might use the Rist protocol to implement a server or client that sends or receives video and audio streams over the Internet. There are a few libraries and packages available for working with the Rist protocol in Go, such as golang-rist, go-rist, and go-rist-client. These libraries provide functions and types for establishing and maintaining Rist connections, as well as for sending and receiving data over those connections.
@@ -36,6 +37,15 @@ func main() {
 	fmt.Println(response)
 }
 ```
+
+### RIST Format
+The RIST (Reliable Internet Stream Transport) protocol is a low-latency video transport protocol that is designed to transmit high-quality video over the internet. It is optimized for use in professional video production environments, where low latency and high reliability are important.
+
+The RIST protocol uses a packet-based format to transmit video data over the internet. Each packet contains a fixed number of video data bytes, as well as a header that contains information about the packet. The header includes fields for the packet sequence number, the packet length, and other metadata.
+
+The RIST protocol uses a combination of reliable and unreliable transmission methods to ensure the highest possible quality of service. It employs a sliding window protocol to transmit packets and to retransmit lost packets, and it uses forward error correction (FEC) to reduce the number of lost packets.
+
+Overall, the RIST protocol is designed to provide a high-quality, low-latency video transport solution for professional video production environments.
 
 ### RIST vs SRT
 This example connects to a Rist server at the specified address, sends a request to receive a stream called "mystream", and then reads and prints the response from the server. You can then use functions like conn.ReadPacket() and conn.WritePacket() to send and receive data over the connection.
