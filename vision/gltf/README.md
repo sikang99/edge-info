@@ -1,12 +1,13 @@
 ## Visions: glTF
 
 
-
 ### Information
 - [glTF/](https://kcoley.github.io/glTF/)
 
 
 ### Open Source
-- [qmuntal/draco-go](https://github.com/qmuntal/draco-go)
+- [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) – Runtime 3D Asset Delivery
 - [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models)
+- [qmuntal/draco-go](https://github.com/qmuntal/draco-go)
+- [juunini/gltf-optimizer](https://github.com/juunini/gltf-optimizer) 
 
