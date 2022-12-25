@@ -1,6 +1,4 @@
-github.com/go-test/deep v1.0.1 h1:UQhStjbkDClarlmv0am7OXXO4/GaPdCGiUiMTvi28sg=
-github.com/go-test/deep v1.0.1/go.mod h1:wGDj63lr65AM2AQyKZd/NYHGb0R+1RLqB8NKt3aSFNA=
-github.com/qmuntal/draco-go v0.5.0 h1:ymCQOA925iUj9FfSUEgm30Ajnwt95PWC8wrBlvl0fBQ=
-github.com/qmuntal/draco-go v0.5.0/go.mod h1:TwrF6mH8K+vN3qK/s4yqi38xOOWNOQllGxbE65N5/KU=
-github.com/qmuntal/gltf v0.23.1 h1:R8vkbJXmARbD/oI+Yn3252I2qDQ8mljsc88BJJEdYMY=
-github.com/qmuntal/gltf v0.23.1/go.mod h1:7FR0CRHoOehIgKTBVq/QVyvPn0i6tzp2AdIghb2bPg4=
+github.com/hybridgroup/mjpeg v0.0.0-20140228234708-4680f319790e/go.mod h1:eagM805MRKrioHYuU7iKLUyFPVKqVV6um5DAvCkUtXs=
+github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
+gocv.io/x/gocv v0.31.0 h1:BHDtK8v+YPvoSPQTTiZB2fM/7BLg6511JqkruY2z6LQ=
+gocv.io/x/gocv v0.31.0/go.mod h1:oc6FvfYqfBp99p+yOEzs9tbYF9gOrAQSeL/dyIPefJU=

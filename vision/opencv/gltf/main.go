@@ -1,52 +1,27 @@
 package main
 
-// #cgo pkg-config: draco
-import "C"
-
 import (
 	"fmt"
-	"os"
-
-	"github.com/qmuntal/gltf"
-	"github.com/qmuntal/draco-go/draco"
+	"gocv.io/x/gocv"
 )
 
 func main() {
-	// Open the input file.
-	f, err := os.Open("model.gltf")
+	// Load the GLTF model
+	model, err := gocv.IMRead3D("model.gltf")
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
-	defer f.Close()
+	defer model.Close()
 
-	// Decode the GLTF file.
-	gltf, err := gltf.Decode(f)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
+	// Display the model
+	window := gocv.NewWindow("Model")
+	defer window.Close()
 
-	// Load the Draco extension.
-	err = draco.Load()
-	if err != nil {
-		fmt.Println(err)
-		return
+	for {
+		window.IMShow(model)
+		if window.WaitKey(1) >= 0 {
+			break
+		}
 	}
-
-	// Find the first mesh in the GLTF file.
-	var mesh *gltf.Mesh
-	for _, m := range gltf.Meshes {
-		mesh = m
-		break
-	}
-	if mesh == nil {
-		fmt.Println("No meshes found")
-		return
-	}
-
-	// Print some information about the mesh.
-	fmt.Printf("Number of vertices: %d\n", mesh.NumVertices())
-	fmt.Printf("Number of faces: %d\n", mesh.NumFaces())
 }
-
