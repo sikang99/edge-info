@@ -12,6 +12,7 @@
 - [Draco](https://google.github.io/draco/) - 3D Data Compression
 - [PlayCanvas Viewer](https://playcanvas.com/viewer)
 - [FBX, glTF, GLB 3D Viewer](https://overbits.herokuapp.com/fbxgltf/)
+- MSU: [3D-video processing and analysis by MSU Video Group](https://www.compression.ru/video/3d_video.htm)
 
 
 ### Open Source
