@@ -30,6 +30,7 @@
 
 
 ### Papers
+- 2022 [Survey on Deep Learning-based Point Cloud Compression](https://hal.archives-ouvertes.fr/hal-03579360/document)
 - 2022 [High-fidelity 3D Model Compression based on Key Spheres](https://arxiv.org/abs/2201.07486)
 - 2022 [3D point cloud compression](https://theses.hal.science/tel-03524521/document)
 
