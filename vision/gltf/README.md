@@ -1,5 +1,8 @@
 ## Visions: glTF
 
+### Articles
+- 2017/05/01 [Showdown! 3D Model Compression at Scale: Draco vs. Open3DGC](https://medium.com/box-developer-blog/showdown-3d-model-compression-at-scale-draco-vs-open3dgc-c9618b7d64d8)
+
 
 ### Information
 - [glTF/](https://kcoley.github.io/glTF/)
