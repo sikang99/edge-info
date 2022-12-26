@@ -14,6 +14,7 @@
 
 
 ### Open Source
+- [tovacinni/awesome-3d-compression](https://github.com/tovacinni/awesome-3d-compression) - Papers and such on 3D data compression and streaming
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) – Runtime 3D Asset Delivery
 - [KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 - [playcanvas/playcanvas-gltf](https://github.com/playcanvas/playcanvas-gltf) - glTF 2.0 support for the PlayCanvas Engine
