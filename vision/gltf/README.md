@@ -23,7 +23,7 @@
 - [CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets.
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [juunini/gltf-optimizer](https://github.com/juunini/gltf-optimizer) 
-- [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
+- [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer 🔥
 
 
 ### Open Source (Draco, go)
