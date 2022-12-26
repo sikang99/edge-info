@@ -5,7 +5,7 @@
 - [glTF/](https://kcoley.github.io/glTF/)
 - [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [glTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/)
-- [Draco 3D](https://google.github.io/draco/) 
+- [Draco](https://google.github.io/draco/) - 3D Data Compression
 - [PlayCanvas Viewer](https://playcanvas.com/viewer)
 - [FBX, glTF, GLB 3D Viewer](https://overbits.herokuapp.com/fbxgltf/)
 
