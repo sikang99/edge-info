@@ -25,3 +25,8 @@
 
 ### Open Source (Draco, go)
 - [qmuntal/draco-go](https://github.com/qmuntal/draco-go)
+
+
+### Papers
+- 2022 [3D point cloud compression](https://theses.hal.science/tel-03524521/document)
+
