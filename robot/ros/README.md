@@ -6,15 +6,16 @@
 - 2022/05/24 [FogROS brings robotic cloud computing to the Robot Operating System](https://techcrunch.com/2022/05/23/fogros-brings-robotic-cloud-computing-to-the-robot-operating-system/)
 
 
-
-
 ### Information
 - [Hardware Acceleration in Robotics News](https://news.accelerationrobotics.com/)
-
 
 
 ### Open Source
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package, Unity + YOLOX-ROS Demo
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
+
+
+### Papers
+- [FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2](https://openreview.net/forum?id=T3fPp_6dLWp)
 
 
