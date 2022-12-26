@@ -8,6 +8,7 @@
 
 ### Information
 - [Hardware Acceleration in Robotics News](https://news.accelerationrobotics.com/)
+- [FogROS 2 Docs](https://berkeleyautomation.github.io/FogROS2/about)
 
 
 ### Open Source
