@@ -17,7 +17,12 @@
 - [BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)
 
 
+### Slides
+- [The Latest Advances In ROS 2](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/62b24ef5ef9ba32836ee4494/1655852797323/ROS-I-Community2022-OpenRobotics-Kat+Scott.pdf)
+
+
 ### Papers
-- [FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2](https://openreview.net/forum?id=T3fPp_6dLWp)
+- 2022 [FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2](https://openreview.net/forum?id=T3fPp_6dLWp)
+- 2022 [Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping](https://dl.acm.org/doi/pdf/10.1145/3561972?casa_token=pOdZeamzE68AAAAA:rHNW27yKugB8tEOqZzNLp8LYyaygf4MROMz6K-fnO_YCQErSUacOXRQAPvFE_NsOrnCi7vX4kRRG)
 
 
