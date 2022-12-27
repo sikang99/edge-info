@@ -11,6 +11,7 @@
 - [FogROS 2 Docs](https://berkeleyautomation.github.io/FogROS2/about)
 - RobotLaunch: [Cloud Robotics](https://www.robolaunch.io/usecases-cloud-robotics) 
 - [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies)
+- [ROS Remote](https://www.nrobotics.com/rosremote)
 
 
 ### Open Source
