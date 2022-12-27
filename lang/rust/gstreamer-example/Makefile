@@ -1,5 +1,5 @@
 #
-# Makefile
+# Makefile for gstreamer app in rust
 #
 usage:
 	@echo "usage: make [edit|build|run|open]"
@@ -12,13 +12,11 @@ edit-toml et:
 
 build b:
 	cargo build
-
 build-release br:
 	cargo build --release
 
 run r:
 	cargo run
-
 run-release rr:
 	cargo run --release
 
