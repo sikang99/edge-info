@@ -20,6 +20,9 @@ run r:
 run-release rr:
 	cargo run --release
 
+clean:
+	rm -rf Cargo.lock target/
+
 open o:
 	open https://crates.io/crates/gstreamer
 
