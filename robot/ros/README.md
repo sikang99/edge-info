@@ -17,6 +17,8 @@
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package, Unity + YOLOX-ROS Demo
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
 - [BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)
+- [dji-sdk/Onboard-SDK-ROS](https://github.com/dji-sdk/Onboard-SDK-ROS) - Official ROS packages for DJI onboard SDK
+
 
 ### Slides
 - [The Latest Advances In ROS 2](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/62b24ef5ef9ba32836ee4494/1655852797323/ROS-I-Community2022-OpenRobotics-Kat+Scott.pdf)
