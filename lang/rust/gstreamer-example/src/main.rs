@@ -1,5 +1,4 @@
 extern crate gstreamer as gst;
-
 use gst::prelude::*;
 
 fn main() {
@@ -13,17 +12,13 @@ fn main() {
     pipeline.set_state(gst::State::Playing).unwrap();
 
     // Wait for the pipeline to complete
-    let bus = pipeline.get_bus().unwrap();
-    while let Some(msg) = bus.timed_pop(gst::CLOCK_TIME_NONE) {
+    let bus = pipeline.bus().unwrap();
+    while let Some(msg) = bus.timed_pop(gst::ClockTime::from_seconds(10)) {
         use gst::MessageView;
         match msg.view() {
             MessageView::Eos(..) => break,
             MessageView::Error(err) => {
-                println!(
-                    "Error from {}: {}",
-                    err.get_src().map(|s| s.get_path_string()).unwrap_or("None".to_owned()),
-                    err.get_error()
-                );
+                println!("Error: {:?}", err.error() );
                 break;
             }
             _ => (),
