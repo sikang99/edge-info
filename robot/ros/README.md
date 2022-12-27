@@ -27,6 +27,7 @@
 
 ### Papers
 - 2022 [Systematic Gap Analysis of Robot Operating System (ROS 2) in Real-time Systems](https://www.diva-portal.org/smash/get/diva2:1668268/FULLTEXT01.pdf)
+	- RT : Soft, Firm, Hard
 - 2022 [Robot Operating System 2: Design, Architecture, and Uses In The Wild](https://arxiv.org/pdf/2211.07752.pdf)
 - 2022 [Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness](https://arxiv.org/pdf/2211.00985v1.pdf)
 - 2022 [ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics](https://arxiv.org/pdf/2209.01774.pdf)
