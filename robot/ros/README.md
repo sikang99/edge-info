@@ -3,6 +3,7 @@
 
 ### Articles
 - 2022/12/23 [Build Connected Robots with NVIDIA Isaac and ROS2](https://www.seeedstudio.com/blog/2022/12/23/build-connected-robots-with-nvidia-isaac-and-ros2/)
+- 2022/07/05 [The State of Robotics, May & June 2022](https://www.wevolver.com/article/the-state-of-robotics-may-june-2022)
 - 2022/05/25 [ROS 2 Humble Hawksbill Release!](https://www.openrobotics.org/blog/2022/5/24/ros-2-humble-hawksbill-release)
 - 2022/05/24 [FogROS brings robotic cloud computing to the Robot Operating System](https://techcrunch.com/2022/05/23/fogros-brings-robotic-cloud-computing-to-the-robot-operating-system/)
 
