@@ -25,6 +25,7 @@
 
 ### Persons
 - [Towaki Takikawa](https://tovacinni.github.io/)
+- [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/)
 
 
 ### Information
