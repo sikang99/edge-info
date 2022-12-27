@@ -62,6 +62,8 @@
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
 - [danielegrattarola/GINR](https://github.com/danielegrattarola/GINR) - Code for "Generalised Implicit Neural Representations" (NeurIPS 2022)
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
+- [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
+
 
 
 ### Papers
