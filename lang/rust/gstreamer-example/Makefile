@@ -13,8 +13,14 @@ edit-toml et:
 build b:
 	cargo build
 
+build-release br:
+	cargo build --release
+
 run r:
 	cargo run
+
+run-release rr:
+	cargo run --release
 
 open o:
 	open https://crates.io/crates/gstreamer
