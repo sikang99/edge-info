@@ -8,6 +8,7 @@
 
 
 ### Information
+- [ROS 2 Humble](https://docs.ros.org/en/humble/)
 - [Hardware Acceleration in Robotics News](https://news.accelerationrobotics.com/)
 - [FogROS 2 Docs](https://berkeleyautomation.github.io/FogROS2/about)
 - RobotLaunch: [Cloud Robotics](https://www.robolaunch.io/usecases-cloud-robotics) 
