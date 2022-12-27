@@ -63,7 +63,7 @@
 - [danielegrattarola/GINR](https://github.com/danielegrattarola/GINR) - Code for "Generalised Implicit Neural Representations" (NeurIPS 2022)
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
-
+- [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
 
 
 ### Papers
