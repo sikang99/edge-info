@@ -22,6 +22,7 @@
 
 ### Slides
 - [The Latest Advances In ROS 2](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/62b24ef5ef9ba32836ee4494/1655852797323/ROS-I-Community2022-OpenRobotics-Kat+Scott.pdf)
+- [Run your robots in the cloud](https://d1.awsstatic.com/aws-summit-london-session-slides/Run%20your%20robots%20in%20the%20cloud.pdf)
 
 
 ### Papers
