@@ -23,7 +23,7 @@
 
 ### Papers
 - 2022 [FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2](https://openreview.net/forum?id=T3fPp_6dLWp)
-- 2022 [Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness](https://deepai.org/publication/distributed-robotic-systems-in-the-edge-cloud-continuum-with-ros-2-a-review-on-novel-architectures-and-technology-readiness)
+- 2022 [Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness](https://arxiv.org/pdf/2211.00985v1.pdf)
 - 2022 [Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping](https://dl.acm.org/doi/pdf/10.1145/3561972?casa_token=pOdZeamzE68AAAAA:rHNW27yKugB8tEOqZzNLp8LYyaygf4MROMz6K-fnO_YCQErSUacOXRQAPvFE_NsOrnCi7vX4kRRG)
 
 
