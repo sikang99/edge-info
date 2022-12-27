@@ -8,4 +8,3 @@ edition = "2021"
 [dependencies]
 #gstreamer = "0.22"
 gstreamer = "0.19.4"
-
