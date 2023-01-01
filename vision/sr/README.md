@@ -13,3 +13,4 @@
 - [zsyOAOA/DifFace](https://github.com/zsyOAOA/DifFace) - DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)
 - [sunny2109/ShuffleMixer](https://github.com/sunny2109/ShuffleMixer) - Code for "ShuffleMixer: An Efficient ConvNet for Image Super-Resolution"
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy
+- [sjmoran/CURL](https://github.com/sjmoran/CURL) - Code for the ICPR 2020 paper: "CURL: Neural Curve Layers for Image Enhancement"
