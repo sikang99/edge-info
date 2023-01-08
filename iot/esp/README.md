@@ -16,8 +16,8 @@
 ### Open Source
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [espressif/esp-skainet](https://github.com/espressif/esp-skainet) - Espressif intelligent voice assistant
-
-
+- [painlessMesh/painlessMesh](https://gitlab.com/painlessMesh/painlessMesh) - A painless way to setup a mesh with ESP8266 and ESP32 devices
+- [Coopdis/easyMesh](https://github.com/Coopdis/easyMesh) - Library to create a simple mesh network on Arduino/esp8266
 
 
 ### Papers
