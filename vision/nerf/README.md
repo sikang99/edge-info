@@ -42,7 +42,6 @@
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
-- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions"
 - [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://cassiepython.github.io/nerfart/)
 - [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://palettenerf.github.io/)
@@ -58,6 +57,9 @@
 
 
 ### Open Source
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
+- [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations and NeRF papers relating to SLAM/Robotics domain, including papers, video, codes, and related websites
+- [frozoul/4K-NeRF](https://github.com/frozoul/4K-NeRF) - Official implementation of arxiv paper "4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions"
 - [AlgoHunt/StreamRF](https://github.com/AlgoHunt/StreamRF) - Official implementation of our NeurIPS paper "Streaming Radiance Fields for 3D Video Synthesis"
 - [algohunt/vqrf](https://github.com/algohunt/vqrf) - Official implementation of our arxiv paper "Compressing Volumetric Radiance Fields to 1 MB"
 - [AyoubKhammassi/UnrealMobileNeRF](https://github.com/AyoubKhammassi/UnrealMobileNeRF) - A plugin for importing and visualizing pre-trained MobileNeRF scenes in Unreal Engine.
@@ -68,9 +70,6 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
 - [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
-- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
-- [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations and NeRF papers relating to SLAM/Robotics domain, including papers, video, codes, and related websites
-
 
 
 
