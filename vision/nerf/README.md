@@ -22,9 +22,6 @@
 - 2021/12/21 [NeRF : Neural Radiance Field(2)](https://animilux.github.io/research/2021/12/21/nerf2.html)
 
 
-### Templates
-
-
 ### Persons
 - [Towaki Takikawa](https://tovacinni.github.io/)
 - [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/)
