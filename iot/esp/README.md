@@ -6,7 +6,9 @@
 ### Information
 - [ESPHome](https://esphome.io/)
 - [ESP-WIFI-MESH](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview)
-
+- [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/v4.2.3/esp32/index.html)
+	- [ESP-MESH Programming Guide](https://docs.espressif.com/projects/esp-idf/en/v4.2.3/esp32/api-reference/network/esp_mesh.html)
+- [ESP-FAQ](https://espressif-docs.readthedocs-hosted.com/projects/espressif-esp-faq/en/latest/index.html)
 
 
 ### Open Source
