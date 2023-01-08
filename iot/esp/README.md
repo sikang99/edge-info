@@ -1,6 +1,8 @@
 ## ESP
 
 
+### Articles
+- 2022/10/01 [ESP-MESH with ESP32 and ESP8266 (painlessMesh library)](https://espitek.com/en/esp32-en/esp-mesh-with-esp32-and-esp8266-painlessmesh-library/)
 
 
 ### Information
