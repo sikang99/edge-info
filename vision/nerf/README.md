@@ -48,6 +48,9 @@
 - [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos](https://maincold2.github.io/ffnerv/)
 - [NeROIC: Neural Object Capture and Rendering from Online Image Collections](https://formyfamily.github.io/NeROIC/)
 - [ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization](https://zubair-irshad.github.io/projects/ShAPO.html)
+- [Neural Correspondence Field for Object Pose Estimation](https://linhuang17.github.io/NCF/)
+- [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io/)
+- [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
 
 
 ### Videos
