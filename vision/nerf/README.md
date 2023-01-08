@@ -39,6 +39,9 @@
 - [NeRF-Factory](https://kakaobrain.github.io/NeRF-Factory/) 
 - [NeRF (Neural Radiance Fields)](https://paperswithcode.com/dataset/nerf)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
+
+
+### Projects
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
@@ -68,6 +71,10 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
 - [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
+- [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations and NeRF papers relating to SLAM/Robotics domain, including papers, video, codes, and related websites
+
+
 
 
 ### Papers
