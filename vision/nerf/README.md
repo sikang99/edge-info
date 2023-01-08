@@ -47,6 +47,7 @@
 - [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://palettenerf.github.io/)
 - [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos](https://maincold2.github.io/ffnerv/)
 - [NeROIC: Neural Object Capture and Rendering from Online Image Collections](https://formyfamily.github.io/NeROIC/)
+- [ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization](https://zubair-irshad.github.io/projects/ShAPO.html)
 
 
 ### Videos
