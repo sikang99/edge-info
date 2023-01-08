@@ -19,4 +19,4 @@
 
 
 ### Papers
-- 2022 [An Efficient Wireless Sensor Network Based on the ESP-MESH Protocol for Indoor and Outdoor Air Quality Monitoring]()
+- 2022 [An Efficient Wireless Sensor Network Based on the ESP-MESH Protocol for Indoor and Outdoor Air Quality Monitoring](https://www.mdpi.com/2071-1050/14/24/16630/pdf)
