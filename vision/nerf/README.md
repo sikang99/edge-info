@@ -12,6 +12,7 @@
 - 2022/03/25 [NVIDIA Research Turns 2D Photos Into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
 	- *Instant NeRF* is a neural rendering model that learns a high-resolution 3D scene in seconds — and can render images of that scene in a few milliseconds
 - 2022/03/17 [Guide: Neural Radiance Field (NeRF)](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
+- 2022/02/12 [Create Realistic 3D Renderings with AI!](https://www.louisbouchard.ai/neroic/) - NeROIC
 - 2021/10/11 [NeRF at ICCV 2021](https://dellaert.github.io/NeRF21/)
 
 
@@ -46,6 +47,7 @@
 - [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://palettenerf.github.io/)
 - [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos](https://maincold2.github.io/ffnerv/)
+- [NeROIC: Neural Object Capture and Rendering from Online Image Collections](https://formyfamily.github.io/NeROIC/)
 
 
 ### Videos
