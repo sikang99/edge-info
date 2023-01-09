@@ -75,7 +75,7 @@
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
 - [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
-
+- [facebookresearch/KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF) - KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints
 
 
 ### Papers
