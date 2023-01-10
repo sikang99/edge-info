@@ -52,6 +52,7 @@
 - [Neural Correspondence Field for Object Pose Estimation](https://linhuang17.github.io/NCF/)
 - [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io/)
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
+- [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/)
 
 
 ### Videos
