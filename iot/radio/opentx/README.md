@@ -25,5 +25,5 @@
 - [alexbirkett/cc2500-raspberry-pi](https://github.com/alexbirkett/cc2500-raspberry-pi)
 - [RGassmann/rpiCC2500](https://github.com/RGassmann/rpiCC2500) 
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (2 years)
-
+- [povlhp/FlySkyRxFirmware](https://github.com/povlhp/FlySkyRxFirmware) - Instructions how to update FlySky Receiver firmware
 
