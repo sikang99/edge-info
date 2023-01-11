@@ -20,6 +20,7 @@
 
 
 ## Open Source
+- [darsor/opentx-frequency-chart](https://github.com/darsor/opentx-frequency-chart) - A 5.8GHz VTX frequency chart for your Taranis of FrSky
 - [alexbirkett/FrPi](https://github.com/alexbirkett/FrPi)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 - [alexbirkett/cc2500-raspberry-pi](https://github.com/alexbirkett/cc2500-raspberry-pi)
