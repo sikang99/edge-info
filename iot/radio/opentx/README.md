@@ -15,6 +15,8 @@
 - [Open Source Motion Controllers for DIY Drones](https://hackaday.com/tag/opentx/)
 - AliExpress: [OpenTX](https://ko.aliexpress.com/w/wholesale-OpenTX.html)
 - [Naubot](https://naubot.com/)
+- [The Top 1,074 Transmitter Open Source Projects](https://awesomeopensource.com/projects/transmitter)
+
 
 
 ## Open Source
