@@ -42,6 +42,9 @@
 - [laneboysrc/nrf24l01-rc](https://github.com/laneboysrc/nrf24l01-rc) - nRF24-based RC car receiver, compatible with HobbyKing HK310 and Turnigy 3XS
 
 
+### Videos
+- [LANE Boys RC](https://www.youtube.com/user/laneboysrc)
+
 
 ### Robots
 - [KEMARO](https://kemaro.ch/)
