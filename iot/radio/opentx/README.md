@@ -29,3 +29,6 @@
 - [Cleric-K/FlySkyRxFirmwareRssiMod](https://github.com/Cleric-K/FlySkyRxFirmwareRssiMod) - Patched firmwares for the various FlySky receivers to inject RSSI in IBUS channel 14
 - [jarethmt/Open-TX-Portal-Voice-Pack](https://github.com/jarethmt/Open-TX-Portal-Voice-Pack)
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters
+- [execuc/v202-receiver](https://github.com/execuc/v202-receiver) - v202 2.4G arduino receiver
+- [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
+
