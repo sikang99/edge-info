@@ -16,7 +16,7 @@
 - AliExpress: [OpenTX](https://ko.aliexpress.com/w/wholesale-OpenTX.html)
 - [Naubot](https://naubot.com/)
 - [The Top 1,074 Transmitter Open Source Projects](https://awesomeopensource.com/projects/transmitter)
-- [rpitx : Radio Frequency transmitter software on Raspberry Pi](https://groups.io/g/rpitx)
+- [rpitx : Radio Frequency transmitter software on Raspberry Pi](https://groups.io/g/rpitx) - 5 KHz up to 1500 MHz.
 
 
 ## Open Source
