@@ -14,6 +14,7 @@
 - [Project Collection](https://fjp.at/projects-archive/)
 - [Open Source Motion Controllers for DIY Drones](https://hackaday.com/tag/opentx/)
 - AliExpress: [OpenTX](https://ko.aliexpress.com/w/wholesale-OpenTX.html)
+- [Naubot](https://naubot.com/)
 
 
 ## Open Source
