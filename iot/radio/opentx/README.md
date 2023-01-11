@@ -24,3 +24,6 @@
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 - [alexbirkett/cc2500-raspberry-pi](https://github.com/alexbirkett/cc2500-raspberry-pi)
 - [RGassmann/rpiCC2500](https://github.com/RGassmann/rpiCC2500) 
+- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (2 years)
+
+
