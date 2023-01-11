@@ -38,6 +38,7 @@
 - [Gabapentin/Arduino-RC-6CH-Radio-control](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control) - Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
 - [dawiddyd/web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python
 - [TheStaticTurtle/Open433](https://github.com/TheStaticTurtle/Open433) - This project is an opensource usb 433Mhz rf transmitter / receiver based on an atmega328p
+- [laneboysrc/rc-headless-transmitter](https://github.com/laneboysrc/rc-headless-transmitter) - DIY 2.4 GHz RC transmitter without display, configurable through smartphone or web browser
 
 
 ### Robots
