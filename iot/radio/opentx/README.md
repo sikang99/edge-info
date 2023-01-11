@@ -32,4 +32,6 @@
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters
 - [execuc/v202-receiver](https://github.com/execuc/v202-receiver) - v202 2.4G arduino receiver
 - [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
+- [Gabapentin/Arduino-RC-6CH-Radio-control](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control) - Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
+
 
