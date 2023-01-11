@@ -1,4 +1,4 @@
-## OpenTX - FrSky
+## OpenTX - FrSky, RadioMaster
 
 
 ### Articles
