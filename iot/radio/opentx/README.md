@@ -27,3 +27,5 @@
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (2 years)
 - [povlhp/FlySkyRxFirmware](https://github.com/povlhp/FlySkyRxFirmware) - Instructions how to update FlySky Receiver firmware
 - [Cleric-K/FlySkyRxFirmwareRssiMod](https://github.com/Cleric-K/FlySkyRxFirmwareRssiMod) - Patched firmwares for the various FlySky receivers to inject RSSI in IBUS channel 14
+- [jarethmt/Open-TX-Portal-Voice-Pack](https://github.com/jarethmt/Open-TX-Portal-Voice-Pack)
+- [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters
