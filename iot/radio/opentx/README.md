@@ -40,6 +40,11 @@
 - [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
 - [laneboysrc/rc-headless-transmitter](https://github.com/laneboysrc/rc-headless-transmitter) - DIY 2.4 GHz RC transmitter without display, configurable through smartphone or web browser
 - [laneboysrc/nrf24l01-rc](https://github.com/laneboysrc/nrf24l01-rc) - nRF24-based RC car receiver, compatible with HobbyKing HK310 and Turnigy 3XS
+- [PepeTheFroggie/espnow_RC_TX](https://github.com/PepeTheFroggie/espnow_RC_TX) 
+
+
+### Open Source (Go)
+- [barnybug/gorfxtrx](https://github.com/barnybug/gorfxtrx) - Go library for the RfxCom RFXtrx 433 transmitter / receiver
 
 
 ### Videos
