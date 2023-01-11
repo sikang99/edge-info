@@ -41,6 +41,9 @@
 - [laneboysrc/rc-headless-transmitter](https://github.com/laneboysrc/rc-headless-transmitter) - DIY 2.4 GHz RC transmitter without display, configurable through smartphone or web browser
 - [laneboysrc/nrf24l01-rc](https://github.com/laneboysrc/nrf24l01-rc) - nRF24-based RC car receiver, compatible with HobbyKing HK310 and Turnigy 3XS
 - [PepeTheFroggie/espnow_RC_TX](https://github.com/PepeTheFroggie/espnow_RC_TX) 
+- [bmellink/IBusBM](https://github.com/bmellink/IBusBM) - Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART
+
+
 
 
 ### Open Source (Go)
