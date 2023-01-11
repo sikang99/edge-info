@@ -33,5 +33,6 @@
 - [execuc/v202-receiver](https://github.com/execuc/v202-receiver) - v202 2.4G arduino receiver
 - [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
 - [Gabapentin/Arduino-RC-6CH-Radio-control](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control) - Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
+- [dawiddyd/web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python
 
 
