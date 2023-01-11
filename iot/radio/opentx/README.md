@@ -34,11 +34,13 @@
 - [jarethmt/Open-TX-Portal-Voice-Pack](https://github.com/jarethmt/Open-TX-Portal-Voice-Pack)
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters
 - [execuc/v202-receiver](https://github.com/execuc/v202-receiver) - v202 2.4G arduino receiver
-- [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
 - [Gabapentin/Arduino-RC-6CH-Radio-control](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control) - Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
 - [dawiddyd/web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python
 - [TheStaticTurtle/Open433](https://github.com/TheStaticTurtle/Open433) - This project is an opensource usb 433Mhz rf transmitter / receiver based on an atmega328p
+- [laneboysrc/rc-light-controller](https://github.com/laneboysrc/rc-light-controller) - Extensible RC car light controller with Web-based configuration tool
 - [laneboysrc/rc-headless-transmitter](https://github.com/laneboysrc/rc-headless-transmitter) - DIY 2.4 GHz RC transmitter without display, configurable through smartphone or web browser
+- [laneboysrc/nrf24l01-rc](https://github.com/laneboysrc/nrf24l01-rc) - nRF24-based RC car receiver, compatible with HobbyKing HK310 and Turnigy 3XS
+
 
 
 ### Robots
