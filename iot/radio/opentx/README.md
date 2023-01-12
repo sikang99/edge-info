@@ -26,6 +26,7 @@
 
 
 ### Open Source
+- [m040601/my-awesome-stars](https://github.com/m040601/my-awesome-stars) - 
 - [darsor/opentx-frequency-chart](https://github.com/darsor/opentx-frequency-chart) - A 5.8GHz VTX frequency chart for your Taranis of FrSky
 - [alexbirkett/FrPi](https://github.com/alexbirkett/FrPi)
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
@@ -54,6 +55,7 @@
 - [pascallanger/DIY-Multiprotocol-TX-Module-Boards](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module-Boards) 
 - [Efe-Bostanci/NRF24L01](https://github.com/Efe-Bostanci/NRF24L01) - 
 - [soligen2010/RC_RX_CABELL_V3_FHSS](https://github.com/soligen2010/RC_RX_CABELL_V3_FHSS) - RC Reciever firmware using arduino and NRF24L01+
+- [goebish/nrf24_multipro](https://github.com/goebish/nrf24_multipro)
 
 
 
