@@ -5,6 +5,8 @@
 ### Information
 - [SDRangel](https://groups.io/g/sdrangel)
 - [CaribouLite RPi HAT](https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat) - A fully open source dual-channel SDR Raspberry Pi HAT with a tuning range up to 6 GHz
+- [nRF24L01+ driver](https://nrf24.github.io/RF24/)
+
 
 
 ### Open Source
