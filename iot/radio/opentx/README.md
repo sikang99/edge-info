@@ -46,6 +46,8 @@
 - [bmellink/IBusBM](https://github.com/bmellink/IBusBM) - Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART
 - [grimmpp/radio-controlled-arduino-devices](https://github.com/grimmpp/radio-controlled-arduino-devices) - 
 - [Nipont4666/DIY-Arduino-Transmitter-OpenTx](https://github.com/Nipont4666/DIY-Arduino-Transmitter-OpenTx) - 
+- [davidbuzz/esp8266_wifi_tx](https://github.com/davidbuzz/esp8266_wifi_tx) 
+- [orbisrc/Orbis-Air](https://github.com/orbisrc/Orbis-Air) - DIY RC Transmitter
 
 
 
