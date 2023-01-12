@@ -51,6 +51,7 @@
 - [orbisrc/Orbis-Air](https://github.com/orbisrc/Orbis-Air) - DIY RC Transmitter
 - [akhilzid/SuperTX](https://github.com/akhilzid/SuperTX) - Custom motherboard and firmware using arduino for RC Transmitters
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.🧡
+- [pascallanger/DIY-Multiprotocol-TX-Module-Boards](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module-Boards) 
 
 
 ### Open Source (Go)
