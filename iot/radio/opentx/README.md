@@ -52,6 +52,9 @@
 - [akhilzid/SuperTX](https://github.com/akhilzid/SuperTX) - Custom motherboard and firmware using arduino for RC Transmitters
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.🧡
 - [pascallanger/DIY-Multiprotocol-TX-Module-Boards](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module-Boards) 
+- [Efe-Bostanci/NRF24L01](https://github.com/Efe-Bostanci/NRF24L01) - 
+- [soligen2010/RC_RX_CABELL_V3_FHSS](https://github.com/soligen2010/RC_RX_CABELL_V3_FHSS) - RC Reciever firmware using arduino and NRF24L01+
+
 
 
 ### Open Source (Go)
