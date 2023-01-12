@@ -48,6 +48,7 @@
 - [Nipont4666/DIY-Arduino-Transmitter-OpenTx](https://github.com/Nipont4666/DIY-Arduino-Transmitter-OpenTx) - 
 - [davidbuzz/esp8266_wifi_tx](https://github.com/davidbuzz/esp8266_wifi_tx) 
 - [orbisrc/Orbis-Air](https://github.com/orbisrc/Orbis-Air) - DIY RC Transmitter
+- [akhilzid/SuperTX](https://github.com/akhilzid/SuperTX) - Custom motherboard and firmware using arduino for RC Transmitters
 
 
 
