@@ -19,8 +19,8 @@
 - AliExpress: [OpenTX](https://ko.aliexpress.com/w/wholesale-OpenTX.html)
 - [Naubot](https://naubot.com/)
 - [The Top 1,074 Transmitter Open Source Projects](https://awesomeopensource.com/projects/transmitter)
-- [rpitx : Radio Frequency transmitter software on Raspberry Pi](https://groups.io/g/rpitx) - 5 KHz up to 1500 MHz.
-- [Multi-Module](https://www.multi-module.org/)
+- [rpitx : Radio Frequency transmitter software on Raspberry Pi](https://groups.io/g/rpitx) - 5 KHz up to 1500 MHz. 🧡
+- [Multi-Module](https://www.multi-module.org/) 🧡
 - [rcdiy](https://rcdiy.ca/opentx-guide/)
 
 
@@ -50,7 +50,7 @@
 - [davidbuzz/esp8266_wifi_tx](https://github.com/davidbuzz/esp8266_wifi_tx) 
 - [orbisrc/Orbis-Air](https://github.com/orbisrc/Orbis-Air) - DIY RC Transmitter
 - [akhilzid/SuperTX](https://github.com/akhilzid/SuperTX) - Custom motherboard and firmware using arduino for RC Transmitters
-
+- [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.🧡
 
 
 ### Open Source (Go)
