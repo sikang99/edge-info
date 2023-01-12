@@ -45,6 +45,7 @@
 - [PepeTheFroggie/espnow_RC_TX](https://github.com/PepeTheFroggie/espnow_RC_TX) 
 - [bmellink/IBusBM](https://github.com/bmellink/IBusBM) - Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART
 - [grimmpp/radio-controlled-arduino-devices](https://github.com/grimmpp/radio-controlled-arduino-devices) - 
+- [Nipont4666/DIY-Arduino-Transmitter-OpenTx](https://github.com/Nipont4666/DIY-Arduino-Transmitter-OpenTx) - 
 
 
 
