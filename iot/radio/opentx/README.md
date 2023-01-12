@@ -44,12 +44,13 @@
 - [laneboysrc/nrf24l01-rc](https://github.com/laneboysrc/nrf24l01-rc) - nRF24-based RC car receiver, compatible with HobbyKing HK310 and Turnigy 3XS
 - [PepeTheFroggie/espnow_RC_TX](https://github.com/PepeTheFroggie/espnow_RC_TX) 
 - [bmellink/IBusBM](https://github.com/bmellink/IBusBM) - Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART
-
+- [grimmpp/radio-controlled-arduino-devices](https://github.com/grimmpp/radio-controlled-arduino-devices) - 
 
 
 
 ### Open Source (Go)
 - [barnybug/gorfxtrx](https://github.com/barnybug/gorfxtrx) - Go library for the RfxCom RFXtrx 433 transmitter / receiver
+- [martinohmann/rfoutlet](https://github.com/martinohmann/rfoutlet) - Control remote controlled outlets via Raspberry PI
 
 
 ### Videos
