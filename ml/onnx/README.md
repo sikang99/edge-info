@@ -8,6 +8,7 @@
 - [ONNX Runtime](https://onnxruntime.ai/) - Optimize and Accelerate Machine Learning Inferencing and Training
 - [BentoML](https://docs.bentoml.org/en/latest/index.html) - Unified Model Serving Framework
 - [Human Pose Estimation and ONNX Models](https://satyajit.theschoolof.ai/TSAI-DeepVision-EVA4.0-Phase-2/05-HumanPoseEstimation-ONNX/)
+- [Tutorial 8: Pytorch to ONNX (Experimental)](https://mmdetection.readthedocs.io/en/v2.19.1/tutorials/pytorch2onnx.html)
 
 
 ### Open Source
