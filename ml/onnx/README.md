@@ -11,5 +11,6 @@
 
 
 ### Open Source
+- [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
 
 
