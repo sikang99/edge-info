@@ -11,6 +11,6 @@
 
 
 ### Open Source
-- [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
+- [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection) - Python scripts performing object detection using the YOLOv8 model in ONNX
 
 
