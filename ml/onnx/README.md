@@ -19,6 +19,7 @@
 
 
 ### Installation
+- [onnxruntime](https://pypi.org/project/onnxruntime/), 1.13.1
 ```sh
 pip install -U onnxruntime-silicon
 ```
