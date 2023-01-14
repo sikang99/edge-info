@@ -13,6 +13,7 @@
 
 
 ### Open Source
+- [https://github.com/cansik/onnxruntime-silicon](https://github.com/cansik/onnxruntime-silicon) - ONNX Runtime prebuilt wheels for Apple Silicon (M1 / ARM64)
 - [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection) - Python scripts performing object detection using the YOLOv8 model in ONNX
 - [microsoft/human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper "Simple Baselines for Human Pose Estimation and Tracking
 
