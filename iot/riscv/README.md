@@ -9,7 +9,7 @@
 
 
 ### Information
-
+- Rockchip: [RV1126](https://www.rock-chips.com/a/en/products/RV11_Series/2020/0427/1076.html)
 
 
 ### Open Source
