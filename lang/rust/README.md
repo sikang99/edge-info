@@ -1,6 +1,10 @@
 ## Rust for DL
 
 
+### Articles
+- [Rust Embassy Series' Articles](https://dev.to/apollolabsbin/series/20707)
+
+
 ### Information
 - [Polars](https://www.pola.rs/) - Lightning-fast DataFrame library for Rust and Python
 

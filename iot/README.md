@@ -2,7 +2,8 @@
 
 - IoT = IT + OT
 - IoRT : Robotic Things
-- IoMT : Media Thins
+- IoMT : Media Things
+- IoD : Internet of Drones
 
 
 ### Articles
