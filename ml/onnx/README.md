@@ -2,6 +2,10 @@
 
 
 ### Articles
+- 2022/06/02 [Edge-Based Machine Learning Application Development is Getting a Whole Lot Easier](https://www.digikey.com/en/blog/edge-based-machine-learning-application-development)
+
+
+### Articles (Korean)
 - 2021/10/15 [pytorch모델을 onnx모델로 변환 방법](https://shuka.tistory.com/26)
 
 
@@ -20,6 +24,8 @@
 
 ### Installation
 - [onnxruntime](https://pypi.org/project/onnxruntime/), 1.13.1
+- [onnxruntime-silicon](https://pypi.org/project/onnxruntime-silicon/), 1.13.1
+
 ```sh
 pip install -U onnxruntime-silicon
 ```
