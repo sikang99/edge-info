@@ -3,7 +3,7 @@
 
 
 ### Articles
-
+- 2022/01/28 [The Development of Quantum Machine Learning](https://hdsr.mitpress.mit.edu/pub/cgmjzm3c/release/3)
 
 
 
