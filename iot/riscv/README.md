@@ -19,7 +19,9 @@
 - [PULP Platform](https://pulp-platform.org/) - Open hardware, the way it should be!
 
 
+
 ### Open Source
+- [pulp-platform/pulp](https://github.com/pulp-platform/pulp) - This is the top-level project for the PULP Platform. It instantiates a PULP open-source system with a PULP SoC (microcontroller) domain accelerated by a PULP cluster with 8 cores.
 
 
 
