@@ -1,7 +1,9 @@
 ## NPU : Neural Processing Unit
 
 
-
+### Articles
+- 2022/01/09 [NXP Unveils Latest Processor for Scalable AI Platforms at CES 2023](https://www.iotworldtoday.com/2023/01/09/nxp-unveils-latest-processor-for-scalable-ai-platforms-at-ces-2023/)
+	- i.MX 95: Wi-Fi, Bluetooth or 5G
 
 ### Articles
 - 2021/01/21 [Hardware for Deep Learning. Part 4: ASIC](https://blog.inten.to/hardware-for-deep-learning-part-4-asic-96a542fe6a81)
