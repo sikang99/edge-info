@@ -2,7 +2,7 @@
 
 
 ## Articles
-
+- 2023/01/16 [Selecting The Right RISC-V Core](https://semiengineering.com/selecting-the-right-risc-v-core/)
 - 2023/01/12 [Will Floating Point 8 Solve AI/ML Overhead?](https://semiengineering.com/will-floating-point-8-solve-ai-ml-overhead/)
 - 2023/01/10 [Arbitrary Precision DNN Accelerator Controlled By A RISC-V CPU (Ecole Polytechnique Montreal, IBM, Mila, CMC)](https://semiengineering.com/arbitrary-precision-dnn-accelerator-controlled-by-a-risc-v-cpu-ecole-polytechnique-montreal-ibm-mila-cmc/)
 - 2023/01/09 [Scalable, Edge AI media processing across SBC cluster](https://www.eenewseurope.com/en/scalable-edge-ai-media-processing-across-sbc-cluster/)
