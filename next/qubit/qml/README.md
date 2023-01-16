@@ -1,4 +1,4 @@
-## Quantum Machine Learning
+## Quantum Machine Learning (QML)
 
 
 
@@ -10,7 +10,8 @@
 
 ### Open Source
 - Qiskit: [Quantum Machine Learning](https://learn.qiskit.org/course/machine-learning/introduction)
-- [QML@UMD](https://qmlfire.github.io/)
+- [QML@UMD](https://qmlfire.github.io/) - Quantum Machine Learning With IBM Qiskit
+
 
 
 ### Papers
