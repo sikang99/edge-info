@@ -9,7 +9,8 @@
 
 
 ### Open Source
-
+- Qiskit: [Quantum Machine Learning](https://learn.qiskit.org/course/machine-learning/introduction)
+- [QML@UMD](https://qmlfire.github.io/)
 
 
 ### Papers
