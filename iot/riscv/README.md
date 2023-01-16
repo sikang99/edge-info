@@ -16,7 +16,7 @@
 
 ### Information
 - Rockchip: [RV1126](https://www.rock-chips.com/a/en/products/RV11_Series/2020/0427/1076.html)
-- [PULP Platform](https://pulp-platform.org/)
+- [PULP Platform](https://pulp-platform.org/) - Open hardware, the way it should be!
 
 
 ### Open Source
