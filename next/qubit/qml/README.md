@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/10/05 [Quantum Deep Learning: A Quick Guide to Quantum Convolutional Neural Networks](https://towardsdatascience.com/quantum-deep-learning-a-quick-guide-to-quantum-convolutional-neural-networks-d65284e21fc4)
 - 2022/01/28 [The Development of Quantum Machine Learning](https://hdsr.mitpress.mit.edu/pub/cgmjzm3c/release/3)
 
 
