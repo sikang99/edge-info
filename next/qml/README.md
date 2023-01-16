@@ -16,7 +16,7 @@
 
 
 ### Papers
-- 2023 [Quantum Machine Learning: from physics to software engineering](https://arxiv.org/abs/2301.01851)
+- 2023 [Quantum Machine Learning: from physics to software engineering](https://arxiv.org/abs/2301.01851) 💕
 - 2022 [An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/pdf/2205.09510.pdf) 💕
 - 2022 [Quantum Machine Learning: A tutorial](https://www.sciencedirect.com/science/article/pii/S0925231221011000)
 
