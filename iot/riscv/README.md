@@ -10,6 +10,7 @@
 - 2023/01/05 [How Secure Are RISC-V Chips?](https://semiengineering.com/how-secure-are-risc-v-chips/)
 - 2022/12/21 [RISC-V Pushes Into The Mainstream](https://semiengineering.com/risc-v-pushes-into-the-mainstream/)
 - 2022/08/20 [LeapFive Eyes High-performance Realm with 1.8 GHz RISC-V SoC](https://www.allaboutcircuits.com/news/leapfive-eyes-high-performance-realm-with-1.8-ghz-risc-v-soc/)
+- 2019/02/26 [Hardware for Deep Learning. Part 1: Introduction](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)
 
 
 
