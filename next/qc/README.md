@@ -2,7 +2,7 @@
 
 
 ### Information
-- [Quantum Technolofy News](https://www.insidequantumtechnology.com/)
+- [Inside Quantum Technolofy News](https://www.insidequantumtechnology.com/)
 
 
 ### Articles
