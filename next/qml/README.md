@@ -12,6 +12,7 @@
 ### Open Source
 - Qiskit: [Quantum Machine Learning](https://learn.qiskit.org/course/machine-learning/introduction)
 - [QML@UMD](https://qmlfire.github.io/) - Quantum Machine Learning With IBM Qiskit
+- [Google Quantum AI](https://quantumai.google/)
 
 
 
