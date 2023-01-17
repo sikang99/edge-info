@@ -8,6 +8,7 @@
 
 ### Information
 - [Cleanflight](http://cleanflight.com/) - Open-Source flight controller software for modern flight boards
+- [Navio2](https://navio2.emlid.com/) - Autopilot HAT for Raspberry Pi Powered by ArduPilot and ROS
 
 
 
