@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/05/17 [Holographic communication in 5G networks](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/holographic-communication-in-5g-networks)
 - 2022/02/24 [Everything there is to know about the origin and future of hologram technology](https://interestingengineering.com/innovation/holography-and-holograms)
 
 
