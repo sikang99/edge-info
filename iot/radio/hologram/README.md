@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/02/24 [Everything there is to know about the origin and future of hologram technology](https://interestingengineering.com/innovation/holography-and-holograms)
 
 
 
