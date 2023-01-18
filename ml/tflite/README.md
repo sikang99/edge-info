@@ -28,13 +28,15 @@
 - [nbortolotti/tflitego](https://github.com/nbortolotti/tflitego) - tflitego provide a simple and clear solution to use TensorFlow lite in Go. Our objective is provide a cohesive API, simplicity related to TensorFlow Lite C API connection and maintainability.
 - [nbortolotti/tflitego_examples](https://github.com/nbortolotti/tflitego_examples) - 
 - [galeone/tfgo](https://github.com/galeone/tfgo)
-- [https://github.com/mpromonet/gin-tflite](https://github.com/mpromonet/gin-tflite)
+- [mpromonet/gin-tflite](https://github.com/mpromonet/gin-tflite)
 
 
 ### Open Source (Python)
 - [k5iogura/tensorflowlite-samples](https://github.com/k5iogura/tensorflowlite-samples)
 - [iwatake2222/CNN_NumberDetector](https://github.com/iwatake2222/CNN_NumberDetector) 
 - [cfzd/Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) - Ultra Fast Structure-aware Deep Lane Detection (ECCV 2020)
+- [Kazuhito00/YOLOX-ONNX-TFLite-Sample](https://github.com/Kazuhito00/YOLOX-ONNX-TFLite-Sample) 
+
 
 ### Papers
 - 2021 [tion Generative Adversarial Network (SRGANs) for Wheat Stripe Rust Classification](https://pubmed.ncbi.nlm.nih.gov/34883905/)

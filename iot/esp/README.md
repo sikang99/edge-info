@@ -6,6 +6,7 @@
 
 
 ### Information
+- [ESP.Net](http://esp32.net/) - IoT with ESP32
 - [ESPHome](https://esphome.io/)
 - [ESP-WIFI-MESH](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview)
 - [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/v4.2.3/esp32/index.html)
