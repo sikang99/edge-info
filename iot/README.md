@@ -11,6 +11,7 @@
 
 
 ### Information
+- [Guidance on RESTful Design for Internet of Things Systems](https://datatracker.ietf.org/doc/draft-irtf-t2trg-rest-iot/)
 
 
 
