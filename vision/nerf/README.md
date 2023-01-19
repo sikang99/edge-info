@@ -53,6 +53,8 @@
 - [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io/)
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/)
+- [PV3D: A 3D Generative Model for Portrait Video Generation](https://showlab.github.io/pv3d/)
+
 
 
 ### Videos
