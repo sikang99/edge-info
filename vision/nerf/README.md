@@ -79,6 +79,8 @@
 - [ToniRV/NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields
 - [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
 - [facebookresearch/KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF) - KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints
+- [tum-vision/intrinsic-neural-fields](https://github.com/tum-vision/intrinsic-neural-fields) - [ECCV '22] Intrinsic Neural Fields: Learning Functions on Manifolds
+
 
 
 ### Papers
