@@ -1,10 +1,12 @@
-## CAN
+## CAN, CANOpen
 
 
 
 ### Information
 - [wiki/CANopen](https://en.wikipedia.org/wiki/CANopen)
 - [CANOpen Stack](https://canopen-stack.org/) - CANopen Stack Project, v4.4
+- [CiA: CAN in Automation](https://www.can-cia.org)
+	- [CANopen – The standardized embedded network](https://www.can-cia.org/canopen/)
 
 
 
