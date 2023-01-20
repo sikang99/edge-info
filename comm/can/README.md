@@ -16,6 +16,7 @@
 - [CiA: CAN in Automation](https://www.can-cia.org)
 	- [CANopen – The standardized embedded network](https://www.can-cia.org/canopen/)
 - [Canopen-Lift](https://en.canopen-lift.org/wiki/Main_Page)
+- [CANopenDemo](https://canopennode.github.io/)
 
 
 ### Open Source
