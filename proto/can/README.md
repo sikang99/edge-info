@@ -2,12 +2,17 @@
 
 
 
+### Articles
+- [What is PDO and SDO in CANopen?](https://devicebase.net/en/can-in-automation-canopen/questions/what-is-pdo-and-sdo-in-canopen/5hc)
+	- Process Data Object (PDO)
+	- Service Data Object (SDO)
+
+
 ### Information
 - [wiki/CANopen](https://en.wikipedia.org/wiki/CANopen)
 - [CANOpen Stack](https://canopen-stack.org/) - CANopen Stack Project, v4.4
 - [CiA: CAN in Automation](https://www.can-cia.org)
 	- [CANopen – The standardized embedded network](https://www.can-cia.org/canopen/)
-
 
 
 ### Open Source
