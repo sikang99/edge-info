@@ -6,6 +6,8 @@
 - [What is PDO and SDO in CANopen?](https://devicebase.net/en/can-in-automation-canopen/questions/what-is-pdo-and-sdo-in-canopen/5hc)
 	- Process Data Object (PDO)
 	- Service Data Object (SDO)
+- [ISIT CANopen Safety protocol Stack](https://www.st.com/en/partner-products-and-services/isit-canopen-safety-protocol-stack.html)
+
 
 
 ### Information
