@@ -13,6 +13,7 @@
 - [CANOpen Stack](https://canopen-stack.org/) - CANopen Stack Project, v4.4
 - [CiA: CAN in Automation](https://www.can-cia.org)
 	- [CANopen – The standardized embedded network](https://www.can-cia.org/canopen/)
+- [Canopen-Lift](https://en.canopen-lift.org/wiki/Main_Page)
 
 
 ### Open Source
