@@ -14,6 +14,7 @@
 	- [GMSK Demod](https://wiki.gnuradio.org/index.php/GMSK_Demod)
 - [Vector-Optimized Library of Kernels](https://www.libvolk.org/)
 - [RTL-SDR.com](https://www.rtl-sdr.com/)
+- [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html)
 
 
 ### Open Source
@@ -27,6 +28,7 @@
 
 
 ### Papers
+- 2022 [SWiFi: An Open Source SDR for Wi-Fi Networks High Order Modulation Analysis](https://www.ccs.neu.edu/home/vohuudtr/publications/swifi.pdf)
 - 2022 [Generalized Wireless Adversarial Deep Learning](https://ece.northeastern.edu/wineslab/papers/Restuccia2022computer.pdf)
 - 2022 [Software Defined Radio Platforms for Wireless Technologies](https://hal.science/hal-03592937/document)
 - 2020 [Evaluating a 2.4GHz Free-Space Data Link and associated Multirate Digital Signal Processing using Software-Defined Radio](https://diglib.tugraz.at/download.php?id=5f901822c4783&location=browse)
@@ -36,5 +38,5 @@
 - 2016 [Video Transmission through GMSK using GNU Radio](https://research.ijcaonline.org/icaet2016/number4/icaet056.pdf)
 - 2015 [NUTS: Ground station with GNU Radio and USRP](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2371557/13825_FULLTEXT.pdf)
 - 2013 [An IEEE 802.11a/g/p OFDM Receiver for GNU Radio](https://dl.acm.org/doi/pdf/10.1145/2491246.2491248)
-
+- 2008 [Open Source Software-Defined Radio: A survey on GNUradio and its applications](https://www.cs.ru.ac.za/research/g09B0279/UsefulPapers/SDRreport.pdf)
 
