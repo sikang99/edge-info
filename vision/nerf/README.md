@@ -54,6 +54,7 @@
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/)
 - [PV3D: A 3D Generative Model for Portrait Video Generation](https://showlab.github.io/pv3d/)
+- [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
 - [Laser: Latent Set Representations for 3D Generative Modeling](https://laser-nv-paper.github.io/)
 
 
