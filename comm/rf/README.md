@@ -3,6 +3,10 @@
 - USRP : Universal Software Radio Peripheral
 
 
+### Articles
+- 2022/01/05 [10 Popular Software Defined Radios (SDRs) of 2022](https://blog.bliley.com/10-popular-software-defined-radios-sdr)
+
+
 ### Information
 - [GNURadio](https://www.gnuradio.org/)
 - [wiki GNURadio](https://wiki.gnuradio.org/index.php)
