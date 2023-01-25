@@ -5,12 +5,15 @@
 
 ### Information
 - [GNURadio](https://www.gnuradio.org/)
-
+- [wiki GNURadio](https://wiki.gnuradio.org/index.php)
+	- [GMSK Mod](https://wiki.gnuradio.org/index.php/GMSK_Mod)
+	- [GMSK Demod](https://wiki.gnuradio.org/index.php/GMSK_Demod)
+- [Vector-Optimized Library of Kernels](https://www.libvolk.org/)
 
 
 ### Open Source
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
-- [GMSK Mod](https://wiki.gnuradio.org/index.php/GMSK_Mod)
+- [n-west/libvolk.org](https://github.com/n-west/libvolk.org) 
 
 
 ### Papers
