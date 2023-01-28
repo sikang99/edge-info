@@ -30,6 +30,8 @@
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+- [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
+- [AOMediaCodec/av1-avif](https://github.com/AOMediaCodec/av1-avif) - AV1 Image File Format Specification - ISO-BMFF/HEIF derivative
 
 
 
