@@ -2,6 +2,10 @@
 
 
 
+### Articles
+- 2021/06/16 [Better Portable Graphics (BPG) on the web with WebAssembly (WASM) and ServiceWorker](https://sequentialread.com/better-portable-graphics-bpg-on-the-web-with-webassembly-wasm-and-serviceworker/)
+
+
 
 ### Color Formats
 - [YUV, YCbCr, YPbPr color spaces](https://discoverybiz.net/enu0/faq/faq_YUV_YCbCr_YPbPr.html)
@@ -26,5 +30,6 @@
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 
 
-
+### Papers
+- 2022 [Quality Control for the BPG Lossy Compression of Three-Channel Remote Sensing Images](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-14-01824/article_deploy/remotesensing-14-01824-v2.pdf)
 
