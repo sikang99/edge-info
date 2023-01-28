@@ -23,7 +23,7 @@
 - [rupeshs/BPGviewer](https://github.com/rupeshs/BPGviewer) - BPG image viewer
 - [asimba/pybpgviewer](https://github.com/asimba/pybpgviewer) - Simple BPG Image viewer
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
-
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 
 
 
