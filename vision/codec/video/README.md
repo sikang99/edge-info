@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/09/14 [Open source machine learning for video compression](https://www.collabora.com/news-and-blog/blog/2022/09/14/open-source-machine-learning-for-video-compression/)
 - 2022/05/25 [Encoding videos in AV1 with FFmpeg](https://noulin.net/blog/linux/2022/05/25/encoding-videos-in-av1-with-ffmpeg.html)
 - 2022/05/01 [3 things you should know about the AV1 codec](https://www.androidauthority.com/av1-codec-1113318/)
 - 2021/08/01 [AV2 Video Codec – Early Performance Evaluation of the Research](https://ottverse.com/av2-video-codec-evaluation/)
