@@ -21,6 +21,11 @@
 - [GuoLusjtu/DVC](https://github.com/GuoLusjtu/DVC) - DVC: An End-to-end Deep Video Compression Framework, CVPR 2019 (Oral)
 
 
+### Projects
+- [H-DAC: Hybrid coding with Deep Animation Models for Ultra-Low Bitrate Video Conferencing](https://goluck-konuko.github.io/)
+
+
+
 ### Papers
 - 2020 [JPEG-ACT: Accelerating Deep Learning via Transform-based Lossy Compression](https://people.ece.ubc.ca/aamodt/papers/evans.isca2020.pdf)
 
