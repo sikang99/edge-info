@@ -6,7 +6,7 @@
 
 ### Information
 - [Awesome Video](https://awesome.video/)
-
+- [WenxueCui/Deep-Image-Compression-Video-Coding](https://github.com/WenxueCui/Deep-Image-Compression-Video-Coding) - Recent papers and codes related to deep learning/deep neural network based image compression and video coding framework.
 
 
 ### Papers
