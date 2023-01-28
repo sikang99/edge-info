@@ -20,7 +20,7 @@
 - [WebP, BPG, JXR Image Decoder](https://speedtesting.herokuapp.com/imagedecoder/)
 - [Image Comparison](https://xooyoozoo.github.io/yolo-octo-bugfixes/)
 - [FLIF](http://flif.info/)
-
+- [libvips](https://www.libvips.org/)
 
 
 ### Open Source
@@ -29,6 +29,8 @@
 - [asimba/pybpgviewer](https://github.com/asimba/pybpgviewer) - Simple BPG Image viewer
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+
 
 
 ### Papers
