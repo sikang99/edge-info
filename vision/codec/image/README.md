@@ -14,6 +14,7 @@
 
 
 ### Information
+- Everything I Know: [Image processing](https://wiki.nikiv.dev/computer-graphics/image-processing)
 - [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)n
 - [BPG Image format](https://bellard.org/bpg/)
 - [WebP, BPG, JXR Image Decoder](https://speedtesting.herokuapp.com/imagedecoder/)
@@ -32,4 +33,4 @@
 
 ### Papers
 - 2022 [Quality Control for the BPG Lossy Compression of Three-Channel Remote Sensing Images](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-14-01824/article_deploy/remotesensing-14-01824-v2.pdf)
-
+- 2021 [Collaborative image compression and classification with multi-task learning for visual Internet of Things](https://reader.elsevier.com/reader/sd/pii/S1000936121003654)
