@@ -16,6 +16,7 @@
 
 
 ### Open Source
+- [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [HasnainRaz/Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN) - A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps
 - [Z-Dante/Magpie](https://github.com/Z-Dante/Magpie) - A real-time upscaling software that can upscale any application or game window. Forked from Blinue/Magpie, with the intention of maintaining Visual Novel specific presets.
