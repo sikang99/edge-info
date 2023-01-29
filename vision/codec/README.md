@@ -13,6 +13,10 @@
 - 2022 [An Introduction to Neural Data Compression](https://arxiv.org/pdf/2202.06533.pdf)
 
 
+### Open Source
+- [sangminwoo/awesome-vision-and-language](https://github.com/sangminwoo/awesome-vision-and-language) - A curated list of awesome vision and language resources
+
+
 ### Commands
 - `ffmpeg -h encoder=libaom-av1`
 
