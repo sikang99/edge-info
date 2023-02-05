@@ -56,6 +56,7 @@
 - [PV3D: A 3D Generative Model for Portrait Video Generation](https://showlab.github.io/pv3d/)
 - [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
 - [Laser: Latent Set Representations for 3D Generative Modeling](https://laser-nv-paper.github.io/)
+- [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
 
 
 ### Videos
