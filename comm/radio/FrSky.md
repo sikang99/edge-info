@@ -1,4 +1,7 @@
 ## FrSky Radio Tranceiver
+- SmartPort
+- SBUS
+- XM, XM+ v4.1(2016)
 
 
 ### Articles
@@ -8,6 +11,7 @@
 
 ### Open Source
 - [https://github.com/search?q=frsky]
+- [RealTadango/FrSky](https://github.com/RealTadango/FrSky) - My S.Port sensors and OpenTX Lua scripts
 - [rodrigosclosa/nano_vtx_xm_plus_break_board](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board) - Whoop breaking board for Eachine Nano VTX and FRSky XM+ Receiver (also can be used with FlySky FS-A8s)
 - [jcheger/arduino-frskysp](https://github.com/jcheger/arduino-frskysp)
 - [Brotronics/OpenSky](https://github.com/Brotronics/OpenSky)
