@@ -7,4 +7,6 @@
 
 
 ### Open Source
+- [https://github.com/search?q=frsky]
+- [jcheger/arduino-frskysp](https://github.com/jcheger/arduino-frskysp)
 - [NiklasVoigt/unofficial-collection-of-frsky-firmwares](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares) - This is my unofficial collection of FrSky firmwares to keep the 'old non ACCESS' firmwares online for the ones who don't want to update...
