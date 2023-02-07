@@ -6,12 +6,22 @@
 
 
 ### Articles
+- 2017/04/11 [How to Setup SBus, SmartPort Telemetry](https://oscarliang.com/sbus-smartport-telemetry-naze32/)
 - 2017/03/17 [Why Use XM+ Plus Receiver for Taranis?](https://oscarliang.com/frsky-xm-plus-rx/)
 
 
 ### Information
 - What is SmartPort telemetry?
 SmartPort (S. Port) telemetry. Smartport is a telemetry system used by newer FrSky transmitters such as the Taranis Q X7, X9D, X9D+, X9E or XJR paired with X-series receivers such as the X4R(SB), X8R, XSR, R-XSR, XSR-M or XSR-E. For older D-series receivers see FrSky telemetry below.
+- ArduPilot: [FRSky RC Systems](https://ardupilot.org/rover/docs/common-frsky-rc.html)
+- [FrSKY Taranis Q X7](https://arduino.ua/docs/FCC290/full_manual_frsky_taranis_q_x7_eng.pdf)
+- [How to Upgrade Frsky Smart Port (S.Port) Enabled Products by Taranis Transmitter](https://www.deviationtx.com/media/kunena/attachments/1738/HowTo-SportProducts.pdf)
+- [**DIY Drone Transmitter**](https://www.pcbway.com/project/shareproject/DIY_Drone_Transmitter_6b195ee1.html)
+
+
+
+### Videos
+- [How to play FPV Freerider on PC using Taranis Q X7S radio (FrSky "XSR SIM" USB Dongle)](https://www.youtube.com/watch?v=kVyl9lM_Uqs)
 
 
 
