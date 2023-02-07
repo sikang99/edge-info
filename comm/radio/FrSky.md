@@ -1,11 +1,17 @@
 ## FrSky Radio Tranceiver
-- SmartPort
+- SmartPort (S.Port) 
 - SBUS
 - XM, XM+ v4.1(2016)
 
 
+
 ### Articles
 - 2017/03/17 [Why Use XM+ Plus Receiver for Taranis?](https://oscarliang.com/frsky-xm-plus-rx/)
+
+
+### Information
+- What is SmartPort telemetry?
+SmartPort (S. Port) telemetry. Smartport is a telemetry system used by newer FrSky transmitters such as the Taranis Q X7, X9D, X9D+, X9E or XJR paired with X-series receivers such as the X4R(SB), X8R, XSR, R-XSR, XSR-M or XSR-E. For older D-series receivers see FrSky telemetry below.
 
 
 
