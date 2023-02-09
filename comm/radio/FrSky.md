@@ -24,7 +24,6 @@ SmartPort (S. Port) telemetry. Smartport is a telemetry system used by newer FrS
 - [How to play FPV Freerider on PC using Taranis Q X7S radio (FrSky "XSR SIM" USB Dongle)](https://www.youtube.com/watch?v=kVyl9lM_Uqs)
 
 
-
 ### Open Source
 - [https://github.com/search?q=frsky]
 - [RealTadango/FrSky](https://github.com/RealTadango/FrSky) - My S.Port sensors and OpenTX Lua scripts
@@ -33,3 +32,5 @@ SmartPort (S. Port) telemetry. Smartport is a telemetry system used by newer FrS
 - [Brotronics/OpenSky](https://github.com/Brotronics/OpenSky)
 - [NiklasVoigt/unofficial-collection-of-frsky-firmwares](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares) - This is my unofficial collection of FrSky firmwares to keep the 'old non ACCESS' firmwares online for the ones who don't want to update...
 - [CrazyDude1994/android-taranis-smartport-telemetry](https://github.com/CrazyDude1994/android-taranis-smartport-telemetry) - This android application let you view and record your taranis telemetry data in realtime.
+- [fishpepper/OpenGround](https://github.com/fishpepper/OpenGround) - frsky compatible opensource firmware for the flysky fs-i6s
+
