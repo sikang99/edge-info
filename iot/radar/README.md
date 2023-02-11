@@ -1,7 +1,7 @@
 ## Radar 
-- Radial Packet
+- Radial Packet, (typically 50 radials at a time)
 - Motion JPEG 2000 (MJ2)
-
+- Level I(raw),  II, III
 
 ## Articles
 - 2021/04/22 [**Arduino Radar Project – Ultrasonic Based Radar – Connection and Code**](https://robu.in/arduino-radar-project-ultrasonic-based-radar-connection-and-code/)
@@ -41,11 +41,16 @@
 - [valyala/gozstd](https://github.com/valyala/gozstd) - go wrapper for zstd
 
 
+### Slides
+- 2021 [Fast Data Compression on GPU and DPU](https://adms-conf.org/2021-camera-ready/nikolay_presentation.pdf)
 
 
 ### Papers
+- 2022 [Deep Lossless Compression Algorithm Based on Arithmetic Coding for Power Data](https://www.mdpi.com/1424-8220/22/14/5331/pdf)
+- 2021 [Lightweight Real-Time Lossless Software Compression of Trace Data](https://liu.diva-portal.org/smash/get/diva2:1599019/FULLTEXT01.pdf)
 - 2017 [LZ4m: A Fast Compression Algorithm for In-Memory Data](http://csl.snu.ac.kr/papers/icce17.pdf)
 - 2014 [Lossless Compression of Weather Radar Data Using Open-Source Software Implementations](http://www.ece.uah.edu/~dwpan/papers/WaRH2014.pdf)
 - 2007 [Overview of Radar Data Compression](http://www.cimms.ou.edu/~lakshman/Papers/radarcompression.pdf)
+- 2006 [Fast Lossless Compression of Scientific Floating-Point Data](https://userweb.cs.txstate.edu/~mb92/papers/dcc06.pdf)
 
 
