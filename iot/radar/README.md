@@ -10,6 +10,7 @@
 
 ### Information
 - [mmwave](https://openradar.readthedocs.io/en/latest/)
+- [LZ4](https://lz4.github.io/lz4/)
 - [Zstandard](https://facebook.github.io/zstd/)
 
 
@@ -21,6 +22,7 @@
 
 
 ### Open Source (Codec)
+- [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [klauspost/compress](https://github.com/klauspost/compress/) - Optimized Go Compression Packages
 	- [klauspost/compress//zstd](https://github.com/klauspost/compress/tree/master/zstd) 
 - [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
