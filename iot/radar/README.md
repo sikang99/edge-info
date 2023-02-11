@@ -23,6 +23,7 @@
 
 ### Open Source (Codec)
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
+- [bkaradzic/go-lz4](https://github.com/bkaradzic/go-lz4) - Port of LZ4 lossless compression algorithm to Go
 - [klauspost/compress](https://github.com/klauspost/compress/) - Optimized Go Compression Packages
 	- [klauspost/compress//zstd](https://github.com/klauspost/compress/tree/master/zstd) 
 - [DataDog/zstd](https://github.com/DataDog/zstd) - Zstd wrapper for Go
