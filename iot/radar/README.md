@@ -33,6 +33,7 @@
 
 
 ### Papers
+- 2017 [LZ4m: A Fast Compression Algorithm for In-Memory Data](http://csl.snu.ac.kr/papers/icce17.pdf)
 - 2014 [Lossless Compression of Weather Radar Data Using Open-Source Software Implementations](http://www.ece.uah.edu/~dwpan/papers/WaRH2014.pdf)
 - 2007 [Overview of Radar Data Compression](http://www.cimms.ou.edu/~lakshman/Papers/radarcompression.pdf)
 
