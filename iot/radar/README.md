@@ -12,6 +12,8 @@
 
 ### Information
 - [mmwave](https://openradar.readthedocs.io/en/latest/)
+- [SkyRadar](https://www.skyradar.com/)
+- [Robin Radr](https://www.robinradar.com/) - Radar Systems for Small Object Tracking
 - [LZ4](https://lz4.github.io/lz4/)
 - [Zstandard](https://facebook.github.io/zstd/)
 
