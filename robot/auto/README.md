@@ -4,6 +4,7 @@
 ### Articles
 - 2022/11/29 [Open-source digital twin-oriented autonomous driving simulator](https://www.eenewseurope.com/en/open-source-digital-twin-oriented-autonomous-driving-simulator/)
 - 2022/08/23 [MIT Scientists Release Open-Source Photorealistic Simulator for Autonomous Driving](https://scitechdaily.com/mit-scientists-release-open-source-photorealistic-simulator-for-autonomous-driving/)
+- 2022/03/29 [Apex.AI Leverages ROS for Autonomous Driving](https://www.eetimes.eu/apex-ai-leverages-ros-for-autonomous-driving/)
 - 2021/01/06 [Top 8 Autonomous Driving Open Source Projects One Must Try Hands-On](https://analyticsindiamag.com/top-8-autonomous-driving-open-source-projects-one-must-try-hands-on/)
 
 
