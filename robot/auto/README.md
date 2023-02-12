@@ -3,7 +3,7 @@
 
 ### Articles
 - 2022/08/23 [MIT Scientists Release Open-Source Photorealistic Simulator for Autonomous Driving](https://scitechdaily.com/mit-scientists-release-open-source-photorealistic-simulator-for-autonomous-driving/)
-
+- 2021/01/06 [Top 8 Autonomous Driving Open Source Projects One Must Try Hands-On](https://analyticsindiamag.com/top-8-autonomous-driving-open-source-projects-one-must-try-hands-on/)
 
 
 ### Informaton
