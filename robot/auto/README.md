@@ -19,6 +19,8 @@
 - [TIER IV](https://www.tier4.jp/)
 - [Web.Auto](https://web.auto/)
 - [Open Robotics](https://www.openrobotics.org/)
+- [Quasi](https://www.quasi.ai/)
+- [Apex](https://www.apex.ai/) - Enabling software-defined vehicles
 
 
 ### Open Source
