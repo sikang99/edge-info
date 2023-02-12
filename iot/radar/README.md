@@ -53,4 +53,7 @@
 - 2007 [Overview of Radar Data Compression](http://www.cimms.ou.edu/~lakshman/Papers/radarcompression.pdf)
 - 2006 [Fast Lossless Compression of Scientific Floating-Point Data](https://userweb.cs.txstate.edu/~mb92/papers/dcc06.pdf)
 
+### Papers (Domestic)
+- 2017 [해상 표적의 실제 레이다 측정 데이터를 이용한 ISAR 영상 형성 기법 성능 비교](http://www.jkiees.org/archive/view_article?pid=jkiees-28-9-740)
+
 
