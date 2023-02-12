@@ -13,6 +13,7 @@
 - [DriveBlock](https://www.driveblocks.ai/) 
 - [apollo](https://developer.apollo.auto/)
 - [Autoware](https://www.autoware.org/)
+- [AWSIM](https://tier4.github.io/AWSIM/)
 - [Web.Auto](https://web.auto/)
 
 
