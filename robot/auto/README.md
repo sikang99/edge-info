@@ -8,7 +8,7 @@
 
 
 ### Informaton
-- [MUSHR](https://mushr.io/)
+- [MuSHR](https://mushr.io/)
 - [MIT RACECAR](https://racecar.mit.edu/)
 - [F1TENTH](https://f1tenth.org/)
 - [DriveBlock](https://www.driveblocks.ai/) 
