@@ -13,6 +13,8 @@
 - [DriveBlock](https://www.driveblocks.ai/) 
 - [apollo](https://developer.apollo.auto/)
 - [Autoware](https://www.autoware.org/)
+- [Web.Auto](https://web.auto/)
+
 
 
 ### Open Source
