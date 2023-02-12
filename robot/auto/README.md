@@ -14,6 +14,7 @@
 - [apollo](https://developer.apollo.auto/)
 - [Autoware](https://www.autoware.org/)
 - [AWSIM](https://tier4.github.io/AWSIM/)
+- [TIER IV](https://www.tier4.jp/)
 - [Web.Auto](https://web.auto/)
 
 
@@ -21,9 +22,15 @@
 ### Open Source
 - [ApolloAuto](https://github.com/ApolloAuto) - An open autonomous driving platform
 - [autowarefoundation](https://github.com/autowarefoundation) - Open-source software for self-driving vehicles
+- [tier4](https://github.com/tier4) 
+- [mit-racecar](https://github.com/mit-racecar) - Rapid Autonomous Complex-Environment Competing Ackermann-steering Robot
+- [prl-mushr](https://github.com/prl-mushr) - Multi agent System for non-Holonomic Racing
 - [OpenPodcar](https://github.com/OpenPodcar) 
 
 
 ### Papers
 - 2022 [Remote Driving Control With Real-Time Video Streaming Over Wireless Networks: Design and Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9797698)
+- 2022 [OpenPodcar: an Open Source Vehicle for Self-Driving Car Research](https://arxiv.org/abs/2205.04454)
+- 2019 [MuSHR: A Low-Cost, Open-Source Robotic Racecar for Education and Research](https://arxiv.org/abs/1908.08031)
+- 
 
