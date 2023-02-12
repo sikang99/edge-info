@@ -11,11 +11,13 @@
 - [MIT RACECAR](https://racecar.mit.edu/)
 - [F1TENTH](https://f1tenth.org/)
 - [DriveBlock](https://www.driveblocks.ai/) 
+- [apollo](https://developer.apollo.auto/)
+- [Autoware](https://www.autoware.org/)
 
 
 ### Open Source
-- [
-
+- [ApolloAuto](https://github.com/ApolloAuto) - An open autonomous driving platform
+- [autowarefoundation](https://github.com/autowarefoundation) - Open-source software for self-driving vehicles
 
 
 
