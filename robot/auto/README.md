@@ -34,6 +34,7 @@
 
 
 ### Papers
+- 2022 [Data Exchange Techniques for Internet of Robotic Things: Recent Developments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9902973)
 - 2022 [Remote Driving Control With Real-Time Video Streaming Over Wireless Networks: Design and Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9797698)
 - 2022 [Autonomous Vehicles on the Edge: A Survey on Autonomous Vehicle Racing](https://arxiv.org/abs/2202.07008)
 - 2022 [OpenPodcar: an Open Source Vehicle for Self-Driving Car Research](https://arxiv.org/abs/2205.04454)
