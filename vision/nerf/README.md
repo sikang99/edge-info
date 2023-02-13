@@ -60,6 +60,7 @@
 - [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
 - [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
+- [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
 
 
 ### Videos
