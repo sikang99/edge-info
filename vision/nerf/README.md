@@ -58,6 +58,7 @@
 - [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
 - [Laser: Latent Set Representations for 3D Generative Modeling](https://laser-nv-paper.github.io/)
 - [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
+- [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
 
 
 ### Videos
@@ -84,7 +85,7 @@
 - [facebookresearch/KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF) - KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints
 - [tum-vision/intrinsic-neural-fields](https://github.com/tum-vision/intrinsic-neural-fields) - [ECCV '22] Intrinsic Neural Fields: Learning Functions on Manifolds
 - [nerfstudio-project/nerfstudio/](https://github.com/nerfstudio-project/nerfstudio/) - A collaboration friendly studio for NeRFs
-
+- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 
 
 ### Papers
