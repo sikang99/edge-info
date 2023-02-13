@@ -40,6 +40,7 @@
 
 
 ### Projects
+- [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
@@ -82,10 +83,12 @@
 - [MIT-SPARK/Loc-NeRF](https://github.com/MIT-SPARK/Loc-NeRF) - Monte Carlo Localization using Neural Radiance Fields
 - [facebookresearch/KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF) - KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints
 - [tum-vision/intrinsic-neural-fields](https://github.com/tum-vision/intrinsic-neural-fields) - [ECCV '22] Intrinsic Neural Fields: Learning Functions on Manifolds
+- [nerfstudio-project/nerfstudio/](https://github.com/nerfstudio-project/nerfstudio/) - A collaboration friendly studio for NeRFs
 
 
 
 ### Papers
+- 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
 - 2022 [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/)
 - 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pd)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
