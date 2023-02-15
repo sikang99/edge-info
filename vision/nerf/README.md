@@ -1,6 +1,7 @@
 ## NeRF : Neural Radiation Fields
 
 - LoRA: Low-Rank Adaptation of Large Language Models for fine-tunning
+- Parameter-Efficient Fine-tuning (PEFT)
 
 
 ### Articles
