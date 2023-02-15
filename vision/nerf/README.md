@@ -1,9 +1,11 @@
 ## NeRF : Neural Radiation Fields
 
+- LoRA: Low-Rank Adaptation of Large Language Models for fine-tunning
 
 
 ### Articles
 - 2023/01/27 [Comprehensive Guide: Top Computer Vision Resources All in One Blog](https://medium.com/mlearning-ai/comprehensive-guide-top-computer-vision-resources-all-in-one-blog-b55df920d964)
+- 2023/01/26 [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
 - 2023/01/01 [This Artificial Intelligence (AI) Paper From South Korea Proposes FFNeRV: A Novel Frame-Wise Video Representation Using Frame-Wise Flow Maps And Multi-Resolution Temporal Grids](https://www.marktechpost.com/2023/01/01/this-artificial-intelligence-ai-paper-from-south-korea-proposes-ffnerv-a-novel-frame-wise-video-representation-using-frame-wise-flow-maps-and-multi-resolution-temporal-grids/)
 - 2022/12/05 [Latest Artificial Intelligence (AI) Paper From Alibaba Proposes VQRF, A Novel Compression Framework Designed For Volumetric Radiance Fields Like DVGO And Plenoxels](https://www.marktechpost.com/2022/12/05/latest-artificial-intelligence-ai-paper-from-alibaba-proposes-vqrf-a-novel-compression-framework-designed-for-volumetric-radiance-fields-like-dvgo-and-plenoxels/)
 - 2022//11/29 [Meet ‘Magic3D’: An AI-Based Text-to-3D Content Creation Tool That Creates 3D Mesh Models With Unprecedented Quality](https://www.marktechpost.com/2022/11/29/meet-magic3d-an-ai-based-text-to-3d-content-creation-tool-that-creates-3d-mesh-models-with-unprecedented-quality/)
