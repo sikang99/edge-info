@@ -64,6 +64,7 @@
 - [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
+- [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
 
 
 ### Videos
