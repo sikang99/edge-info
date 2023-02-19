@@ -6,6 +6,7 @@
 
 
 ### Information
+- [wiki/Telepresence](https://en.wikipedia.org/wiki/Telepresence)
 - [Misa](https://www.heymisa.com/)
 
 
