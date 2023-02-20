@@ -18,6 +18,7 @@
 - [ConstantPark/DL_Compiler](https://github.com/ConstantPark/DL_Compiler) - Study Group of Deep Learning Compiler
 
 ### Slides
+- 2022 [Making Deep Learning More Portable with Deep Learning Compiler](https://www.aspdac.com/aspdac2022/taoka/pdf/5A-1.pdf)
 - 2022 [Compilers for AI](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/presentations/M3-compilers-for-AI.pptx)
 - 2019 [Deep Learning Compilers](https://ucbrise.github.io/cs294-ai-sys-sp19/assets/lectures/lec12/dl-compilers.pdf)
 
