@@ -35,5 +35,6 @@
 - 2022 [Towards Neural Architecture-Aware Exploration Of Compiler Optimizations in a Deep Learning {Graph} Compiler](https://bpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/6/1671/files/2022/07/Towards-Neural-Architecture-Aware-Exploration-Of-Compiler-Optimizations-in-a-Deep-Learning-Graph-Compiler.pdf)
 - 2022 [Metamorphic Testing of Deep Learning Compilers](https://dl.acm.org/doi/abs/10.1145/3508035)
 - 2020 [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
+- 2019 [Relay: A High-Level Compiler for Deep Learning](https://arxiv.org/abs/1904.08368)
 - 2018 [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf)
 
