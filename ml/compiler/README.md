@@ -7,6 +7,9 @@
 - 2020/12/11 [Deep Learning Compilers](https://soham-bhure18.medium.com/deep-learning-compilers-b53379bc8f4f)
 - 2019/09/12 [Google’s ML Compiler Initiative Advances](https://www.enterpriseai.news/2019/09/12/googles-ml-compiler-initiative-advances/)
 
+### Articles (Korean)
+- 2022/01/12 [[DL] TVM 이란?](https://wooono.tistory.com/408)
+
 
 ### Information
 - [Apache TVM](https://tvm.apache.org/)
