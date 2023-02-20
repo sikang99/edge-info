@@ -8,14 +8,17 @@
 
 
 ### Information
+- [Apache TVM](https://tvm.apache.org/)
 - TensorFlow: [XLA: Optimizing Compiler for Machine Learning](https://www.tensorflow.org/xla)
 - [Amazon SageMaker Training Compiler](https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html)
+- [Graph compilers for AI training and inference](https://www.sodalite.eu/sites/sodalite/files/public/content-files/articles/graph-compilers-proof2-blog.pdf)
 
 
 ### Open Source
 - [ConstantPark/DL_Compiler](https://github.com/ConstantPark/DL_Compiler) - Study Group of Deep Learning Compiler
 
 ### Slides
+- 2022 [Compilers for AI](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/presentations/M3-compilers-for-AI.pptx)
 - 2019 [Deep Learning Compilers](https://ucbrise.github.io/cs294-ai-sys-sp19/assets/lectures/lec12/dl-compilers.pdf)
 
 
@@ -24,5 +27,5 @@
 - 2022 [Towards Neural Architecture-Aware Exploration Of Compiler Optimizations in a Deep Learning {Graph} Compiler](https://bpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/6/1671/files/2022/07/Towards-Neural-Architecture-Aware-Exploration-Of-Compiler-Optimizations-in-a-Deep-Learning-Graph-Compiler.pdf)
 - 2022 [Metamorphic Testing of Deep Learning Compilers](https://dl.acm.org/doi/abs/10.1145/3508035)
 - 2020 [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
-
+- 2018 [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://www.usenix.org/system/files/osdi18-chen.pdf)
 
