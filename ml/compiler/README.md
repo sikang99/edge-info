@@ -8,6 +8,7 @@
 
 ### Information
 - TensorFlow: [XLA: Optimizing Compiler for Machine Learning](https://www.tensorflow.org/xla)
+- [Amazon SageMaker Training Compiler](https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html)
 
 
 ### Open Source
