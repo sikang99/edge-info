@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/08/26 [Introducing nvFuser, a deep learning compiler for PyTorch](https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/)
 - 2021/04/28 [Graph Compilers for Deep Learning: Definition, Pros & Cons, and Popular Examples](https://deci.ai/blog/graph-compilers/)
 - 2020/12/11 [Deep Learning Compilers](https://soham-bhure18.medium.com/deep-learning-compilers-b53379bc8f4f)
 
