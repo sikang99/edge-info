@@ -15,6 +15,7 @@
 - [Apache TVM](https://tvm.apache.org/)
 - TensorFlow: [XLA: Optimizing Compiler for Machine Learning](https://www.tensorflow.org/xla)
 - [Amazon SageMaker Training Compiler](https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html)
+- Microsoft: [Deep Learning Compiler and Optimizer](https://www.microsoft.com/en-us/research/project/deep-learning-compiler-and-optimizer/)
 - [Graph compilers for AI training and inference](https://www.sodalite.eu/sites/sodalite/files/public/content-files/articles/graph-compilers-proof2-blog.pdf)
 - [MLIR: Multi-Level IR Compiler Framework](https://mlir.llvm.org/)
 
