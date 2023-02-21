@@ -6,6 +6,7 @@
 
 
 ### Information
+- [wiki/INDI](https://en.wikipedia.org/wiki/Instrument_Neutral_Distributed_Interface)
 - [INDI Library](https://www.indilib.org/)
 - [INDIGO](https://www.indigo-astronomy.org/)
 - [Open Astro](https://www.openastro.net/)
