@@ -8,6 +8,7 @@
 ### Information
 - [wiki/INDI](https://en.wikipedia.org/wiki/Instrument_Neutral_Distributed_Interface)
 - [INDI Library](https://www.indilib.org/)
+	- [INDI Protocol Version 1.7](http://www.clearskyinstitute.com/INDI/INDI.pdf)
 - [INDIGO](https://www.indigo-astronomy.org/)
 - [Open Astro](https://www.openastro.net/)
 - [CloudMakers](https://www.cloudmakers.eu/) - INDIGO, xINDI
