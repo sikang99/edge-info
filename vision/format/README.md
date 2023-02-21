@@ -9,7 +9,8 @@
 - [wiki/WebM](https://en.wikipedia.org/wiki/WebM)
 - [libEBML](https://matroska-org.github.io/libebml/index.html) 
 - [Matrosk](https://www.matroska.org/index.html)
-	-[Matroska Streaming](https://www.matroska.org/technical/streaming.html) 
+	- [Streaming](https://www.matroska.org/technical/streaming.html) 
+	- [Codec Mappings](https://www.matroska.org/technical/codec_specs.html)
 
 
 ### Open Source (Go)
