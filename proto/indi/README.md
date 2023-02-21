@@ -8,6 +8,8 @@
 ### Information
 - [INDI Library](https://www.indilib.org/)
 - [INDIGO](https://www.indigo-astronomy.org/)
+- [Open Astro](https://www.openastro.net/)
+
 
 
 ### Open Source
