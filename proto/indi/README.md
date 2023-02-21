@@ -10,7 +10,7 @@
 - [INDI Library](https://www.indilib.org/)
 - [INDIGO](https://www.indigo-astronomy.org/)
 - [Open Astro](https://www.openastro.net/)
-
+- [CloudMakers](https://www.cloudmakers.eu/) - INDIGO, xINDI
 
 
 ### Open Source
