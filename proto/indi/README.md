@@ -11,6 +11,7 @@
 	- [INDI Protocol Version 1.7](http://www.clearskyinstitute.com/INDI/INDI.pdf)
 - [INDIGO](https://www.indigo-astronomy.org/)
 - [Open Astro](https://www.openastro.net/)
+- [Open Astro Project](https://www.openastroproject.org/)
 - [CloudMakers](https://www.cloudmakers.eu/) - INDIGO, xINDI
 
 
