@@ -16,6 +16,7 @@
 ### Open Source (Go)
 - [at-wat/ebml-go](https://github.com/at-wat/ebml-go) - A pure Go implementation of bi-directional EBML encoder/decoder
 - [quadrifoglio/go-mkv](https://github.com/quadrifoglio/go-mkv) - Matroska/WebM parsing for the Go Programming Language
+- [remko/go-mkvparse](https://github.com/remko/go-mkvparse) - Fast Matroska parser in Go
 
 
 ### Open Source
