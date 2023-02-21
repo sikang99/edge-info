@@ -29,3 +29,8 @@
 - [rlancaste/AstroPi3](https://github.com/rlancaste/AstroPi3) - 
 - [trlsmax/TinyAstro](https://github.com/trlsmax/TinyAstro) - cripts to build TinyAstro image
 - [rkaczorek/astroberry-diy](https://github.com/rkaczorek/astroberry-diy) - Astroberry-DIY provides INDI drivers for Raspberry Pi devices such us Astroberry Focuser - stepper motor driver with autospeed feature, Astroberry Board - power switch board allowing for remote powering on/off up to 4 devices.
+
+
+### Papers
+- 2022 [3D printed telescopes: an interesting tool for teaching Astronomy, Science and Technology](https://upcommons.upc.edu/bitstream/handle/2117/370839/SSEA_2022_244.pdf)
+
