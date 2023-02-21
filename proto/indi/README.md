@@ -2,7 +2,8 @@
 
 
 ### Articles
-
+- 2022/09/16 [Your Mission: Deliver a Winning Raspberry Pi Project to Space](https://www.makeuseof.com/deliver-winning-raspberry-pi-poject-space/)
+- 2021/09/13 [European Astro Pi Challenge is back](https://community.element14.com/products/raspberry-pi/b/blog/posts/european-astro-pi-challenge-is-back)
 
 
 ### Information
@@ -14,6 +15,8 @@
 - [Open Astro Project](https://www.openastroproject.org/)
 - [CloudMakers](https://www.cloudmakers.eu/) - INDIGO, xINDI
 - [AstroBerry](https://www.astroberry.io/)
+- [ASCOM](https://ascom-standards.org/)
+- [Astro Pi](https://astro-pi.org/)
 
 
 ### Open Source
