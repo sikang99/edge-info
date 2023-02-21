@@ -19,4 +19,5 @@
 
 ### Open Source
 - [Matroska-Org/libebml](https://github.com/Matroska-Org/libebml) - a C++ library to parse EBML files 
+- [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification) - Matroska specification
 
