@@ -23,3 +23,5 @@
 - [indigo-astronomy](https://github.com/indigo-astronomy) - INDIGO is a system of standards and a framework for astronomy software development.
 	- [indigo-astronomy/indigo](https://github.com/indigo-astronomy/indigo) - INDIGO is a system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 - [rlancaste/AstroPi3](https://github.com/rlancaste/AstroPi3) - 
+- [trlsmax/TinyAstro](https://github.com/trlsmax/TinyAstro) - cripts to build TinyAstro image
+- [rkaczorek/astroberry-diy](https://github.com/rkaczorek/astroberry-diy) - Astroberry-DIY provides INDI drivers for Raspberry Pi devices such us Astroberry Focuser - stepper motor driver with autospeed feature, Astroberry Board - power switch board allowing for remote powering on/off up to 4 devices.
