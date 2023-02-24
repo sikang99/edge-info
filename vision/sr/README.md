@@ -18,3 +18,4 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy
 - [sjmoran/CURL](https://github.com/sjmoran/CURL) - Code for the ICPR 2020 paper: "CURL: Neural Curve Layers for Image Enhancement"
 - [TaoWangzj/LLFormer](https://github.com/TaoWangzj/LLFormer) - The code release of paper "AAAI Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method", AAAI 2023
+- [krasserm/super-resolution](https://github.com/krasserm/super-resolution) - Tensorflow 2.x based implementation of EDSR, WDSR and SRGAN for single image super-resolution
