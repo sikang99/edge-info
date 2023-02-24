@@ -92,6 +92,7 @@
 - [tum-vision/intrinsic-neural-fields](https://github.com/tum-vision/intrinsic-neural-fields) - [ECCV '22] Intrinsic Neural Fields: Learning Functions on Manifolds
 - [nerfstudio-project/nerfstudio/](https://github.com/nerfstudio-project/nerfstudio/) - A collaboration friendly studio for NeRFs
 - [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
+- [lukemelas/realfusion](https://github.com/lukemelas/realfusion) - 
 
 
 ### Papers
