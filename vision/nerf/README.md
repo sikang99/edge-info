@@ -65,7 +65,7 @@
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
 - [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
-
+- [**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**](https://ustc3dv.github.io/ndr/)
 
 ### Videos
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://www.youtube.com/watch?v=JtBS4KBcKVc)
