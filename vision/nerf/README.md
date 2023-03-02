@@ -93,6 +93,7 @@
 - [nerfstudio-project/nerfstudio/](https://github.com/nerfstudio-project/nerfstudio/) - A collaboration friendly studio for NeRFs
 - [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 - [lukemelas/realfusion](https://github.com/lukemelas/realfusion) - 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
 
 ### Papers
