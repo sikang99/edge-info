@@ -66,7 +66,9 @@
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
 - [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
 - [**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**](https://ustc3dv.github.io/ndr/)
-- [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/)
+- [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
+- [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
+
 
 
 ### Videos
