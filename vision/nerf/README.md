@@ -70,7 +70,7 @@
 - [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
 - [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/)
-
+- [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/)
 
 
 ### Videos
