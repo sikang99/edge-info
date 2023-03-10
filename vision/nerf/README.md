@@ -73,6 +73,7 @@
 - 2021 [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - 2021 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
 - 2021 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/)
+- 2021 [PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/)
 - 2020 [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
 
 
@@ -108,6 +109,7 @@
 
 ### Papers
 - 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
+- 2022 [RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering](https://arxiv.org/abs/2212.01120)
 - 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
 - 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
