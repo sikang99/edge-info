@@ -119,6 +119,7 @@
 
 ### Papers
 - 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
+- 2022 [PERF: Performant, Explicit Radiance Fields](https://www.frontiersin.org/articles/10.3389/fcomp.2022.871808/full)
 - 2022 [RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering](https://arxiv.org/abs/2212.01120)
 - 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
