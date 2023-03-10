@@ -87,6 +87,10 @@
 - [Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 
 
+### Slides
+- [Spring 2022 CS580 Student Presentation: NeRF, Plenoxels](http://sgvr.kaist.ac.kr/~sungeui/GCG_S22/Student_Presentations/CS580_PaperPresentation_dgkim.pdf)
+
+
 ### Open Source
 - [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations and NeRF papers relating to SLAM/Robotics domain, including papers, video, codes, and related websites
