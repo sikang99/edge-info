@@ -44,6 +44,10 @@
 
 
 ### Projects
+- 2023 [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
+- 2022 [**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**](https://ustc3dv.github.io/ndr/)
+- 2022 [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/)
+- 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 - [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
@@ -66,12 +70,8 @@
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
 - [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
-- [**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**](https://ustc3dv.github.io/ndr/)
-- [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
 - [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/)
-- [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/)
-- 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 
 
 
