@@ -17,7 +17,6 @@
 	- *Instant NeRF* is a neural rendering model that learns a high-resolution 3D scene in seconds — and can render images of that scene in a few milliseconds
 - 2022/03/17 [Guide: Neural Radiance Field (NeRF)](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
 - 2022/02/12 [Create Realistic 3D Renderings with AI!](https://www.louisbouchard.ai/neroic/) - NeROIC
-- 2021/12/21 [NeRF : Neural Radiance Field(2)](https://animilux.github.io/research/2021/12/21/nerf2.html)
 - 2021/10/11 [NeRF at ICCV 2021](https://dellaert.github.io/NeRF21/)
 
 
