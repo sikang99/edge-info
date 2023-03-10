@@ -29,6 +29,7 @@
 
 
 ### Persons
+- [Mason McGough](https://medium.com/@masonmcgough)
 - [Towaki Takikawa](https://tovacinni.github.io/)
 - [Neural Fields in Visual Computing](https://neuralfields.cs.brown.edu/)
 
