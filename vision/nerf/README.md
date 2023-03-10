@@ -47,6 +47,13 @@
 - 2023 [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
 - 2023 [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io/)
 - 2023 [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/)
+- 2023 [PV3D: A 3D Generative Model for Portrait Video Generation](https://showlab.github.io/pv3d/)
+- 2023 [Laser: Latent Set Representations for 3D Generative Modeling](https://laser-nv-paper.github.io/)
+- 2023 [nerfstudio](https://docs.nerf.studio/en/latest/)
+- 2023 [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
+- 2023 [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
+- 2023 [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
+- 2023 [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/)
 - 2022 [**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**](https://ustc3dv.github.io/ndr/)
 - 2022 [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/)
 - 2022 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
@@ -58,20 +65,13 @@
 - 2022 [ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization](https://zubair-irshad.github.io/projects/ShAPO.html)
 - 2022 [NeROIC: Neural Object Capture and Rendering from Online Image Collections](https://formyfamily.github.io/NeROIC/)
 - 2022 [Neural Correspondence Field for Object Pose Estimation](https://linhuang17.github.io/NCF/)
+- 2022 [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
+- 2022 [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
+- 2022 [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
 - 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 - 2021 [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - 2021 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
 - 2020 [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
-- [PV3D: A 3D Generative Model for Portrait Video Generation](https://showlab.github.io/pv3d/)
-- [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
-- [Laser: Latent Set Representations for 3D Generative Modeling](https://laser-nv-paper.github.io/)
-- [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
-- [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
-- [nerfstudio](https://docs.nerf.studio/en/latest/)
-- [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
-- [3D-aware Blending with Generative NeRFs](https://blandocs.github.io/blendnerf)
-- [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
-- [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/)
 
 
 
