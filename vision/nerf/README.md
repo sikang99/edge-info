@@ -85,6 +85,7 @@
 - 2021 [PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/)
 - 2021 [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/)
 - 2020 [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
+- 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
 
 
 
