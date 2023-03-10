@@ -72,6 +72,7 @@
 - 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 - 2021 [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - 2021 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
+- 2021 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/)
 - 2020 [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
 
 
