@@ -13,6 +13,7 @@
 - 2022//11/29 [Meet ‘Magic3D’: An AI-Based Text-to-3D Content Creation Tool That Creates 3D Mesh Models With Unprecedented Quality](https://www.marktechpost.com/2022/11/29/meet-magic3d-an-ai-based-text-to-3d-content-creation-tool-that-creates-3d-mesh-models-with-unprecedented-quality/)
 - 2022/11/25 [**How Neural Radiance Fields (NeRF) and Instant Neural Graphics Primitives work**](https://theaisummer.com/nerf/)
 - 2022/09/30 [NeRF at NeurIPS 2022](https://markboss.me/post/nerf_at_neurips22/) ⭐
+- 2022/08/24 [Hovering Around a Large Scene with Neural Radiance Field](https://ailabs.tw/smart-city/hovering-around-a-large-scene-with-neural-radiance-field/)
 - 2022/06/21 [NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/) ⭐
 - 2022/04/28 [It’s NeRF From Nothing: Build A Complete NeRF with PyTorch](https://towardsdatascience.com/its-nerf-from-nothing-build-a-vanilla-nerf-with-pytorch-7846e4c45666)
 - 2022/03/25 [NVIDIA Research Turns 2D Photos Into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
