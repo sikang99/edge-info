@@ -68,6 +68,7 @@
 - 2022 [Scene Representation Transformer](https://srt-paper.github.io/) - Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
 - 2022 [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
 - 2022 [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
+- 2022 [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/)
 - 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 - 2021 [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - 2021 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
@@ -106,9 +107,8 @@
 
 ### Papers
 - 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
-- 2022 [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/)
-- 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pd)
+- 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)
 - 2022 [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379)
 - 2022 [NeRF: representing scenes as neural radiance fields for view synthesis](https://dl.acm.org/doi/10.1145/3503250)
-- 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934v2.pdf)
+- 2020 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934v2)
 
