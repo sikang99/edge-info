@@ -69,6 +69,7 @@
 - 2022 [SDF Studio - A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/)
 - 2022 [MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://mobile-nerf.github.io/)
 - 2022 [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/)
+- 2022 [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition](https://me.kiui.moe/radnerf/)
 - 2021 [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf/)
 - 2021 [Nerfies: Deformable Neural Radiance Fields](https://github.com/nerfies/nerfies.github.io)
 - 2021 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://yenchenlin.me/inerf/) 
