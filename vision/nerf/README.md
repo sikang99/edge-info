@@ -63,7 +63,7 @@
 - 2022 [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/)
 - 2022 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - 2022 [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
-- 2022 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- 2022 [*Instant Neural Graphics Primitives with a Multiresolution Hash Encoding*](https://nvlabs.github.io/instant-ngp/)
 - 2022 [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://cassiepython.github.io/nerfart/)
 - 2022 [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://palettenerf.github.io/)
 - 2022 [FFNeRV: Flow-Guided Frame-Wise Neural Representations for Videos](https://maincold2.github.io/ffnerv/)
