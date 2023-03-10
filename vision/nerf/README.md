@@ -41,6 +41,7 @@
 - [NeRF (Neural Radiance Fields)](https://paperswithcode.com/dataset/nerf)
 - [nerfstudio](https://docs.nerf.studio/en/latest/)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
+- KAIST [Visual Computing Lab](https://vclab.kaist.ac.kr/)
 
 
 ### Projects
