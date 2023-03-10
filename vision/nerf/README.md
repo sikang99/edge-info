@@ -45,8 +45,8 @@
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 - KAIST [Visual Computing Lab](https://vclab.kaist.ac.kr/)
 - [**Neural Radiance Fields - The latest news and updates**](https://neuralradiancefields.io/) 👍 
-- [COLMAP](https://colmap.github.io/) - general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline
-
+- [COLMAP – SfM and MVS](https://demuc.de/colmap/)
+	- [COLMAP Documentation](https://colmap.github.io/) - general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline
 
 
 ### Projects
