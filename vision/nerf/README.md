@@ -106,6 +106,7 @@
 
 ### Slides
 - [Spring 2022 CS580 Student Presentation: NeRF, Plenoxels](http://sgvr.kaist.ac.kr/~sungeui/GCG_S22/Student_Presentations/CS580_PaperPresentation_dgkim.pdf)
+- 2022 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.cs.utexas.edu/~robertom/cs391r_fall2022/slides/2022-09-06-NeRF-Elvin-Yang.pdf)
 
 
 ### Open Source
