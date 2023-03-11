@@ -5,6 +5,7 @@
 
 
 ### Articles
+- 2023/02/26 [What is a NeRF and how can this technology help VR, AR, and the metaverse](https://mixed-news.com/en/what-is-a-nerf-and-how-can-this-technology-help-vr-ar-and-the-metaverse/)
 - 2023/01/27 [Comprehensive Guide: Top Computer Vision Resources All in One Blog](https://medium.com/mlearning-ai/comprehensive-guide-top-computer-vision-resources-all-in-one-blog-b55df920d964)
 - 2023/01/26 [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
 - 2023/01/06 [NeRF-ing the world around us: An overview of how Avataar is using NeRFs to make 3D globally accessible](https://www.avataar.ai/blog/nerf-ing-the-world-around-us)
