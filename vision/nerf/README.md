@@ -53,6 +53,7 @@
 
 
 ### Projects
+- 2023 [**Scaling up GANs for Text-to-Image Synthesis**](https://mingukkang.github.io/GigaGAN/) 👍
 - 2023 [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - 2023 [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
 - 2023 [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io/)
