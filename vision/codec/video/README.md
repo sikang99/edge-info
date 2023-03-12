@@ -1,7 +1,8 @@
 ## Codec: Video
 
 - MPEG Compression of Neural Network (NNC)
-	- NNEF, ONNX
+	- Neural Network Exchange Format (NNEF), Khronos
+	- Open Neural Network Exchange (ONNX), Microsoft
 
 
 ### Articles
