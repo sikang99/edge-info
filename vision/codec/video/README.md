@@ -1,5 +1,7 @@
 ## Codec: Video
 
+- MPEG Compression of Neural Network (NNC)
+
 
 ### Articles
 - 2022/09/14 [Open source machine learning for video compression](https://www.collabora.com/news-and-blog/blog/2022/09/14/open-source-machine-learning-for-video-compression/)
