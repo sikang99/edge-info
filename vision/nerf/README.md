@@ -3,6 +3,9 @@
 - LoRA: Low-Rank Adaptation of Large Language Models for fine-tunning
 - Parameter-Efficient Fine-tuning (PEFT)
 
+- Neural Radiation Fields (NeRF)
+- Neural Light Field (NeLF)
+
 
 ### Articles
 - 2023/02/26 [What is a NeRF and how can this technology help VR, AR, and the metaverse](https://mixed-news.com/en/what-is-a-nerf-and-how-can-this-technology-help-vr-ar-and-the-metaverse/)
