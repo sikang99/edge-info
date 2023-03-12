@@ -2,7 +2,7 @@
 
 - MPEG Compression of Neural Network (NNC)
 	- Neural Network Exchange Format (NNEF), Khronos
-	- Open Neural Network Exchange (ONNX), Microsoft
+	- Open Neural Network Exchange (ONNX), Microsoft, Facebook
 
 
 ### Articles
