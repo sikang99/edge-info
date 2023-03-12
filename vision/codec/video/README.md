@@ -1,6 +1,7 @@
 ## Codec: Video
 
 - MPEG Compression of Neural Network (NNC)
+	- NNEF, ONNX
 
 
 ### Articles
