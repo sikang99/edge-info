@@ -57,6 +57,7 @@
 
 
 ### Projects
+- 2023 [Slow Motion "Bullet Time" with NeRFs](https://labs.laan.com/blogs/slow-motion-bullet-time-with-nerf-neural-radiance-fields/)
 - 2023 [**Scaling up GANs for Text-to-Image Synthesis**](https://mingukkang.github.io/GigaGAN/) 👍
 - 2023 [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - 2023 [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
@@ -96,6 +97,7 @@
 - 2021 [PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/)
 - 2021 [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/)
 - 2020 [DepthLab: Real-Time 3D interaction with Depth Maps for mobile augmented reality](https://augmentedperception.github.io/depthlab/)
+- 2020 [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html)
 - 2020 [**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**](https://www.matthewtancik.com/nerf)
 
 
