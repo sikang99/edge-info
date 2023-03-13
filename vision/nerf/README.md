@@ -57,7 +57,7 @@
 
 
 ### Projects
-- 2023 [Slow Motion "Bullet Time" with NeRFs](https://labs.laan.com/blogs/slow-motion-bullet-time-with-nerf-neural-radiance-fields/)
+- 2023 [**Slow Motion "Bullet Time" with NeRFs**](https://labs.laan.com/blogs/slow-motion-bullet-time-with-nerf-neural-radiance-fields/)
 - 2023 [**Scaling up GANs for Text-to-Image Synthesis**](https://mingukkang.github.io/GigaGAN/) 👍
 - 2023 [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - 2023 [**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**](https://merf42.github.io/)
