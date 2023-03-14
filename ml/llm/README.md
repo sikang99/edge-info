@@ -1,6 +1,7 @@
 ## LLM : Large Language Model 
 
 - VLM : Vision and Language Model
+- VNM : Visual Navigation Model
 - Foundation Model
 - Big Model
 
@@ -29,4 +30,5 @@
 ### Papers
 - 2022 [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429)
 - 2022 [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
+- 2022 [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 
