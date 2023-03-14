@@ -11,6 +11,7 @@
 - 2023/03/14 [You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi](https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/)
 - 2023/03/13 [Alpaca: A Strong Open-Source Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - 2023/00/00 ----
+- 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
 - 2022/06/22 [DeepMind Trains 80 Billion Parameter AI Vision-Language Model Flamingo](https://www.infoq.com/news/2022/06/deepmind-flamingo-vlm/)
 - 2022/05/02 [Foundation Models and the Future of Multi-Modal AI](https://lastweekin.ai/p/multi-modal-ai)
 
@@ -21,6 +22,7 @@
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 - [BLIP-2: A new Visual Language Model by Salesforce](https://wandb.ai/gladiator/BLIP-2/reports/BLIP-2-A-new-Visual-Language-Model-by-Salesforce--VmlldzozNjM0NjYz)
 - OpenAI [CLIP: Connecting text and images](https://openai.com/research/clip)
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/)
 
 
 ### Videos 
