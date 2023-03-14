@@ -46,6 +46,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
 - [zengyan-97/X2-VLM](https://github.com/zengyan-97/X2-VLM) - All-In-One VLM: Image + Video + Transfer to Other Languages / Domains
+- [ejsalin/vlm-probing](https://github.com/ejsalin/vlm-probing)
 
 
 ### Papers
