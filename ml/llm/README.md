@@ -6,7 +6,7 @@
 
 
 ### Articles
-
+- 2023/03/13 [Alpaca: A Strong Open-Source Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 
 
 ### Information
