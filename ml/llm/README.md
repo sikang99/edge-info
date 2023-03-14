@@ -37,6 +37,7 @@
 
 
 ### Open Source
+- [Georgelingzj/up-to-date-Vision-Language-Models](https://github.com/Georgelingzj/up-to-date-Vision-Language-Models) - Up-to-date Vision Language Models collection. Mainly focus on computer vision
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
 
