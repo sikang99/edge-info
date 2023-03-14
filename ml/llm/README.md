@@ -16,6 +16,7 @@
 - [Large Language Model (LLM)](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
 - [Standford Alpaca](https://crfm.stanford.edu/alpaca/)
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
+- [BLIP-2: A new Visual Language Model by Salesforce](https://wandb.ai/gladiator/BLIP-2/reports/BLIP-2-A-new-Visual-Language-Model-by-Salesforce--VmlldzozNjM0NjYz)
 
 
 ### Videos 
