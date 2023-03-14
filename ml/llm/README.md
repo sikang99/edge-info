@@ -1,10 +1,9 @@
 ## LLM : Large Language Model 
 
-- VLM : Vision and Language Model
+- VLM : Vision(Video) Language Model
 - VNM : Visual Navigation Model
 - ALM : Augmented Language Models
-- Foundation Model
-- Big Model
+- Foundation Model, Big Model
 
 
 ### Articles
