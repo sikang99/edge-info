@@ -138,6 +138,7 @@
 
 
 ### Papers
+- 2023 [Compressing Explicit Voxel Grid Representations: fast NeRFs become also small](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Compressing_Explicit_Voxel_Grid_Representations_Fast_NeRFs_Become_Also_Small_WACV_2023_paper.pdf)
 - 2023 [Inspection-Nerf: Rendering Multi-Type Local Images for Dam Surface Inspection Task Using Climbing Robot and Neural Radiance Field](https://www.mdpi.com/2075-5309/13/1/213)
 - 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
 - 2022 [Research on 3D reconstruction technology of large-scale substation equipment based on NeRF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/smt2.12131)
