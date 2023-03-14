@@ -29,6 +29,7 @@
 - OpenAI [CLIP: Connecting text and images](https://openai.com/research/clip)
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/)
 - [F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://sites.google.com/view/f-vlm/home)
+- [Open-World Object Manipulation using Pre-Trained Vision-Language Models](https://robot-moo.github.io/)
 
 
 
