@@ -48,6 +48,7 @@
 - [Georgelingzj/up-to-date-Vision-Language-Models](https://github.com/Georgelingzj/up-to-date-Vision-Language-Models) - Up-to-date Vision Language Models collection. Mainly focus on computer vision
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Code for reproducing the Stanford Alpaca InstructLLaMA result on consumer hardware
 - [zengyan-97/X2-VLM](https://github.com/zengyan-97/X2-VLM) - All-In-One VLM: Image + Video + Transfer to Other Languages / Domains
 - [ejsalin/vlm-probing](https://github.com/ejsalin/vlm-probing)
 
