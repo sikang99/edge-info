@@ -1,6 +1,6 @@
 ## LLM : Large Language Model 
 
-- VLM : Very Large Model
+- VLM : Vision and Language Model
 - Foundation Model
 - Big Model
 
