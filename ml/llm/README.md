@@ -46,6 +46,7 @@
 
 
 ### Papers
+- 2023 [Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities](https://www.mdpi.com/1424-8220/23/4/2182)
 - 2023 [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)
 - 2023 [F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)
 - 2022 [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429)
