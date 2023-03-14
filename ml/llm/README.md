@@ -23,3 +23,6 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
 
 
+### Papers
+- 2022 [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
+
