@@ -2,6 +2,7 @@
 
 - VLM : Vision and Language Model
 - VNM : Visual Navigation Model
+- ALM : Augmented Language Models
 - Foundation Model
 - Big Model
 
