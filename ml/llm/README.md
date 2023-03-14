@@ -36,6 +36,8 @@
 
 ### Videos 
 - [한국인공지능아카데미](https://www.youtube.com/@aiacademy131)
+- [거꾸로 읽는 AI 이야기](https://www.youtube.com/@gokkulearn)
+	- [VLM backbone에 대한 트렌드를 알아보자!](https://www.youtube.com/watch?v=NgxSbyoiQYM)
 
 
 ### Open Source
