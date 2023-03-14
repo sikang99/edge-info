@@ -15,6 +15,7 @@
 - 2023/02/16 [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
 - 2023/00/00 ----
 - 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
+- 2022/07/28 [Grounding Language Models for Spatial Reasoning](https://julenetxaniz.eus/en/project/spatial-reasoning/)
 - 2022/06/22 [DeepMind Trains 80 Billion Parameter AI Vision-Language Model Flamingo](https://www.infoq.com/news/2022/06/deepmind-flamingo-vlm/)
 - 2022/06/09 [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
 - 2022/05/02 [Foundation Models and the Future of Multi-Modal AI](https://lastweekin.ai/p/multi-modal-ai)
