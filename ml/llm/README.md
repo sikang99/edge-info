@@ -16,6 +16,7 @@
 - 2023/00/00 ----
 - 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
 - 2022/06/22 [DeepMind Trains 80 Billion Parameter AI Vision-Language Model Flamingo](https://www.infoq.com/news/2022/06/deepmind-flamingo-vlm/)
+- 2022/06/09 [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
 - 2022/05/02 [Foundation Models and the Future of Multi-Modal AI](https://lastweekin.ai/p/multi-modal-ai)
 - 2022/04/28 [Tackling multiple tasks with a single visual language model](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 
@@ -47,6 +48,7 @@
 
 
 ### Papers
+- 2023 [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730)
 - 2023 [Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities](https://www.mdpi.com/1424-8220/23/4/2182)
 - 2023 [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)
 - 2023 [F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)
