@@ -23,6 +23,7 @@
 
 
 ### Information
+- [OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/index.html]
 - [A Catalog of Transformer Models](https://orkg.org/comparison/R385010/)
 - [Large Language Model (LLM)](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
 - [Standford Alpaca](https://crfm.stanford.edu/alpaca/)
