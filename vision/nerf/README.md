@@ -57,6 +57,7 @@
 
 
 ### Projects
+- 2023 [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/)
 - 2023 [**Slow Motion "Bullet Time" with NeRFs**](https://labs.laan.com/blogs/slow-motion-bullet-time-with-nerf-neural-radiance-fields/)
 - 2023 [**Scaling up GANs for Text-to-Image Synthesis**](https://mingukkang.github.io/GigaGAN/) 👍
 - 2023 [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
