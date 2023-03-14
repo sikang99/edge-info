@@ -14,6 +14,10 @@
 - [Standford Alpaca](https://crfm.stanford.edu/alpaca/)
 
 
+### Videos 
+- [한국인공지능아카데미](https://www.youtube.com/@aiacademy131)
+
+
 ### Open Source
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
