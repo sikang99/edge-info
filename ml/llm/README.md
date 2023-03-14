@@ -27,5 +27,6 @@
 
 
 ### Papers
+- 2022 [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429)
 - 2022 [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
 
