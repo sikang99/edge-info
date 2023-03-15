@@ -7,7 +7,7 @@
 
 
 ### Information
-
+- [High-Resolution Image Synthesis with Latent Diffusion Models (A.K.A. LDM & Stable Diffusion)](https://ommer-lab.com/research/latent-diffusion-models/)
 
 
 ### Open Source
