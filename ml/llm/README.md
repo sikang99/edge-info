@@ -7,6 +7,7 @@
 
 
 ### Articles
+- 2023/03/15 [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 - 2023/03/08 [Google’s PaLM-E is a generalist robot brain that takes commands](https://arstechnica.com/information-technology/2023/03/embodied-ai-googles-palm-e-allows-robot-control-with-natural-commands/)
 - 2023/03/08 [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
 - 2023/03/14 [You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi](https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/)
