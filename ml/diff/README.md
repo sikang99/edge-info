@@ -8,6 +8,8 @@
 
 ### Information
 - [High-Resolution Image Synthesis with Latent Diffusion Models (A.K.A. LDM & Stable Diffusion)](https://ommer-lab.com/research/latent-diffusion-models/)
+- [MeshDiffusion: Score-based Generative 3D Mesh Modeling](https://meshdiffusion.github.io/)
+
 
 
 ### Open Source
