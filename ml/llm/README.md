@@ -75,4 +75,5 @@
 - 2022 [X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks](https://arxiv.org/abs/2211.12402)
 - 2022 [Pre-Trained Word Embedding and Language Model Improve Multimodal Machine Translation: A Case Study in Multi30K](https://ieeexplore.ieee.org/document/9803016)
 - 2022 [VLMbench: A Benchmark for Vision-and-Language Manipulation](https://embodied-ai.org/papers/2022/6.pdf)
+- 2022 [UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
 - 2021 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993)
