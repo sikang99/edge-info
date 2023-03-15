@@ -14,6 +14,7 @@
 - 2023/03/13 [Alpaca: A Strong Open-Source Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - 2023/02/24 [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - 2023/02/16 [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
+- 2023/02/16 [OpenAI GPT-3 vs PaLM: A comparison of capabilities and differences](https://blog.accubits.com/openai-gpt-3-vs-palm-a-comparison-of-capabilities-and-differences/)
 - 2023/00/00 ----
 - 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
 - 2022/07/28 [Grounding Language Models for Spatial Reasoning](https://julenetxaniz.eus/en/project/spatial-reasoning/)
