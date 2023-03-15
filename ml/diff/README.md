@@ -17,3 +17,4 @@
 - [thu-ml/unidiffuser](https://github.com/thu-ml/unidiffuser) - Code and models for the paper "One Transformer Fits All Distributions in Multi-Modal Diffusion"
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [sayakpaul/xla-benchmark-sd](https://github.com/sayakpaul/xla-benchmark-sd) - Provides code to serialize the different models involved in Stable Diffusion as SavedModels and to compile them with XLA.
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
