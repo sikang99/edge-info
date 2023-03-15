@@ -36,6 +36,7 @@
 - [F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://sites.google.com/view/f-vlm/home)
 - [Open-World Object Manipulation using Pre-Trained Vision-Language Models](https://robot-moo.github.io/)
 - [Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models](https://semantic-abstraction.cs.columbia.edu/)
+- [GPT-4](https://openai.com/research/gpt-4)
 
 
 
