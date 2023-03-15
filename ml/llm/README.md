@@ -67,6 +67,7 @@
 
 
 ### Papers
+- 2023 [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - 2023 [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129)
 - 2023 [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730)
 - 2023 [Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities](https://www.mdpi.com/1424-8220/23/4/2182)
