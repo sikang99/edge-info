@@ -53,6 +53,7 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Code for reproducing the Stanford Alpaca InstructLLaMA result on consumer hardware
 - [zengyan-97/X2-VLM](https://github.com/zengyan-97/X2-VLM) - All-In-One VLM: Image + Video + Transfer to Other Languages / Domains
 - [ejsalin/vlm-probing](https://github.com/ejsalin/vlm-probing)
+- [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 
 
 ### Papers
