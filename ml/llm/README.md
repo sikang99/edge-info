@@ -61,6 +61,7 @@
 - [zengyan-97/X2-VLM](https://github.com/zengyan-97/X2-VLM) - All-In-One VLM: Image + Video + Transfer to Other Languages / Domains
 - [ejsalin/vlm-probing](https://github.com/ejsalin/vlm-probing)
 - [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
+- [google-research/google-research](https://github.com/google-research/google-research) 
 
 
 ### Papers
