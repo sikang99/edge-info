@@ -56,6 +56,7 @@
 
 
 ### Open Source
+- [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [Georgelingzj/up-to-date-Vision-Language-Models](https://github.com/Georgelingzj/up-to-date-Vision-Language-Models) - Up-to-date Vision Language Models collection. Mainly focus on computer vision
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
