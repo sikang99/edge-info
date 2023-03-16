@@ -7,6 +7,7 @@
 
 
 ### Articles
+- 2023/03/15 [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
 - 2023/03/15 [Meet Petals: An Open-Source Artificial Intelligence (AI) System That Can Run 100B+ Language Models At Home Bit-Torrent Style](https://www.marktechpost.com/2023/03/15/meet-petals-an-open-source-artificial-intelligence-ai-system-that-can-run-100b-language-models-at-home-bit-torrent-style/)
 - 2023/03/15 [The Sensitive Side of ChatGPT](https://www.hackster.io/news/the-sensitive-side-of-chatgpt-d2f5fd4fd4d2)
 - 2023/03/15 [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
