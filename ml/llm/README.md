@@ -48,7 +48,7 @@
 	- [GPT-4 Product](https://openai.com/product/gpt-4)
 - [Petals](https://petals.ml/)
 - [Powerful language models a click away](https://www.forefront.ai/)
-
+- [Guardrails.ai](https://shreyar.github.io/guardrails/)
 
 
 ### Videos 
@@ -73,7 +73,7 @@
 - [KarolynW/GPT-4-Snake-AI](https://github.com/KarolynW/GPT-4-Snake-AI) - The project demonstrates how AI can create a simple AI to play the classic Snake game.
 - [mithril-security/blindai](https://github.com/mithril-security/blindai) - Confidential AI deployment with secure enclaves
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
-
+- [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models
 
 
 ### Open Source (Go)
