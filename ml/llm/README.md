@@ -68,9 +68,13 @@
 - [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 - [google-research/google-research](https://github.com/google-research/google-research) 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [KarolynW/GPT-4-Snake-AI](https://github.com/KarolynW/GPT-4-Snake-AI) - The project demonstrates how AI can create a simple AI to play the classic Snake game.
+- [mithril-security/blindai](https://github.com/mithril-security/blindai) - Confidential AI deployment with secure enclaves
+
 
 ### Open Source (Go)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [cornelk/llama-go](https://github.com/cornelk/llama-go) - Port of Facebook's LLaMA (Large Language Model Meta AI) in Golang with embedded C/C++
 
 
 ### Papers
