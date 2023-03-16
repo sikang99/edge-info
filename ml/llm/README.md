@@ -49,6 +49,7 @@
 - [Petals](https://petals.ml/)
 - [Powerful language models a click away](https://www.forefront.ai/)
 - [Guardrails.ai](https://shreyar.github.io/guardrails/)
+- [Dalai](https://cocktailpeanut.github.io/dalai/#/) - Run LLaMA on your computer
 
 
 ### Videos 
