@@ -82,6 +82,7 @@
 
 
 ### Papers
+- 2023 [**Self-planning Code Generation with Large Language Model**](https://arxiv.org/abs/2303.06689)
 - 2023 [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - 2023 [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129)
 - 2023 [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730)
