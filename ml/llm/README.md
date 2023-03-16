@@ -1,5 +1,6 @@
 ## LLM : Large Language Model 
 
+- MMLU : Massive Multitask Language Understanding
 - VLM : Vision(Video) Language Model
 - VNM : Visual Navigation Model
 - ALM : Augmented Language Models
@@ -33,6 +34,7 @@
 
 
 ### Information
+- [HELM](https://crfm.stanford.edu/helm/latest/) - LLM Benchmarks
 - [OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/index.html]
 - [A Catalog of Transformer Models](https://orkg.org/comparison/R385010/)
 - [Large Language Model (LLM)](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
