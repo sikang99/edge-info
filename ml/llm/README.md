@@ -10,6 +10,7 @@
 - 2023/03/15 [Meet Petals: An Open-Source Artificial Intelligence (AI) System That Can Run 100B+ Language Models At Home Bit-Torrent Style](https://www.marktechpost.com/2023/03/15/meet-petals-an-open-source-artificial-intelligence-ai-system-that-can-run-100b-language-models-at-home-bit-torrent-style/)
 - 2023/03/15 [The Sensitive Side of ChatGPT](https://www.hackster.io/news/the-sensitive-side-of-chatgpt-d2f5fd4fd4d2)
 - 2023/03/15 [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
+- 2023/03/14 [On the Global AI [Il]Literacy: Real AI vs. Fake AI vs. HI](https://www.linkedin.com/pulse/real-ai-vs-fake-which-machine-intelligence-humanity-needs-abdoullaev/)
 - 2023/03/14 [Google opens up its AI language model PaLM to challenge OpenAI and GPT-3](https://www.theverge.com/2023/3/14/23639313/google-ai-language-model-palm-api-challenge-openai)
 - 2023/03/08 [Google’s PaLM-E is a generalist robot brain that takes commands](https://arstechnica.com/information-technology/2023/03/embodied-ai-googles-palm-e-allows-robot-control-with-natural-commands/)
 - 2023/03/08 [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
