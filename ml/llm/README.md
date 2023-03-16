@@ -70,6 +70,8 @@
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [KarolynW/GPT-4-Snake-AI](https://github.com/KarolynW/GPT-4-Snake-AI) - The project demonstrates how AI can create a simple AI to play the classic Snake game.
 - [mithril-security/blindai](https://github.com/mithril-security/blindai) - Confidential AI deployment with secure enclaves
+- [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
+
 
 
 ### Open Source (Go)
