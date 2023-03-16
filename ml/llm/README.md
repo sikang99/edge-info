@@ -7,6 +7,7 @@
 
 
 ### Articles
+- 2023/03/15 [Meet Petals: An Open-Source Artificial Intelligence (AI) System That Can Run 100B+ Language Models At Home Bit-Torrent Style](https://www.marktechpost.com/2023/03/15/meet-petals-an-open-source-artificial-intelligence-ai-system-that-can-run-100b-language-models-at-home-bit-torrent-style/)
 - 2023/03/15 [The Sensitive Side of ChatGPT](https://www.hackster.io/news/the-sensitive-side-of-chatgpt-d2f5fd4fd4d2)
 - 2023/03/15 [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 - 2023/03/14 [Google opens up its AI language model PaLM to challenge OpenAI and GPT-3](https://www.theverge.com/2023/3/14/23639313/google-ai-language-model-palm-api-challenge-openai)
@@ -43,6 +44,8 @@
 - [Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models](https://semantic-abstraction.cs.columbia.edu/)
 - [GPT-4](https://openai.com/research/gpt-4)
 	- [GPT-4 Product](https://openai.com/product/gpt-4)
+- [Petals](https://petals.ml/)
+- [Powerful language models a click away](https://www.forefront.ai/)
 
 
 
@@ -64,6 +67,9 @@
 - [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 - [google-research/google-research](https://github.com/google-research/google-research) 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+
+### Open Source (Go)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 
 
 ### Papers
