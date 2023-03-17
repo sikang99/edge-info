@@ -77,6 +77,7 @@
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
+- [gbaeke/gpt-vectors](https://github.com/gbaeke/gpt-vectors) 
 
 
 ### Open Source (Emmbedded)
