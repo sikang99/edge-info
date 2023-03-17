@@ -1,10 +1,12 @@
 ## LLM : Large Language Model 
 
-- MMLU : Massive Multitask Language Understanding
+- LLM : Large Language Model
 - VLM : Vision(Video) Language Model
 - VNM : Visual Navigation Model
 - ALM : Augmented Language Models
+- MMLU : Massive Multitask Language Understanding
 - Foundation Model, Big Model
+- CoT : Chain of Thought
 
 
 ### Articles
@@ -109,4 +111,5 @@
 - 2022 [Pre-Trained Word Embedding and Language Model Improve Multimodal Machine Translation: A Case Study in Multi30K](https://ieeexplore.ieee.org/document/9803016)
 - 2022 [VLMbench: A Benchmark for Vision-and-Language Manipulation](https://embodied-ai.org/papers/2022/6.pdf)
 - 2022 [UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
+- 2022 [Emergent Abilities of Large Language Models](https://openreview.net/forum?id=yzkSU5zdwD)
 - 2021 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993)
