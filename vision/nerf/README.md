@@ -57,6 +57,7 @@
 
 
 ### Projects
+- 2023 [Modulating Pretrained Diffusion Models for Multimodal Image Synthesis](https://mcm-diffusion.github.io/)
 - 2023 [XRNeRF Advances in NeRF for the Metaverse](https://sites.google.com/view/xrnerf/)
 - 2023 [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/)
 - 2023 [**Slow Motion "Bullet Time" with NeRFs**](https://labs.laan.com/blogs/slow-motion-bullet-time-with-nerf-neural-radiance-fields/)
