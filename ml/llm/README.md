@@ -64,8 +64,6 @@
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [Georgelingzj/up-to-date-Vision-Language-Models](https://github.com/Georgelingzj/up-to-date-Vision-Language-Models) - Up-to-date Vision Language Models collection. Mainly focus on computer vision
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Code for reproducing the Stanford Alpaca InstructLLaMA result on consumer hardware
 - [zengyan-97/X2-VLM](https://github.com/zengyan-97/X2-VLM) - All-In-One VLM: Image + Video + Transfer to Other Languages / Domains
@@ -80,6 +78,11 @@
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 
+
+### Open Source (Emmbedded)
+- [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 
 
 ### Open Source (Go)
