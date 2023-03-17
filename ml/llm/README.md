@@ -8,6 +8,7 @@
 
 
 ### Articles
+- 2023/03/16 [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316)
 - 2023/03/16 [Pinecone and OpenAI magic: A guide to finding your long lost blog posts with vectorized search and ChatGPT](https://blog.baeke.info/2023/03/16/pinecone-and-openai-magic-a-guide-to-finding-your-long-lost-blog-posts-with-vectorized-search-and-chatgpt/)
 - 2023/03/15 [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
 - 2023/03/15 [Meet Petals: An Open-Source Artificial Intelligence (AI) System That Can Run 100B+ Language Models At Home Bit-Torrent Style](https://www.marktechpost.com/2023/03/15/meet-petals-an-open-source-artificial-intelligence-ai-system-that-can-run-100b-language-models-at-home-bit-torrent-style/)
