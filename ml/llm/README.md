@@ -8,6 +8,9 @@
 - Foundation Model, Big Model
 - CoT : Chain of Thought
 
+### Education
+- Standfor : [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+
 
 ### Articles
 - 2023/03/16 [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316)
