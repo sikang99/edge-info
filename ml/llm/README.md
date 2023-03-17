@@ -59,6 +59,7 @@
 - [Powerful language models a click away](https://www.forefront.ai/)
 - [Guardrails.ai](https://shreyar.github.io/guardrails/)
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/) - Run LLaMA on your computer
+- [ViperGPT: Visual Inference via Python Execution for Reasoning](https://viper.cs.columbia.edu/)
 
 
 ### Videos 
