@@ -85,12 +85,16 @@
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [gbaeke/gpt-vectors](https://github.com/gbaeke/gpt-vectors) 
+- [zeno-ml/zeno-evals](https://github.com/zeno-ml/zeno-evals) - Visualize OpenAI Evals with Zeno
+- [https://github.com/openai/evals](https://github.com/openai/evals) - 
 
 
-### Open Source (Emmbedded)
+
+### Open Source (Embedded)
 - [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
 
 ### Open Source (Go)
