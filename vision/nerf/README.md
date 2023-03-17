@@ -5,6 +5,7 @@
 
 - Neural Radiation Fields (NeRF)
 - Neural Light Field (NeLF)
+- Multimodal Conditioning Module (MCM)
 
 
 ### Articles
