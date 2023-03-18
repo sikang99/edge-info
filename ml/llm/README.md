@@ -87,7 +87,8 @@
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [gbaeke/gpt-vectors](https://github.com/gbaeke/gpt-vectors) 
 - [zeno-ml/zeno-evals](https://github.com/zeno-ml/zeno-evals) - Visualize OpenAI Evals with Zeno
-- [https://github.com/openai/evals](https://github.com/openai/evals) - 
+- [openai/evals](https://github.com/openai/evals) - 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
 
 
 
