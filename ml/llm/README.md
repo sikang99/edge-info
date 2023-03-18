@@ -104,6 +104,7 @@
 
 
 ### Open Source (Go)
+- [AlmazDelDiablo/gpt3-5-turbo-go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go) - Golang client for official API of ChatGPT (GPT-3.5-turbo)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [cornelk/llama-go](https://github.com/cornelk/llama-go) - Port of Facebook's LLaMA (Large Language Model Meta AI) in Golang with embedded C/C++
 
