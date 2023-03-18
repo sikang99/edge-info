@@ -42,7 +42,7 @@
 
 
 ### Information
-- [LangChain](https://langchain.readthedocs.io/en/latest/#) - 0.0.115
+- [**LangChain**](https://langchain.readthedocs.io/en/latest/#) - 0.0.115
 - [HELM](https://crfm.stanford.edu/helm/latest/) - LLM Benchmarks
 - [OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/index.html]
 - [A Catalog of Transformer Models](https://orkg.org/comparison/R385010/)
