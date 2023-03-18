@@ -20,6 +20,7 @@
 
 ### Papers
 - 2023 [PTA-Det: Point Transformer Associating Point Cloud and Image for 3D Object Detection](https://www.mdpi.com/1424-8220/23/6/3229)
+- 2022 [RPPformer-Flow: Relative Position Guided Point Transformer for Scene Flow Estimation](https://dl.acm.org/doi/abs/10.1145/3503161.3547771)
 - 2022 [Local Transformer Network on 3D Point Cloud Semantic Segmentation](https://mdpi-res.com/d_attachment/information/information-13-00198/article_deploy/information-13-00198-v3.pdf)
 - 2022 [Point Cloud Learning with Transformer](https://assets.researchsquare.com/files/rs-2200447/v1_covered.pdf)
 - 2022 [PVT: Point-voxel transformer for point cloud learning](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23073)
