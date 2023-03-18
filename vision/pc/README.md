@@ -8,7 +8,7 @@
 
 
 ### Information
-
+- [Point Transformer](https://deepai.org/publication/point-transformer)
 
 
 ### Open Source
