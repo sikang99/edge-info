@@ -22,6 +22,7 @@
 ### Papers
 - 2023 [PTA-Det: Point Transformer Associating Point Cloud and Image for 3D Object Detection](https://www.mdpi.com/1424-8220/23/6/3229)
 - 2022 [**Transformers in 3D Point Clouds: A Survey**](https://arxiv.org/abs/2205.07417)
+- 2022 [Transformer and Upsampling-Based Point Cloud Compression](https://dl.acm.org/doi/abs/10.1145/3552457.3555731)
 - 2022 [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling ](https://arxiv.org/abs/2210.05666)
 - 2022 [SPoVT: Semantic-Prototype Variational Transformer for Dense Point Cloud Semantic Completion](https://research.nvidia.com/publication/2022-11_spovt-semantic-prototype-variational-transformer-dense-point-cloud-semantic)
 - 2022 [RPPformer-Flow: Relative Position Guided Point Transformer for Scene Flow Estimation](https://dl.acm.org/doi/abs/10.1145/3503161.3547771)
