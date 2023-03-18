@@ -26,6 +26,7 @@
 - 2023/03/14 [You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi](https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/)
 - 2023/03/13 [Alpaca: A Strong Open-Source Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - 2023/02/28 [Inside LLaMA: Meta AI New Large Language Model that Outperforms GPT-3 Across Many Tasks](https://pub.towardsai.net/inside-llama-meta-ai-new-large-language-model-that-outperforms-gpt-3-across-many-tasks-d1e42f23c804)
+- 2023/02/25 [Getting started with LangChain — A powerful tool for working with Large Language Models](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
 - 2023/02/24 [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - 2023/02/18 [Understanding Google's GPT-Killer- The Revolutionary Pathways Architecture](https://artificialintelligencemadesimple.substack.com/p/understanding-googles-revolutionary)
 - 2023/02/16 [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
