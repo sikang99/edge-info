@@ -36,6 +36,7 @@
 - 2023/02/16 [OpenAI GPT-3 vs PaLM: A comparison of capabilities and differences](https://blog.accubits.com/openai-gpt-3-vs-palm-a-comparison-of-capabilities-and-differences/)
 - 2023/00/00 ----
 - 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
+- 2022/11/14 [The State of Multilingual AI](https://www.ruder.io/state-of-multilingual-ai/)
 - 2022/07/28 [Grounding Language Models for Spatial Reasoning](https://julenetxaniz.eus/en/project/spatial-reasoning/)
 - 2022/06/22 [DeepMind Trains 80 Billion Parameter AI Vision-Language Model Flamingo](https://www.infoq.com/news/2022/06/deepmind-flamingo-vlm/)
 - 2022/06/09 [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
