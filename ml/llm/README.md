@@ -118,6 +118,7 @@
 
 
 ### Papers
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
 - 2023 [**Self-planning Code Generation with Large Language Model**](https://arxiv.org/abs/2303.06689)
 - 2023 [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - 2023 [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129)
