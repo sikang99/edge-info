@@ -47,6 +47,7 @@
 
 
 ### Information
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [**LangChain**](https://langchain.readthedocs.io/en/latest/#) - 0.0.115
 	- [Blog](https://blog.langchain.dev/)
 - [HELM](https://crfm.stanford.edu/helm/latest/) - LLM Benchmarks
@@ -124,6 +125,7 @@
 - 2023 [Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities](https://www.mdpi.com/1424-8220/23/4/2182)
 - 2023 [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)
 - 2023 [F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)
+- 2022 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073#)
 - 2022 [Vision-Language Pre-Training: Basics, Recent Advances, and Future Trends](https://www.nowpublishers.com/article/Details/CGV-105)
 - 2022 [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429)
 - 2022 [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)
