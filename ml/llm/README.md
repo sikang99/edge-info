@@ -100,7 +100,7 @@
 - [zeno-ml/zeno-evals](https://github.com/zeno-ml/zeno-evals) - Visualize OpenAI Evals with Zeno
 - [openai/evals](https://github.com/openai/evals) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
-
+- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 
 
 ### Open Source (Embedded)
