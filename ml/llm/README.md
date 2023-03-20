@@ -34,6 +34,7 @@
 - 2023/02/18 [Understanding Google's GPT-Killer- The Revolutionary Pathways Architecture](https://artificialintelligencemadesimple.substack.com/p/understanding-googles-revolutionary)
 - 2023/02/16 [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
 - 2023/02/16 [OpenAI GPT-3 vs PaLM: A comparison of capabilities and differences](https://blog.accubits.com/openai-gpt-3-vs-palm-a-comparison-of-capabilities-and-differences/)
+- 2023/02/09 [What is Sentient AI and Is it Already Here?](https://www.simplilearn.com/what-is-sentient-ai-article)
 - 2023/00/00 ----
 - 2022/12/15 [Seven research papers push foundation model boundaries](https://snorkel.ai/seven-research-papers-push-foundation-model-boundaries/)
 - 2022/11/14 [The State of Multilingual AI](https://www.ruder.io/state-of-multilingual-ai/)
