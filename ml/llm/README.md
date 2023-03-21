@@ -24,6 +24,7 @@
 - 2023/03/14 [On the Global AI [Il]Literacy: Real AI vs. Fake AI vs. HI](https://www.linkedin.com/pulse/real-ai-vs-fake-which-machine-intelligence-humanity-needs-abdoullaev/)
 - 2023/03/14 [Google opens up its AI language model PaLM to challenge OpenAI and GPT-3](https://www.theverge.com/2023/3/14/23639313/google-ai-language-model-palm-api-challenge-openai)
 - 2023/03/14 [PaLM API & MakerSuite: an approachable way to start prototyping and building generative AI applications](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
+- 2023/03/10 [Large Language Models Don’t “Hallucinate”](https://betterprogramming.pub/large-language-models-dont-hallucinate-b9bdfa202edf)
 - 2023/03/08 [Google’s PaLM-E is a generalist robot brain that takes commands](https://arstechnica.com/information-technology/2023/03/embodied-ai-googles-palm-e-allows-robot-control-with-natural-commands/)
 - 2023/03/08 [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
 - 2023/03/14 [You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi](https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/)
