@@ -102,6 +102,7 @@
 - [openai/evals](https://github.com/openai/evals) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
+- [AlignmentResearch/tuned-lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer
 
 
 ### Open Source (Embedded)
