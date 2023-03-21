@@ -119,6 +119,7 @@
 
 
 ### Papers
+- 2023 [Vision-Language Models as Success Detectors](https://arxiv.org/abs/2303.07280)
 - 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
 - 2023 [**Self-planning Code Generation with Large Language Model**](https://arxiv.org/abs/2303.06689)
 - 2023 [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
