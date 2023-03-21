@@ -81,6 +81,7 @@
 
 
 ### Open Source
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - ntegrate cutting-edge LLM technology quickly and easily into your apps
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [Georgelingzj/up-to-date-Vision-Language-Models](https://github.com/Georgelingzj/up-to-date-Vision-Language-Models) - Up-to-date Vision Language Models collection. Mainly focus on computer vision
