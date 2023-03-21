@@ -58,6 +58,7 @@
 
 
 ### Projects
+- 2023 [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 - 2023 [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/)
 - 2023 [**LERF: Language Embedded Radiance Fields**](https://www.lerf.io/)
 - 2023 [Modulating Pretrained Diffusion Models for Multimodal Image Synthesis](https://mcm-diffusion.github.io/)
