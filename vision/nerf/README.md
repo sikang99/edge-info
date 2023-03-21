@@ -58,7 +58,8 @@
 
 
 ### Projects
-- 2023 [LERF: Language Embedded Radiance Fields](https://www.lerf.io/)
+- 2023 [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/)
+- 2023 [**LERF: Language Embedded Radiance Fields**](https://www.lerf.io/)
 - 2023 [Modulating Pretrained Diffusion Models for Multimodal Image Synthesis](https://mcm-diffusion.github.io/)
 - 2023 [XRNeRF Advances in NeRF for the Metaverse](https://sites.google.com/view/xrnerf/)
 - 2023 [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/)
