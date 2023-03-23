@@ -58,6 +58,7 @@
 
 
 ### Projects
+- 2023 [Dense RGB SLAM With Neural Implicit Maps](https://poptree.github.io/DIM-SLAM/)
 - 2023 [Instruct-NeRF2NeRF](https://instruct-nerf2nerf.github.io/)
 - 2023 [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
 - 2023 [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
