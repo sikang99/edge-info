@@ -108,12 +108,17 @@
 - [AlignmentResearch/tuned-lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer
 
 
-### Open Source (Embedded)
+### Open Source (LLaMA, Alpaca)
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) 
+
+### Open Source (Dolly)
+- [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+
 
 
 ### Open Source (Go)
