@@ -116,9 +116,9 @@
 - [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) 
 
+
 ### Open Source (Dolly)
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-
 
 
 ### Open Source (Go)
