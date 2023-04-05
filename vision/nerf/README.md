@@ -58,6 +58,8 @@
 
 
 ### Projects
+- 2023 [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
+- 2023 [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/)
 - 2023 [Dense RGB SLAM With Neural Implicit Maps](https://poptree.github.io/DIM-SLAM/)
 - 2023 [Instruct-NeRF2NeRF](https://instruct-nerf2nerf.github.io/)
 - 2023 [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
