@@ -58,6 +58,7 @@
 
 
 ### Projects
+- 2023 [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/)
 - 2023 [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
 - 2023 [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/)
 - 2023 [Dense RGB SLAM With Neural Implicit Maps](https://poptree.github.io/DIM-SLAM/)
