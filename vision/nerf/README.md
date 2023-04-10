@@ -58,6 +58,7 @@
 
 
 ### Projects
+- 2023 [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/)
 - 2023 [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/)
 - 2023 [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
 - 2023 [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/)
