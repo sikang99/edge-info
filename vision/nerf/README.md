@@ -58,6 +58,7 @@
 
 
 ### Projects
+- 2023 [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM)
 - 2023 [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
 - 2023 [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/)
 - 2023 [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/)
@@ -153,12 +154,15 @@
 - [VITA-Group/NeuralLift-360](https://github.com/VITA-Group/NeuralLift-360) - NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views
 - [jwcho5576/streamable_nf](https://github.com/jwcho5576/streamable_nf) 
 - [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) 
+- [google-research/multinerf](https://github.com/google-research/multinerf) - A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF
+
 
 
 ### Papers
 - 2023 [Compressing Explicit Voxel Grid Representations: fast NeRFs become also small](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Compressing_Explicit_Voxel_Grid_Representations_Fast_NeRFs_Become_Also_Small_WACV_2023_paper.pdf)
 - 2023 [Inspection-Nerf: Rendering Multi-Type Local Images for Dam Surface Inspection Task Using Climbing Robot and Neural Radiance Field](https://www.mdpi.com/2075-5309/13/1/213)
 - 2023 [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://arxiv.org/abs/2302.04264v1)
+- 2022 [InstantXR: Instant XR Environment on the Web Using Hybrid Rendering of Cloud-based NeRF with 3D Assets](https://dl.acm.org/doi/pdf/10.1145/3564533.3564565)
 - 2022 [Generalizable Implicit Neural Representations via Instance Pattern Composers](https://arxiv.org/abs/2211.13223)
 - 2022 [Research on 3D reconstruction technology of large-scale substation equipment based on NeRF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/smt2.12131)
 - 2022 [**RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering**](https://arxiv.org/abs/2212.01120)
